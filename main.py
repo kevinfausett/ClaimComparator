@@ -1,6 +1,7 @@
 from glob import glob
 from pathlib import Path
 from nltk import sent_tokenize
+from ClaimComparatorModel import ClaimComparatorModel
 
 def load():
     documents = {}
@@ -17,7 +18,21 @@ def load():
 
 def main():
     documents = load()
-    print(documents.values())
+    # print(documents['./testCorpus\claim 3-7.txt'][4])
+    posCCM = ClaimComparatorModel(documents['./testCorpus\claim 3-3.txt'][-1])
+    print(posCCM.go())
+    # ['[', 'russell', 'may', 'have', 'won', 'more', 'championships', ']', '[', ',', 'Chamberlain', 'may', 'have',
+    #  'averaged', '50', 'points', 'per', 'game', 'in', 'a', 'single', 'season', ']', '[', 'and', 'Kareem', 'may', 'be',
+    #  'the', 'all-time', 'scoring', 'leader', ']', ',', '[', 'but', 'if', '[', 'you', 'take', 'into', 'consideration',
+    #  'the', 'entire', 'package', ']', ',', 'Michael', 'Jordan', 'is', 'the', 'greatest', 'of', 'all', 'time', '.', ']']
+
+    negCCM = ClaimComparatorModel(documents['./testCorpus\claim 3-7.txt'][4])
+    print(negCCM.go())
+    # ['[', 'tonight', 'is', 'the', 'commencement', 'of', 'the', 'fourth', 'installment', 'of', 'the', 'Warriors-Cavs',
+    #  'Finals', ']', ',', '[', 'which', 'resurrects', 'the', 'biggest', 'debate', 'in', 'basketball', ':', 'Is',
+    #  'LeBron', 'James', 'or', 'the', 'Bulls', "'", 'Michael', 'Jordan', 'the', 'Greatest', 'Player', 'of', 'All-Time',
+    #  '?', ']']
+
 
 main()
 
