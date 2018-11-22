@@ -38,14 +38,17 @@ class ClaimComparatorModel:
 
 # Strips a leading 'the ' from the string if it exists, and replaces all spaces with underscores
 def preprocess_string(string):
-    if string[:4] == 'the ':
-        return string[4:].replace(' ', '_')
-    else:
-        return string.replace(' ', '_')
-
+    if string is not None:
+        if string[:4] == 'the ':
+            return string[4:].replace(' ', '_')
+        else:
+            return string.replace(' ', '_')
+    return string
 
 # Determines if the two given phrases are synonyms
 def are_synonymous(p1, p2):
+    if p1 is None or p2 is None:
+        return p1 is p2
     p1_set = wordnet.synsets(p1)
     p2_set = wordnet.synsets(p2)
     p1_synonyms = []
@@ -71,7 +74,6 @@ def demo(text_here, grammar=None):
         results.append(result)
         print(result)
     return results
-
 
 def save_syntactic_parse(parse_tree, file_name="untitled_save",
                          save_path="../ClaimComparator/testParseTreeCorpus/"):
