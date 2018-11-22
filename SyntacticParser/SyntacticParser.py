@@ -11,8 +11,7 @@ class SyntacticParser:
 
     # The subject of a sentence is defined as the first NP that is a child of an S and sibling of a VP
     # The object of a sentence is defined as the first NP that is a child of a VP
-    # Returns the subject, main verb, and direct object of the sentence as strings or None, else returns None
-    # if it was not passed a sentence
+    # Returns the subject, main verb, and direct object of the sentence as strings, or None if it can't find that element
     @staticmethod
     def parts_of_sentence(parse_tree):
         if parse_tree.label()[0] == 'S':
@@ -34,7 +33,9 @@ class SyntacticParser:
                 subject = None
             return subject, verb, object
         else:
-            return None
+            for phrase in parse_tree:
+                if phrase.label()[0] == 'S':
+                    return SyntacticParser.parts_of_sentence(phrase)
 
     def go(self):
         return self.syntactic_parse()

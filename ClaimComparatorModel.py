@@ -31,14 +31,17 @@ class ClaimComparatorModel:
 
 # Strips a leading 'the ' from the string if it exists, and replaces all spaces with underscores
 def preprocess_string(string):
-    if string[:4] == 'the ':
-        return string[4:].replace(' ', '_')
-    else:
-        return string.replace(' ', '_')
-
+    if string is not None:
+        if string[:4] == 'the ':
+            return string[4:].replace(' ', '_')
+        else:
+            return string.replace(' ', '_')
+    return string
 
 # Determines if the two given phrases are synonyms
 def are_synonymous(p1, p2):
+    if p1 is None or p2 is None:
+        return p1 is p2
     p1_set = wordnet.synsets(p1)
     p2_set = wordnet.synsets(p2)
     p1_synonyms = []
@@ -58,6 +61,8 @@ def are_synonymous(p1, p2):
 
 
 if __name__ == "__main__":
-    text = "The president won the election."
-    ccm = ClaimComparatorModel(text)
-    print(ClaimComparatorModel.claims_equal(ccm.parse_tree, ccm.parse_tree))
+    text1 = "The president says the economy is improving."
+    text2 = "The president claims the economy is improving."
+    ccm1 = ClaimComparatorModel(text1)
+    ccm2 = ClaimComparatorModel(text2)
+    print(ClaimComparatorModel.claims_equal(ccm1.parse_tree, ccm2.parse_tree))
