@@ -7,6 +7,7 @@ from SyntacticParser.SyntacticParser import SyntacticParser
 # from a syntax tree. There are _ criteria for a phrase to qualify as a LS phrase...
 class LogicParser:
     def __init__(self, parse_tree):
+        print("init")
         self.parse_tree = ParentedTree.convert(tree=parse_tree)
         self.left_bracket_indices = []
         self.right_bracket_indices = []
@@ -16,6 +17,7 @@ class LogicParser:
 
     # set_indices: sets the left_bracket_indices and right_bracket_indices parameters
     def set_indices(self):
+        print("set_indices")
         for subtree in self.parse_tree.subtrees():
             if self.is_logic_unit(subtree):
                 absolute_tp_left_edge = subtree.treeposition() + \
@@ -43,6 +45,7 @@ class LogicParser:
 
     # is_logic_unit: returns a boolean which is true if the given tree is an ls unit
     def is_logic_unit(self, tree):
+        print("is logic unit")
         return tree.label() in self.dominant_nodes
 
     # insert_delimiters: inserts brackets arounds
@@ -65,8 +68,9 @@ class LogicParser:
         return self.result
 
 
-text = "Against this backdrop, a rise in violent crime has left some voters yearning for order and security, which Bolsonaro — an ex-military officer — promised to deliver. But his embrace of “law and order” carries alarming undertones, as he has expressed a fondness for the country’s past military dictatorship. His anti-democratic views are just one element of his disturbing rhetoric, though; the president-elect also freely spews misogynistic, anti-LGBTQ, and racist statements."
-# lp = LogicParser(SyntacticParser(text).syntactic_parse())
+# text = "Against this backdrop, a rise in violent crime has left some voters yearning for order and security, which Bolsonaro — an ex-military officer — promised to deliver. But his embrace of “law and order” carries alarming undertones, as he has expressed a fondness for the country’s past military dictatorship. His anti-democratic views are just one element of his disturbing rhetoric, though; the president-elect also freely spews misogynistic, anti-LGBTQ, and racist statements."
+# text = "The dog is lost because it does not have a collar."
+# lp = LogicParser(SyntacticParser(text).go())
 # lp.parse_tree.draw()
 # print(lp.parse_tree)
 # print(lp.dominant_nodes)
