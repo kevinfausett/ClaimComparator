@@ -1,0 +1,680 @@
+"(NP+SBAR+S
+  (S
+    (NP (DT the) (JJ facts) (NN donï¿½t))
+    (VP
+      (VB add)
+      (PRT (RP up))
+      (PP (IN for) (NP (JJ human-caused) (JJ global) (NN warming)))))
+  (S
+    (NP
+      (NP (DT The) (JJ first) (CD five) (NNS months))
+      (PP (IN of) (NP (CD 2014))))
+    (VP
+      (VBP have)
+      (VBN been)
+      (NP
+        (NP (DT the) (NN coldest))
+        (PP
+          (IN since)
+          (NP (DT the) (NNP National) (NNP Weather) (NNP Service))))
+      (VBD began)
+      (VBG keeping)
+      (NP (NP (NNS records)) (PP (IN in) (NP (CD 1888)))))
+    (. .)))"
+"(PRN+SBAR
+  (IN if)
+  (S
+    (NP (JJ ï¿½climate) (NN changeï¿½))
+    (VP
+      (VB alarmists)
+      (VBD got)
+      (SBAR
+        (IN out)
+        (S
+          (NP (JJR more))
+          (, ,)
+          (NP (PRP they))
+          (VP (MD might) (VBP have) (VP (VBN noticed))))))
+    (. .)))"
+"(PRN+SBAR
+  (IN between)
+  (S
+    (NP (CD 1979) (NNS ï¿½))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (NN weather) (NN satellites))
+        (VP
+          (VBD started)
+          (VBG measuring)
+          (VB temperatures)
+          (PP (IN in) (NP (DT the) (JJR lower) (NNS troposphere))))))
+    (NP (JJ ï¿½) (CC and) (CD 1997))
+    (, ,)
+    (NP (PRP they))
+    (VP
+      (VBD rose)
+      (PP
+        (IN about)
+        (NP
+          (NP (CD 1.1) (NNS degrees))
+          (PRN
+            (NP (NNP Celsius))
+            (-LRB- ()
+            (NP (CD 1.98) (NNS degrees))
+            (NP (NNP Fahrenheit))
+            (-RRB- ))))))
+    (. .)))"
+"(RRC+VP
+  (VBN temperatures)
+  (VBN stopped)
+  (S+VP
+    (VBG rising)
+    (S
+      (ADVP (RB then))
+      (, ,)
+      (VP (VBP have) (VBN fallen) (PP (IN since) (NP (CD 2012))))
+      (. .))))"
+"(SQ+VP+VP
+  (NP (DT the) (NN ï¿½pauseï¿½))
+  (PP
+    (IN in)
+    (S+VP
+      (VBG warming)
+      (S
+        (PRN (-LRB- () (NP (CD 212) (NNS months)) (-RRB- )))
+        (VP
+          (VBZ is)
+          (ADVP
+            (ADVP (RB now) (RBR longer))
+            (SBAR
+              (IN than)
+              (S
+                (NP (DT the) (VBG warming) (NN trend))
+                (VP (VBD was)))))
+          (PRN (-LRB- () (NP (CD 211) (NNS months)) (-RRB- ))))
+        (. .)))))"
+"(S
+  (NP (DT the) (NN earth))
+  (VP
+    (VBZ has)
+    (VBN warmed)
+    (PP
+      (IN about)
+      (NP
+        (NP (NP (CD 16) (NNS degrees)) (NN F))
+        (PP (IN since) (NP (DT the) (JJ last) (NN ice) (NN age))))))
+  (. .))"
+"(S
+  (NP
+    (NP (DT the) (JJ net) (NN increase))
+    (PP (IN since) (NP (CD 1979))))
+  (NP (JJ ï¿½) (CD 0.19) (NNS degrees))
+  (NP (NNS C))
+  (PRN (-LRB- () (NP (CD 0.34) (NN F)) (-RRB- )))
+  (VP
+    (VB ï¿½)
+    (VBZ is)
+    (RB well)
+    (PP (IN within) (NP (DT the) (NN range)))
+    (PP (IN of) (NP (JJ natural) (NN fluctuation))))
+  (. .))"
+"(NP+SBAR+S
+  (ADVP (RB so))
+  (S
+    (SBAR
+      (WHADVP (WRB why))
+      (S
+        (, ,)
+        (PP (IN as) (NP (NNP President) (NNP Barack)))
+        (NP (NNP Obama))
+        (VP (VBZ says))))
+    (ADVP (RB so) (RB often))
+    (, ,)
+    (VP
+      (VBP do)
+      (SBAR+S
+        (NP
+          (NP (CD 97) (NN percent))
+          (PP (IN of) (NP (NNS scientists))))
+        (VP
+          (VB agree)
+          (VB climate)
+          (VB change)
+          (VBZ is)
+          (UCP
+            (NN ï¿½real)
+            (, ,)
+            (NN man-made)
+            (, ,)
+            (CC and)
+            (JJ dangerous)))))
+    (. ?))
+  (S
+    (VP (VBZ ï¿½) (SBAR+S (NP (PRP They)) (VP (VBP donï¿½t))))
+    (. .)))"
+"(SINV
+  (S
+    (NP (DT this) (JJ bogus) (NN stat))
+    (VP
+      (VBZ is)
+      (VBN derived)
+      (PP
+        (IN from)
+        (NP
+          (NP (NP (CD two) (NNS questions)) (NN University))
+          (PP (IN of) (NP (NNP Illinois) (NNS researchers)))))))
+  (VP (VBD asked))
+  (S
+    (PP
+      (IN in)
+      (NP (NP (DT a) (NN survey)) (PP (IN of) (NP (NN earth)))))
+    (NP (NP (NNS scientists)) (PP (IN in) (NP (CD 2008))))
+    (: :)
+    (NP (CD 1.) (NNS ï¿½When))
+    (VP
+      (VBN compared)
+      (PP (IN with) (NP (JJ pre-1800s) (NNS levels)))))
+  (, ,)
+  (VP (VBP do))
+  (S
+    (NP (PRP you))
+    (VP
+      (VBP think)
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (VP (VB mean) (NP (JJ global) (NN temperatures)))
+          (VBP have)
+          (ADVP (RB generally))))))
+  (VP (VBZ risen))
+  (, ,)
+  (S
+    (VP
+      (VBN fallen)
+      (, ,)
+      (CC or)
+      (VBD remained)
+      (ADJP (RB relatively) (JJ constant)))
+    (. ?))
+  (VP (VBZ ï¿½))
+  (S
+    (NP (CD 2.) (NNS ï¿½Do))
+    (NP (PRP you))
+    (VP
+      (VBP think)
+      (SBAR+S
+        (NP (JJ human) (NN activity))
+        (VP
+          (VBZ is)
+          (NP (DT a) (JJ significant) (VBG contributing) (NN factor))
+          (SBAR
+            (IN in)
+            (S
+              (VP
+                (VBG changing)
+                (VB mean)
+                (NP (JJ global) (NN temperatures)))
+              (. ?)))))))
+  (VP (VBZ ï¿½))
+  (S
+    (NP (DT The) (NNS researchers))
+    (VP (VBN culled) (PP (IN from) (NP (CD 3,146) (NNS responses)))))
+  (S
+    (NP (NP (DT those)) (PP (IN of) (NP (CD 79) (NNS climate))))
+    (NP (NNS scientists))
+    (VP
+      (VB whoï¿½d)
+      (VBN been)
+      (VBN published)
+      (PP (IN in) (NP (NN peer)))))
+  (NP (JJ reviewed) (NN journals))
+  (. .))"
+"(RRC+VP
+  (VBN Seventy-six)
+  (VBN answered)
+  (VBN ï¿½risenï¿½)
+  (PP (TO to) (NP (DT the) (JJ first) (NN question)))
+  (S+VP
+    (: ;)
+    (S
+      (VP
+        (NP (CD 75) (NNS ï¿½yesï¿½))
+        (PP (TO to) (NP (DT the) (NN second))))
+      (. .))))"
+"(SBARQ
+  (SQ
+    (VBZ temperatures)
+    (VBP have)
+    (NP
+      (NP (NNS risen))
+      (PP (IN since) (NP (DT the) (JJ Little) (NNP Ice) (NNP Age))))
+    (VP
+      (VBD ended)
+      (PP (IN around) (NP (CD 1870) (, ,) (NN skeptics) (VB agree)))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (JJS most)
+    (VP
+      (VBP think)
+      (SBAR+S
+        (NP
+          (NP (DT the) (NNS activities))
+          (PP (IN of) (NP (NNS humans))))
+        (VP
+          (VB have)
+          (NP
+            (DT some)
+            (NP (NN effect))
+            (PP (IN on) (NP (PRP them))))))))
+  (. .))"
+"(NP+S
+  (NP (DT the) (JJ key) (NN question))
+  (VP
+    (VBZ is)
+    (SBAR
+      (IN whether)
+      (S
+        (PP (IN that) (NP (NN effect)))
+        (VP
+          (VBZ is)
+          (ADJP
+            (JJ big)
+            (JJ enough)
+            (S+VP
+              (TO to)
+              (VP
+                (VBP do)
+                (UCP (NN harm) (, ,) (CC but) (JJ thatï¿½s)))))
+          (SBAR
+            (RB not)
+            (WHNP (WDT what) (NP (DT the) (NNS scientists)))
+            (S+VP (VBD were) (VP (VBN asked)))))
+        (. .)))))"
+"(NP+SBAR+S
+  (S
+    (NP (NNP john) (NNP Cook))
+    (, ,)
+    (NP (JJ climate) (JJ communication) (NN fellow))
+    (PRN
+      (-LRB- ()
+      (NP (DT a) (NN publicist))
+      (, ,)
+      (NP (RB not) (DT a) (JJ climate) (NN scientist))
+      (-RRB- )))
+    (PP
+      (IN at)
+      (NP
+        (NP
+          (NP (DT the) (NN University))
+          (PP (IN of) (NP (NNP Queensland))))
+        (PP (IN in) (NP (NNP Australia)))))
+    (CC and)
+    (NP (CD eight) (NNS colleagues))
+    (NP
+      (NP
+        (NP (JJ examined) (NN abstracts))
+        (PP (IN of) (NP (CD 11,944) (NNS articles))))
+      (PP (IN on) (NP (NN climate))))
+    (VP (VBN published) (PP (IN between) (NP (CD 1991)))))
+  (S
+    (CC and)
+    (NP (CD 2011.) (NNS ï¿½Among))
+    (VP (VB abstracts) (VBG expressing) (NP (DT a) (NN position)))
+    (. .)))"
+(. .)
+(. .)
+"(SINV
+  (S
+    (NP (CD 97.1) (NN percent))
+    (VP
+      (VBD endorsed)
+      (SBAR+S
+        (NP
+          (NP (DT the) (JJ consensus) (NN position))
+          (PP (IN that) (NP (NNS humans))))
+        (VP (VBP are) (VBG causing) (NP (JJ global) (NN warming))))))
+  (, ,)
+  (VP (VBZ ï¿½))
+  (S
+    (NP (PRP they))
+    (VP (VBD concluded) (PP (IN in) (NP (DT a) (NN paper)))))
+  (NP (JJ last) (NNP May))
+  (. .))"
+"(SBAR
+  (WHNP (WDT which))
+  (S
+    (VP
+      (VBZ is)
+      (PP
+        (IN as)
+        (NP
+          (NP
+            (NP (NNS meaningless))
+            (PP (IN as) (NP (DT the) (NN ï¿½consensusï¿½))))
+          (PP
+            (IN in)
+            (NP (NP (DT the) (JJ two-question) (NN survey)) (, ,)))))
+      (PP (IN for) (NP (DT the) (JJ same) (NN reason))))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (VBZ skeptics)
+    (VBP agree)
+    (NP (NNS humans))
+    (VP (VB cause) (NP (DT some) (NN warming))))
+  (. .))"
+(SBARQ (SQ (NP (NNP Mr.) (NNP Cook)) (VP (VB et))) (. .))
+(LST (LS al) (. .))
+"(S+SBAR
+  (S
+    (VP
+      (VBD included)
+      (VB papers)
+      (PP (IN by) (NP (JJ prominent) (NN skeptics))))
+    (NP
+      (NAC
+        (NNP Willie)
+        (NNP Soon)
+        (, ,)
+        (NNP Craig)
+        (NNP Idso)
+        (, ,)
+        (NNP Nocola)
+        (NNP Scafetta)
+        (, ,)
+        (NNP Nir)
+        (NNP Shaviv)
+        (, ,)
+        (NNP Nils-Axel)
+        (NNP Morner)
+        (CC and)
+        (NNP Alan)
+        (NNP Carlin)
+        (PP (IN in) (NP (PRP$ their) (CD 97.1) (NN percent))))
+      (NN ï¿½consensus.ï¿½))
+    (NP (NNP Only) (CD 41) (NNS papers))
+    (PRN (-LRB- () (NP (CD 0.3) (NN percent)) (-RRB- )))
+    (ADVP (RB explicitly))
+    (NP
+      (NP (NN state) (NN support))
+      (PP
+        (IN for)
+        (NP
+          (NP (NNP Mr.) (JJ Cookï¿½s) (NN assertion))
+          (PP (IN that) (NP (NNS humans))))))
+    (VP
+      (VBP have)
+      (VBD caused)
+      (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NN warming))))
+      (PP (IN since) (NP (CD 1950)))))
+  (, ,)
+  (S
+    (NP (JJ former) (NNP Delaware) (NN state) (NN climatologist))
+    (NP (NNP David) (NNP Legates))
+    (CC and)
+    (NP (CD three) (NNS colleagues))
+    (VP (VBN found) (PP (IN in) (NP (DT a) (NN peer))))
+    (VP (VBN reviewed) (VB study) (NP (JJ last) (NNP September)))
+    (. .)))"
+"(S+ADJP
+  (ADJP
+    (JJ ï¿½It)
+    (S+VP
+      (VBZ is)
+      (VBG astonishing)
+      (VP
+        (PP (IN that) (NP (DT any) (NN journal)))
+        (MD could)
+        (VBP have)
+        (VBN published)
+        (NP (DT a) (NN paper)))
+      (VBG claiming)
+      (NP (DT a) (CD 9) (NN percent) (NN climate))))
+  (ADJP (JJ consensus))
+  (SBAR
+    (WHADVP (WRB when))
+    (S
+      (PP (IN on) (NP (DT the) (NN authorsï¿½)))
+      (NP (JJ own) (NN analysis))
+      (NP (DT the) (JJ true) (NN consensus))
+      (VP
+        (VBD was)
+        (SBAR
+          (RB well)
+          (IN below)
+          (S
+            (NP (CD 1) (NN percent))
+            (, ,)
+            (NP (JJ ï¿½) (NNP Mr.) (NNP Legates))
+            (VP (VBD said))
+            (. .)))))))"
+"(NP+S
+  (NP
+    (NP (JJ carbon) (NN dioxide))
+    (PP (IN in) (NP (DT the) (NN atmosphere))))
+  (VP
+    (VBZ has)
+    (VBD increased)
+    (SBAR
+      (IN from)
+      (S
+        (VP
+          (PP
+            (IN about)
+            (NP
+              (NP (CD 285) (NNS parts))
+              (PP
+                (IN per)
+                (NP (QP (CD million) (CD 250)) (NNS years)))))
+          (PP
+            (IN ago)
+            (S+VP
+              (TO to)
+              (VP
+                (PP (IN about) (NP (CD 380) (NNS ppm)))
+                (NP (NN today))))))
+        (. .)))))"
+"(FRAG
+  (FRAG
+    (ADJP (JJ CO2))
+    (S+VP (VBZ is) (NP (DT a) (JJ ï¿½greenhouseï¿½) (NN gas))))
+  (: --)
+  (S
+    (NP (PRP it))
+    (VP
+      (VBZ holds)
+      (VB heat)
+      (PP (IN in) (NP (DT the) (NN atmosphere)))))
+  (: --)
+  (RB so)
+  (PP
+    (IN if)
+    (NP
+      (NP (NNS humans))
+      (VP (VBP are) (VBG generating) (ADJP (JJR more)))))
+  (S
+    (, ,)
+    (NP (PRP it))
+    (VP (MD should) (VB have) (NP (DT a) (VBG warming) (NN effect))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (CC but)
+    (ADVP (RB probably))
+    (RB not)
+    (JJ much)
+    (PP (IN of) (NP (CD one))))
+  (. .))"
+"(FRAG
+  (FRAG
+    (FRAG
+      (NP (JJ greenhouse) (JJ gases) (NN comprise))
+      (NP
+        (NP (QP (JJR less) (IN than) (CD 1)) (NN percent))
+        (PP (IN of) (NP (DT the) (JJ earthï¿½s) (NN atmosphere)))))
+    (: ;)
+    (NP (JJ carbon) (NN dioxide))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (QP (JJR less) (IN than) (CD 4)) (NN percent))
+        (PP (IN of) (NP (JJ greenhouse) (NN gases))))))
+  (: ;)
+  (S
+    (NP
+      (NP (CD 96) (NN percent))
+      (PP
+        (IN of)
+        (NP
+          (NP (NNS CO2))
+          (PP (IN in) (NP (DT the) (NN atmosphere))))))
+    (VP
+      (VBD was)
+      (VBN put)
+      (PP (ADVP (RB there)) (IN by) (NP (NNP Mother) (NNP Nature)))))
+  (. .))"
+"(RRC+VP
+  (VBN compared)
+  (S+VP
+    (TO to)
+    (VP
+      (VB variations)
+      (SBAR
+        (IN in)
+        (S
+          (NP (JJ solar) (NN radiation))
+          (CC and)
+          (NP (JJ other) (JJ natural) (NNS forces))
+          (, ,)
+          (NP
+            (NP
+              (DT the)
+              (NP (NN effect))
+              (PP (IN of) (NP (JJ greenhouse) (NN gases))))
+            (PP (IN on) (NP (NN climate))))
+          (VP (VBZ is) (ADJP (JJ trivial)))
+          (. .))))))"
+"(SINV
+  (S
+    (NP (NNS ï¿½There))
+    (VP
+      (VBZ is)
+      (RB no)
+      (VBG convincing)
+      (NP
+        (NP
+          (NP (JJ scientific) (NN evidence))
+          (PP (IN that) (NP (JJ human) (NN release))))
+        (PP (IN of) (NP (JJ carbon) (NN dioxide))))))
+  (, ,)
+  (VP (VBZ methane))
+  (, ,)
+  (S
+    (CC or)
+    (NP (JJ other) (NN greenhouse))
+    (VP
+      (VB gases)
+      (VBZ is)
+      (VBG causing)
+      (CC or)
+      (MD will)
+      (, ,)
+      (PP (IN in) (NP (DT the) (JJ foreseeable) (NN future)))))
+  (, ,)
+  (S
+    (NP
+      (NP (NN cause) (JJ catastrophic) (NN heating))
+      (PP (IN of) (NP (DT the) (JJ Earthï¿½s) (NN atmosphere))))
+    (VP
+      (CC and)
+      (VB disruption)
+      (PP (IN of) (NP (DT the) (JJ Earthï¿½s) (NN climate)))))
+  (, ,)
+  (VP (VBZ ï¿½))
+  (VP (VBZ says))
+  (S
+    (NP (DT a) (NN petition))
+    (VP
+      (VBN signed)
+      (PP
+        (IN by)
+        (NP (NP (JJR more)) (PP (IN than) (NP (CD 31,000)))))))
+  (NP
+    (NP (JJ American) (NNS scientists))
+    (PP (IN in) (NP (JJ climate-related) (NN disciplines))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (ADJP (JJ Thatï¿½s) (RB rather) (JJR more))
+    (PP (IN than) (NP (CD 79) (CC or) (CD 41))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (EX there))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (DT no) (JJ scientific) (NN consensus))
+        (PP (IN on) (NP (JJ human-caused) (JJ global) (NN warming))))))
+  (, ,)
+  (S
+    (CC and)
+    (NP (EX there))
+    (VP (ADVP (RB shouldnï¿½t)) (VP (VB be)))
+    (. .)))"
+"(S
+  (NP (JJ ï¿½If) (JJ itï¿½s) (NN science))
+  (, ,)
+  (NP (PRP it))
+  (NP (JJ isnï¿½t) (NN consensus))
+  (, ,)
+  (VP (VB ï¿½) (VBD said) (NP (NNP Mr)))
+  (. .))"
+"(S
+  (ADVP (RB soon))
+  (, ,)
+  (NP (DT a) (JJ solar) (NN expert))
+  (VP
+    (PP (IN at) (NP (DT the) (JJ Harvard-Smithsonian) (NN Center)))
+    (PP (IN for) (NP (NNP Astrophysics))))
+  (. .))"
+"(S
+  (NP (JJ ï¿½If) (JJ itï¿½s) (NN consensus))
+  (, ,)
+  (NP (PRP it))
+  (NP (JJ isnï¿½t) (NN science.ï¿½))
+  (NP
+    (NP (NNP Scientists) (NNP search))
+    (PP
+      (IN for)
+      (NP (NP (NNS truth)) (PP (IN by) (NP (NN observation))))))
+  (CC and)
+  (VP
+    (VB experimentation)
+    (, ,)
+    (ADVP (RB not) (PP (IN by) (NP (VBG taking) (NN polls)))))
+  (. .))"
+"(SBARQ
+  (SQ
+    (VBZ consensus)
+    (VBZ is)
+    (NP (DT a) (JJ political) (NN concept)))
+  (. .))"
+"(S
+  (NP (DT the) (NN skeptics))
+  (VP
+    (VBP are)
+    (ADJP (JJ true))
+    (PP (TO to) (NP (DT the) (JJ scientific) (NN method))))
+  (. .))"
+"(NP+S
+  (NP (NP (DT the) (NN abusers)) (PP (IN of) (NP (NN science))))
+  (VP
+    (VBP are)
+    (NP
+      (NP (DT those))
+      (SBAR
+        (WHNP (WP who))
+        (S (VP (VB politicize) (NP (PRP it))) (. .))))))"

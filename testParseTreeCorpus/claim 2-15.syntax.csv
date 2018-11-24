@@ -1,0 +1,210 @@
+"(S+ADJP
+  (ADJP (NN pressure) (VBG mounting))
+  (ADJP
+    (PP (IN on) (NP (NNP Legault)))
+    (S+VP
+      (TO to)
+      (VP
+        (VB attend)
+        (NP
+          (NP (JJ UN) (NN conference))
+          (PP (IN on) (NP (JJ climate) (NN change)))))))
+  (ADJP
+    (JJ Pressure)
+    (S+VP
+      (VBZ is)
+      (VBG mounting)
+      (PP (IN on) (NP (NNP Quebec) (POS 's)))))
+  (ADJP (RB newly) (VBN elected))
+  (ADJP
+    (JJ premier)
+    (S+VP
+      (TO to)
+      (VP
+        (VB attend)
+        (NP
+          (DT an)
+          (VBG upcoming)
+          (NNP United)
+          (NNPS Nations)
+          (JJ climate)
+          (NN conference)
+          (PP (TO to) (NP (JJ ensure) (DT the) (NN province)))))))
+  (ADJP (JJ stays))
+  (SBAR
+    (IN on)
+    (S
+      (NP
+        (NP (DT the) (NN forefront))
+        (PP (IN of) (NP (DT the) (JJ global) (NN movement))))
+      (VP (VBG pushing) (PP (IN for) (NP (NN change))))
+      (. .))))"
+"(NP+SBAR+S
+  (S
+    (S+VP (VBG following) (NP (DT the) (NNP Parti) (NNP Quebecois)))
+    (CC and)
+    (NP (NNP Quebec) (NNP solidaire))
+    (, ,)
+    (NP (DT the) (NN official))
+    (NP (NNP Opposition) (NNP Liberals))
+    (ADVP
+      (RB as)
+      (RB well)
+      (PP (IN as) (NP (DT the) (JJ environmental) (NN group))))
+    (NP (NNP Greenpeace))
+    (VP
+      (VBP have)
+      (ADVP (RB now))
+      (VBD added)
+      (NP (PRP$ their) (NN voices))
+      (PP
+        (TO to)
+        (NP
+          (NP (DT those))
+          (PP
+            (VBG calling)
+            (IN on)
+            (NP (NNP Francois) (NNP Legault)))))))
+  (S
+    (CC and)
+    (NP (PRP$ his) (JJ new) (NN environment) (NN minister))
+    (, ,)
+    (NP (NNP MarieChantal) (NNP Chasse))
+    (, ,)
+    (S+VP (TO to) (VP (VB attend) (NP (DT the) (NN COP24))))
+    (NP (JJ climate) (NN summit))
+    (VP
+      (VBG taking)
+      (NP
+        (NP
+          (NP (NP (NN place)) (PP (IN from) (NP (NNP Dec.) (CD 3))))
+          (PP (TO to) (NP (CD 13))))
+        (PP (IN in) (NP (NNP Poland)))))
+    (. .)))"
+"(S+ADJP
+  (ADJP (JJ legault) (S+VP (VBZ has) (RB thus)))
+  (ADJP (RB far) (VBN been))
+  (JJ reluctant)
+  (SBAR+S+VP
+    (TO to)
+    (VP
+      (VB commit)
+      (S+VP
+        (TO to)
+        (VP
+          (VBG attending)
+          (S
+            (NP (DT the) (NN summit))
+            (, ,)
+            (ADVP (RB even))
+            (PP (IN though) (NP (JJ previous) (NN premiers)))
+            (VP
+              (VBP have)
+              (VBN attended)
+              (NP (JJ similar) (NNS meetings)))
+            (. .)))))))"
+"(NP+SBAR+S
+  (S
+    (NP (PRP he))
+    (VP
+      (VBD told)
+      (SBAR+S
+        (NP
+          (NP (DT the) (NNS media))
+          (PP
+            (IN in)
+            (NP
+              (NP (DT a) (NN news) (NN conference))
+              (PP
+                (IN in)
+                (NP (NP (NNP Quebec) (NNP City)) (CD 10) (NNS days))))))
+        (VP
+          (RB ago)
+          (PP (IN that) (NP (PRP$ his) (NN agenda)))
+          (VBZ is)
+          (ADJP (`` ``) (RB very) (JJ busy))))))
+  (S (. .) ('' '')))"
+"(S+SBAR
+  (IN while)
+  (S
+    (NP (DT the) (JJ federal) (NN government))
+    (VP
+      (MD will)
+      (VB be)
+      (ADJP
+        (JJ responsible)
+        (PP
+          (IN for)
+          (S+VP
+            (VBG signing)
+            (NP
+              (NP (DT any) (NN agreements))
+              (PP (IN at) (NP (DT the) (NN summit)))))))))
+  (, ,)
+  (S
+    (NP (DT the) (NN provinces))
+    (VP
+      (MD will)
+      (VB be)
+      (ADJP (JJ responsible))
+      (SBAR
+        (IN for)
+        (S
+          (VP
+            (VBG implementing)
+            (NP
+              (DT the)
+              (NP (NNS measures))
+              (SBAR+S+VP
+                (TO to)
+                (VP (VB meet) (NP (JJ greenhouse) (NN gas))))
+              (JJ emission)
+              (NNS targets)))
+          (. .))))))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP (DT an) (NN interview))
+    (, ,)
+    (NP (DT the) (NNP Liberal) (NN party) (POS 's))
+    (NP (JJ interim) (NN leader))
+    (VP
+      (VBN called)
+      (PP
+        (IN on)
+        (NP
+          (NP
+            (NP
+              (NP (DT the) (NN premier))
+              (PP (TO to) (NP (NN show) (PRP$ his) (NN commitment))))
+            (SBAR+S+VP
+              (TO to)
+              (VP (VBG addressing) (NP (JJ climate) (NNS issues)))))
+          (PP
+            (IN by)
+            (S+VP
+              (VBG heading)
+              (PRT (RP up))
+              (NP
+                (NP
+                  (NP
+                    (DT a)
+                    (NNP Quebec)
+                    (NP (NNS delegation))
+                    (RRC+VP
+                      (VBN comprised)
+                      (PP
+                        (IN of)
+                        (NP
+                          (NP (NNS representatives))
+                          (PP
+                            (IN from)
+                            (NP
+                              (DT all)
+                              (JJ political)
+                              (NNS parties)))))
+                      (ADVP (RB as) (RB well))))
+                  (PP (IN as) (NP (JJ civil) (NN society))))
+                (CC and)
+                (NN business)))))))
+    (. .)))"

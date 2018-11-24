@@ -1,0 +1,1322 @@
+"(SBAR
+  (WHADVP (WRB how))
+  (S
+    (NP (NNS plants) (CC and) (NNS animals))
+    (S+VP
+      (VBP are)
+      (VBG teaching)
+      (NP (NNS scientists))
+      (TO to)
+      (VP (VB fight)))
+    (NP
+      (NP (JJ climate) (NN change))
+      (PP
+        (IN In)
+        (NP
+          (DT the)
+          (VBG emerging)
+          (NN field)
+          (PP (IN of) (NP (NN biomimicry))))))
+    (, ,)
+    (NP (NNS scientists))
+    (CC and)
+    (VP
+      (VB inventors)
+      (VB take)
+      (VB inspiration)
+      (PP
+        (IN from)
+        (NP
+          (JJ trees)
+          (NX (, ,) (NX (NNS whales)) (CC and) (NX (NNS coral))))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP
+      (NP
+        (NP
+          (NP (DT the) (NN immensity))
+          (PP (IN of) (NP (DT a) (NN program))))
+        (PP (TO to) (NP (JJ reforest) (JJ large) (NN swaths))))
+      (PP (IN of) (NP (DT the) (NNP Amazon))))
+    (VP
+      (VBZ is)
+      (ADJP (JJ hard) (PP (TO to) (NP (JJ conceive) (NN ))))))
+  (S
+    (NP (PRP it))
+    (NP
+      (NP (NNS aims))
+      (PP
+        (TO to)
+        (NP
+          (NP
+            (NN plant)
+            (NP (NNS millions))
+            (PP
+              (IN of)
+              (NP
+                (NP (NNS trees))
+                (PP (IN over) (NP (DT a) (JJ remote) (NN area))))))
+          (PP (IN of) (NP (NNP Brazil))))))
+    (VP
+      (RB roughly)
+      (NP (DT the) (NN size))
+      (PP (IN of) (NP (NNP Pennsylvania))))
+    (. .)))"
+"(S+SBAR
+  (IN if)
+  (IN that)
+  (S
+    (NP (JJ wasnt) (DT a) (JJ big) (JJ enough) (NN challenge))
+    (, ,)
+    (NP (NNS theres))
+    (ADVP (RB also))
+    (NP (DT the) (JJ threat) (NN seedlings))
+    (VP (VB face) (PP (IN from) (NP (JJ dry) (NN spells)))))
+  (, ,)
+  (S
+    (NP (JJ non-native) (NNS plants))
+    (CC and)
+    (NP (DT the) (NN voracious))
+    (VP (VB leaf-cutter) (NP (NN ant)))
+    (. .)))"
+"(NP+S+VP
+  (VB enter)
+  (NP
+    (NP (DT a) (JJ Brazilian) (JJ industrial) (NN engineer))
+    (CC and)
+    (PRP$ his)
+    (NNS partners)
+    (, ,)
+    (SBAR
+      (WHNP (WP who))
+      (S
+        (VP
+          (VBP think)
+          (SBAR+S
+            (NP (PRP they))
+            (VP (VB have) (NP (DT a) (NN solution)))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NN team))
+    (VP (VBZ calls) (NP (PRP$ their) (NN invention))))
+  (S
+    (NP (NNP Nucleario) (NNP ))
+    (NP (DT a) (JJ circular) (NN device))
+    (VP
+      (PP (IN that) (NP (JJ creates) (DT a) (JJ safe) (NN oasis)))
+      (PP (IN for) (NP (DT a) (JJ young) (NN tree)))))
+  (, ,)
+  (S
+    (VP
+      (VB complete)
+      (PP (IN with) (NP (JJ mulchy) (NN ground)))
+      (VB cover)
+      (NP
+        (, ,)
+        (DT a)
+        (NN water)
+        (NN cistern)
+        (PP (TO to) (NP (JJ conserve) (NN rainfall)))
+        (CC and)
+        (DT a)
+        (NN wall)
+        (SBAR+S+VP
+          (TO to)
+          (VP
+            (VB keep)
+            (PRT (RP out))
+            (NP
+              (NP (JJ invasive) (NNS plants))
+              (CC and)
+              (NNS creatures))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NN invention))
+    (VP
+      (VBD was)
+      (ADVP (RB recently))
+      (VBN awarded)
+      (NP
+        (DT a)
+        (NP+QP ($ $) (CD 100,000) (CD prize))
+        (PP (IN in) (NP (DT a) (NN worldwide))))))
+  (S
+    (NP (NN design) (NN challenge))
+    (VP
+      (, ,)
+      (VBN sponsored)
+      (PP (IN by) (NP (DT the) (NNP Biomimicry) (NNP Institute)))))
+  (, ,)
+  (S
+    (NP
+      (DT a)
+      (NNP Missoula)
+      (, ,)
+      (JJ Montana-based)
+      (NN nonprofit)
+      (PP (IN that) (NP (JJ supports) (NNS scientists))))
+    (CC and)
+    (NP
+      (NP (NNS inventors))
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VP (VB find) (NP (NN solutions)))
+          (TO to)
+          (VP
+            (NP (JJ man-made) (NNS problems))
+            (PP (IN with) (NP (NN designs)))))))
+    (VP
+      (VBN inspired)
+      (PP (IN by) (NP (DT the) (JJ natural) (NN world))))
+    (. .)))"
+"(S
+  (NP (NP (DT the) (NN concept)) (PP (IN of) (NP (NN biomimicry))))
+  (VP
+    (VBZ has)
+    (VBN been)
+    (PP (IN around) (IN for) (NP (NNS years))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (ADJP
+      (ADJP
+        (JJ designers)
+        (S+VP
+          (VP
+            (VBP have)
+            (VBN replicated)
+            (NP (DT the) (NN skin))
+            (PP (IN of) (NP (DT the) (NN octopus))))
+          (TO to)
+          (VP (VB invent) (NP (DT a) (JJ camouflage) (NN surface)))))
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (MD could)
+          (VP (VB help) (VB robots) (NP (NN change) (NN color))))))
+    (CC and)
+    (JJ texture))
+  (. .))"
+"(SBARQ
+  (SQ
+    (NP (PRP they))
+    (VP
+      (VBP have)
+      (VBN studied)
+      (VB squid)
+      (CC and)
+      (VB jellyfish)
+      (S+VP
+        (TO to)
+        (VP
+          (VB look)
+          (PP
+            (IN for)
+            (NP
+              (DT a)
+              (ADJP (RBR better) (JJ propulsion))
+              (NN system)
+              (PP (IN for) (NP (NN submarines)))))))))
+  (. .))"
+"(NP+SBAR+S
+  (S
+    (CC and)
+    (NP (DT a) (NNP Boston) (NN research) (NN hospital))
+    (VP
+      (VBN mimicked)
+      (NP
+        (NP (DT the) (NN behavior))
+        (PP (IN of) (NP (JJ underwater) (NN worms))))
+      (S+VP
+        (TO to)
+        (VP
+          (VB develop)
+          (NP (NP (DT a) (NN glue)) (PP (IN that) (NP (NN knits))))))))
+  (S
+    (ADVP (RB together))
+    (VP (VB fragile) (NP (NN heart) (NN muscles)))
+    (. .)))"
+"(S
+  (ADVP (RB now))
+  (, ,)
+  (NP
+    (ADJP
+      (JJ advocates)
+      (PP (IN of) (NP (JJ such) (NN bio-inspired))))
+    (NN engineering))
+  (VP
+    (VBP are)
+    (S+VP
+      (VBG urging)
+      (VBZ inventors)
+      (TO to)
+      (VP
+        (ADVP (RB apply))
+        (NP
+          (NP (JJ natures) (NN lessons))
+          (PP (TO to) (NP (DT the) (NN challenge))))
+        (PP (IN of) (NP (JJ global) (NN warming))))))
+  (. .))"
+"(S+SBAR
+  (IN along)
+  (IN with)
+  (S
+    (NP (JJ Nuclearios) (JJ forest-restoration) (NN device))
+    (, ,)
+    (NP
+      (ADJP
+        (JJ finalists)
+        (PP (IN in) (NP (DT the) (JJ global) (NN design))))
+      (NN challenge))
+    (VP
+      (VBP have)
+      (VBD included)
+      (NP (DT a) (JJ window-mounted) (NN device))))
+  (, ,)
+  (S
+    (VP (VBN designed) (PP (IN like) (NP (DT the) (NN rose-shaped))))
+    (NP (JJ frailejon) (NN plant))
+    (, ,)
+    (PP
+      (TO to)
+      (NP
+        (NP (JJ cool) (NN buildings))
+        (PP (IN with) (NP (JJR less) (NN electricity)))))
+    (, ,)
+    (CC and)
+    (NP
+      (DT a)
+      (JJ roadside)
+      (NN filter)
+      (PP
+        (IN that)
+        (NP
+          (JJ mimics)
+          (DT the)
+          (VBG straining)
+          (NN properties)
+          (PP (IN of) (NP (JJ baleen) (NN whales)))
+          (PP (TO to) (NP (JJ clean) (NN fine))))))
+    (VP
+      (NP (JJ particulate) (NN pollution))
+      (PP (IN from) (NP (DT the) (NN air))))
+    (. .)))"
+"(NP+S
+  (NP
+    (JJ AggregateBlue)
+    (NNP Planet)
+    (NNP Ltd.)
+    (PP (IN of) (NP (NNP California))))
+  (VP
+    (VBZ makes)
+    (NP
+      (NP (JJ various) (NNS forms))
+      (PP (IN of) (NP (NN rock) (CC and) (NNS sand))))
+    (SBAR
+      (IN by)
+      (S
+        (VP
+          (VBG combining)
+          (VB carbon)
+          (NP
+            (NP (JJ dioxide) (NN pollution))
+            (PP (IN with) (NP (NN calcium)))))
+        (. .)))))"
+"(NP+SBAR+S
+  (S
+    (NP (DT the) (NN process) (NN prevents))
+    (NP
+      (NP (DT the) (JJ greenhouse) (NN gas))
+      (PP
+        (IN from)
+        (S+VP (VBG polluting) (NP (DT the) (NN atmosphere.Blue)))))
+    (NP
+      (NP (NNP Planet) (NNP Some))
+      (PP
+        (IN of)
+        (NP
+          (DT the)
+          (ADJP (RBS most) (JJ promising))
+          (NN biomimicry))))
+    (VP
+      (VB designs)
+      (VBP have)
+      (ADVP (RB already))
+      (VBN been)
+      (VBN deployed)
+      (, ,)
+      (S+VP
+        (VBG including)
+        (NP
+          (ADJP
+            (JJ several)
+            (PP (IN that) (NP (JJ capture) (NN carbon))))
+          (NN dioxide)))))
+  (S
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP
+        (MD would)
+        (VP
+          (NP (JJ otherwise) (NN spew))
+          (PP (IN into) (NP (DT the) (NN air))))))
+    (CC and)
+    (VP
+      (VBP use)
+      (SBAR+S
+        (NP (PRP it))
+        (VP
+          (TO to)
+          (VB make)
+          (VBG everything)
+          (PP
+            (IN from)
+            (NP
+              (NP (NNS plastics))
+              (PP
+                (TO to)
+                (NP
+                  (DT a)
+                  (JJ key)
+                  (NN element)
+                  (PP (IN of) (NP (NN concrete))))))))))
+    (. .)))"
+"(S
+  (NP (NNP janine) (NNP Benyus))
+  (, ,)
+  (NP
+    (NP (NNS co-founder))
+    (PP (IN of) (NP (DT the) (NNP Biomimcry) (NNP Institute))))
+  (, ,)
+  (VP
+    (VBD said)
+    (SBAR+S
+      (NP (DT the) (NNP Nucleario) (NN concept))
+      (VP
+        (VBZ is)
+        (VB emblematic)
+        (PP
+          (IN of)
+          (NP
+            (ADJP (JJ solutions) (JJ drawn) (PP (IN from)))
+            (NN nature))))))
+  (. .))"
+"(S+ADJP
+  (ADJP (JJ Learning))
+  (SBAR
+    (IN about)
+    (S
+      (NP (DT the) (JJ natural) (NN world))
+      (VP (VBZ is) (NP (CD one) (NN thing)))
+      (. .))))"
+"(SINV
+  (S
+    (PP
+      (VBG learning)
+      (IN from)
+      (NP (DT the) (JJ natural) (NN world)))
+    (NP (NNS ))
+    (VP (VB thats) (NP (DT the) (JJ profound) (NN switch))))
+  (, ,)
+  (VP (VBZ ))
+  (VP (VBD said))
+  (S
+    (NP
+      (NNP Benyus)
+      (, ,)
+      (NP (NN author))
+      (PP (IN of) (NP (DT the) (CD 1997) (NN book))))
+    (, ,)
+    (NP
+      (NP (JJ Biomimicry) (: :) (NNP Innovation) (NNP Inspired))
+      (PP (IN by) (NP (JJ Nature.) (NN We))))
+    (VP
+      (VBP need)
+      (S+VP (TO to) (VP (VB restore) (NP (DT the) (NN rainforest))))))
+  (S
+    (ADVP (RB quickly))
+    (, ,)
+    (ADVP (RB so))
+    (NP (PRP it))
+    (VP
+      (VBZ makes)
+      (VB perfect)
+      (VBP sense)
+      (S+VP (TO to) (VP (VB study) (NP (DT the) (NN surrounding))))))
+  (S
+    (NP (JJ ecosystem) (NN ))
+    (SBAR
+      (WHADVP (WRB how))
+      (S
+        (NP (DT the) (JJ forest) (NN floor))
+        (CC and)
+        (NP (JJ local) (NNS plants))
+        (VP
+          (VB create)
+          (NP
+            (NP (NNS conditions))
+            (PP
+              (IN that)
+              (NP (JJ nurture) (JJ new) (JJ trees) (NN )))))))
+    (NP (CC and) (NNS borrow))
+    (NP (DT those))
+    (VP
+      (VB strategies)
+      (S+VP (TO to) (VP (VBP do) (NP (DT the) (JJ same))))))
+  (. .)
+  ('' ''))"
+"(NP+S+VP
+  (VB LEARNING)
+  (VB FROM)
+  (VB THE)
+  (VB FOREST)
+  (VB Nucleario)
+  (VB grew)
+  (PRT (RP out))
+  (PP
+    (IN of)
+    (NP
+      (DT the)
+      (JJ profound)
+      (NN love)
+      (SBAR+S
+        (NP (CD three) (NN Brazilians))
+        (VP
+          (VBD had)
+          (PP (IN for) (NP (DT the) (NN rainforest)))
+          (SBAR
+            (IN that)
+            (S
+              (VP
+                (VBZ covers)
+                (UCP
+                  (ADJP
+                    (JJ much)
+                    (PP (IN of) (NP (PRP$ their) (NN country))))
+                  (, ,)
+                  (CC but)
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S+VP
+                      (VBZ has)
+                      (VP
+                        (VBN been)
+                        (VBN degraded)
+                        (PP (IN by) (NP (NN logging))))))
+                  (CC and)
+                  (ADJP
+                    (JJ clear-cutting)
+                    (PP (IN for) (NP (JJ new) (NN farms))))
+                  (CC and)
+                  (NN development)))
+              (. .))))))))"
+"(S
+  (NP (DT the) (NNP World) (NNP Wildlife))
+  (NP (NNP Fund) (NNS estimates))
+  (NP (DT the) (NNP Amazon))
+  (VP
+    (VBD lost)
+    (NP
+      (NP (QP (RB nearly) (CD 3.5) (CD million)) (NNS acres))
+      (PP
+        (IN of)
+        (NP
+          (NP (JJ forest) (DT a) (NN year))
+          (PP (IN in) (NP (DT the) (NN dozen) (NNS years))))))
+    (PP (IN after) (NP (CD 2000))))
+  (. .))"
+"(S
+  (NP (JJ Thats) (DT an) (NN area))
+  (NP (NP (DT the) (NN size)) (PP (IN of) (NP (NNP Connecticut))))
+  (VP
+    (VBN stripped)
+    (PP
+      (ADVP (RB annually))
+      (IN of)
+      (NP
+        (JJ oxygen-producing)
+        (CC and)
+        (JJ carbon-absorbing)
+        (NN forest))))
+  (. .))"
+"(NP+S
+  (NP (NP (JJ nucleario) (NN co-founder)) (NNP Bruno) (NNP Rutman))
+  (VP
+    (VBD was)
+    (VB drawn)
+    (PP
+      (TO to)
+      (NP
+        (NP (DT the) (NN problem))
+        (PP (IN of) (NP (NN deforestation)))))
+    (SBAR
+      (IN because)
+      (S
+        (PP (IN of) (NP (DT a) (NN youth)))
+        (VP
+          (VBN spent)
+          (S+VP
+            (VBG kayaking)
+            (, ,)
+            (VBG paragliding)
+            (CC and)
+            (VBG climbing)
+            (PP
+              (IN in)
+              (NP (JJ Brazils) (JJ coastal) (NN rainforest)))))
+        (. .)))))"
+"(S+SBAR
+  (IN in)
+  (S
+    (NP
+      (NP (PRP$ his) (NN day) (NN job))
+      (PP (IN as) (NP (DT an) (JJ industrial) (NN designer))))
+    (NP (PRP he))
+    (VP
+      (VBN worked)
+      (PP
+        (IN on)
+        (NP (NP (NNS products)) (PP (IN like) (NP (NN furniture)))))))
+  (S
+    (, ,)
+    (CC but)
+    (PP (IN after) (NP (NNS hours)))
+    (NP (PRP he))
+    (VP
+      (VBN thought)
+      (PP
+        (IN about)
+        (NP
+          (NP
+            (SBAR
+              (WHADVP (WRB how))
+              (S
+                (NP (PRP$ his) (NN country))
+                (VP
+                  (MD might)
+                  (VB meet)
+                  (NP (PRP$ its) (NN commitment)))))
+            (, ,))
+          (PP
+            (IN under)
+            (NP (DT the) (NNP Paris) (JJ climate) (NN accord)))))))
+  (, ,)
+  (S
+    (VP
+      (PP
+        (TO to)
+        (NP
+          (JJ replant)
+          (QP (RB nearly) (CD 30) (CD million))
+          (NNS acres)))
+      (PP (IN of) (NP (NP (NNS forest)) (PP (IN by) (NP (CD 2030))))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (JJ bruno) (NNP Rutman) (NNP Pagnoncelli))
+    (, ,)
+    (NP (JJ left) (, ,) (NNP Bruno) (NNP Ferrari))
+    (CC and)
+    (NP (NNP Pedro) (NNP Rutman))
+    (NP
+      (NP (JJ PagnoncelliA) (NN team))
+      (PP (IN of) (NP (CD three) (NN Brazilians))))
+    (PRN
+      (: --)
+      (PP (IN from) (NP (JJ left) (, ,) (NNP Bruno) (NNP Rutman)))
+      (, ,))
+    (NP (NNP Bruno) (NNP Ferrari))
+    (CC and)
+    (NP (NNP Pedro) (NNP Rutman))
+    (: --)
+    (ADVP (RB recently))
+    (VP
+      (VBD won)
+      (SBAR+S
+        (NP
+          (NP (NP (DT a) (NN world)) (NN design) (NN competition))
+          (PP
+            (IN for)
+            (NP
+              (PRP$ their)
+              (NNP Nucleario)
+              (, ,)
+              (DT a)
+              (NN device))))
+        (VP
+          (VBN designed)
+          (S+VP
+            (TO to)
+            (VP
+              (VB help)
+              (VB trees)
+              (VB grow)
+              (PP
+                (IN in)
+                (NP
+                  (NP (JJ deforested) (NN regions))
+                  (PP (IN of) (NP (DT the) (NN Amazon.Nucleario)))))))))))
+  (S
+    (NP (NNP Bruno) (CC and) (PRP$ his) (NN brother))
+    (NP (CC and) (NN partner))
+    (, ,)
+    (NP (NNP Pedro) (NNP Rutman))
+    (, ,)
+    (VP
+      (VBN sought)
+      (PP
+        (IN out)
+        (NP
+          (NP (NNS experts))
+          (PP
+            (IN in)
+            (NP
+              (JJ forestry)
+              (, ,)
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (NP (NNS taught))
+                  (NP (PRP them))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S+VP
+                      (VBG getting)
+                      (VBG seedling)
+                      (NP
+                        (NP (NNS trees))
+                        (PP (TO to) (NP (JJ survive) (NN beyond))))))
+                  (NP (DT a) (NN year))
+                  (VP
+                    (VBD was)
+                    (NP (DT a) (JJ huge) (NN part))
+                    (PP
+                      (IN of)
+                      (NP (DT the) (JJ reforestation) (NN challenge)))))))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ Non-native) (NN brachiaria))
+    (VP
+      (VB grass)
+      (, ,)
+      (VBN favored)
+      (PP (IN by) (NP (JJ dairy) (NNS farmers)))))
+  (, ,)
+  (S (VP (VB chokes) (NP (JJ young) (NN trees))) (. .)))"
+"(RRC
+  (ADJP (JJ Leaf-cutter))
+  (ADJP (JJ ants))
+  (ADJP (JJ mow))
+  (ADVP (RB away))
+  (VP
+    (VB foliage)
+    (S
+      (, ,)
+      (CC and)
+      (NP (JJ intermittent) (NN rains))
+      (VP
+        (MD can)
+        (VB leave)
+        (VB seedlings)
+        (PP (IN without) (NP (NN moisture))))
+      (. .))))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NN brothers))
+    (VP
+      (VBN responded)
+      (PP (IN with) (NP (DT the) (NNP circular) (NNP Nucleario)))))
+  (, ,)
+  (S
+    (NP
+      (NP (DT the) (NN size))
+      (PP (IN of) (NP (DT a) (JJ small) (JJ bicycle) (NN tire))))
+    (CC and)
+    (VP
+      (VBN designed)
+      (S+VP
+        (TO to)
+        (VP
+          (VB be)
+          (VBN set)
+          (PP
+            (IN into)
+            (NP
+              (NP (DT the) (NN ground))
+              (PP
+                (IN as)
+                (NP
+                  (DT a)
+                  (JJ protective)
+                  (NN barrier)
+                  (PP (IN for) (NP (DT a) (JJ new) (NN seedling))))))))))
+    (. .)))"
+"(NP+S
+  (NP (DT the) (JJ devices) (NN exterior))
+  (VP
+    (MD will)
+    (VB biodegrade)
+    (SBAR
+      (IN into)
+      (S
+        (VP
+          (VB mulch)
+          (PP
+            (IN that)
+            (NP (JJ keeps) (DT the) (NN ground) (NN moist))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NN device))
+    (NP (JJ collects) (NN dew))
+    (VP
+      (CC and)
+      (VB rainwater)
+      (PP (IN into) (NP (DT a) (NN cistern)))))
+  (, ,)
+  (S
+    (VP
+      (VBN modeled)
+      (PP
+        (IN on)
+        (NP
+          (NP
+            (NP (DT those))
+            (PP
+              (IN in)
+              (NP
+                (DT the)
+                (JJ bromeliad)
+                (NN plant)
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S+VP
+                    (MD can)
+                    (VP
+                      (VB hold)
+                      (PRT (RP up))
+                      (PP (TO to) (NP (CD three) (NNS gallons)))))))))
+          (PP (IN of) (NP (NN water))))))
+    (. .)))"
+"(SINV
+  (VP (VBZ Our))
+  (S
+    (NP
+      (NP (JJ main) (NN customer))
+      (PRN (, ,) (PP (IN in) (NP (DT a) (NN way))) (, ,)))
+    (VP (VBZ is) (NP (DT the) (NN seedling))))
+  (, ,)
+  (VP (VBZ ))
+  (VP (VBD said))
+  (NP (NNP Bruno) (NNP Rutman))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (JJ Our) (JJ second) (NN customer))
+    (VP (VBZ is) (NP (DT the) (NN field) (NN worker))))
+  (S
+    (NP
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VBZ is)
+          (VBG planting)
+          (NP (DT all) (DT these) (NN trees)))))
+    (VP
+      (CC but)
+      (VBZ does)
+      (RB not)
+      (VBP have)
+      (NP (DT the) (NN time))
+      (S+VP
+        (TO to)
+        (VP (VB come) (NP (CC and) (JJ maintain) (NN them.))))))
+  (S
+    (NP (NNP Seniors))
+    (VP (VBN displaced) (PP (IN by) (NP (NNP California) (POS 's)))))
+  (S
+    (NP (VBG rising) (NN rents))
+    (NP (DT The) (NNP Nucleario))
+    (VP
+      (VBZ is)
+      (ADVP (RB still))
+      (NP
+        (NP (NP (DT a) (NN prototype)) (, ,))
+        (PP (IN with) (NP (DT some) (CD 500))))
+      (VBN installed)
+      (PP
+        (IN with)
+        (NP
+          (NP
+            (ADJP
+              (JJ seedlings)
+              (PP (IN in) (NP (JJ several) (NN test))))
+            (NN patches))
+          (PP (IN around) (NP (NNP Brazil)))))))
+  (, ,)
+  (S
+    (VP
+      (VBG according)
+      (PP (TO to) (NP (DT the) (NNP Biomimicry) (NNP Institute))))
+    (. .)))"
+"(S
+  (NP (DT the) (NN test))
+  (VP
+    (VB groves)
+    (VBP have)
+    (VBN been)
+    (VBN funded)
+    (PP
+      (IN by)
+      (NP
+        (NP (NNS grants))
+        (PP
+          (IN from)
+          (NP
+            (JJ universities)
+            (CC and)
+            (DT the)
+            (NNP World)
+            (NNP Wildlife)
+            (NNP Fund))))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (DT the) ($ $) (CD 100,000))
+    (VP
+      (VB prize)
+      (VBN taken)
+      (PP (IN by) (NP (DT the) (NN brothers)))
+      (VBD was)
+      (VBN sponsored)
+      (PP (IN by) (NP (DT the) (NNP Ray) (NNP C.)))))
+  (S
+    (NP (NNP Anderson) (NNP Foundation))
+    (VP
+      (, ,)
+      (VBN named)
+      (PP
+        (IN for)
+        (NP
+          (NP (DT the) (NN founder))
+          (PP (IN of) (NP (NNP Interface) (NNP Carpets)))))))
+  (, ,)
+  (S
+    (VP
+      (NP (DT an) (JJ Atlanta-based) (NN company))
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (VBZ has)
+          (VP
+            (VBN promoted)
+            (NP (JJ biomimicry) (NN solutions))
+            (PP (IN for) (NP (NN industry)))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ BIOMIMICRY) (NN IN))
+    (NP (JJ ACTION) (NNP Well) (NNP beyond))
+    (NP (JJ prototype) (NN stage))
+    (VP (VBZ is) (NP (DT another) (NN innovation))))
+  (, ,)
+  (S
+    (VP (VBN inspired) (PP (IN by) (NP (DT the) (NN way))))
+    (NP (JJ marine) (NN organisms))
+    (, ,)
+    (PP (IN like) (NP (JJ coral) (CC and) (NNS clams)))
+    (, ,)
+    (VP (VB grow) (NP (PRP$ their) (JJ hard) (NN superstructures)))
+    (. .)))"
+"(S
+  (NP
+    (NP (JJ blue) (NNP Planet) (NNP Ltd.))
+    (PP (IN of) (NP (NNP Los) (NNP Gatos))))
+  (, ,)
+  (NP (NNP California))
+  (, ,)
+  (VP
+    (VBZ is)
+    (VBG creating)
+    (VB rock-like)
+    (VB aggregate)
+    (VBN used)
+    (PP
+      (IN as)
+      (NP
+        (DT the)
+        (JJ main)
+        (NN ingredient)
+        (PP (IN in) (NP (NN concrete))))))
+  (. .))"
+"(NP+SBAR+S
+  (S
+    (NP (PRP it))
+    (NP
+      (NP (JJ creates) (DT the) (NN material))
+      (PP
+        (IN by)
+        (S+VP (VBG relying) (PP (IN on) (NP (CD two) (NNS waste))))))
+    (NP (JJ streams) (NN ))
+    (VP
+      (VBN disposed)
+      (CC and)
+      (VBN unused)
+      (VB cement)
+      (PP (IN from) (NP (NN building) (NN projects)))))
+  (S
+    (CC and)
+    (VP
+      (VB carbon)
+      (NP
+        (NP (JJ dioxide) (NN gas))
+        (PP (IN from) (NP (NN power) (NNS plants)))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (JJ blue) (NN Planet))
+    (VP (VBZ takes) (NP (DT the) (JJ carbon) (NN dioxide))))
+  (S
+    (CC and)
+    (VP
+      (VBZ combines)
+      (SBAR+S
+        (NP (PRP it))
+        (VP
+          (PP (IN with) (NP (DT a) (JJ liquid) (NN solution)))
+          (S+VP (TO to) (VP (VB make) (NP (DT a) (NN bicarbonate)))))))
+    (. .)))"
+"(SINV
+  (S
+    (NP (DT the) (NN company))
+    (ADVP (RB then))
+    (NP
+      (NP (JJ combines) (JJ calcium) (NN drawn))
+      (PP (IN from) (NP (JJ reprocessed) (NN cement))))
+    (NP (CC and) (NNS mixes))
+    (NP (PRP it))
+    (VP
+      (PP (IN with) (NP (DT the) (NN bicarbonate)))
+      (S+VP
+        (TO to)
+        (VP (VB produce) (NP (JJ calcium) (NN carbonate))))))
+  (, ,)
+  (NP (CC or) (NNS limestone))
+  (. .))"
+"(NP+SBAR+S
+  (S
+    (NP (DT the) (NN limestone))
+    (VP
+      (MD can)
+      (VB be)
+      (VBN formed)
+      (PP
+        (IN into)
+        (NP (JJ sand) (CC or) (JJ gravel-sized) (NN rock)))))
+  (S
+    (VP
+      (VB )
+      (NP
+        (NP (DT both) (JJ major) (NN components))
+        (SBAR
+          (WHNP (WDT that))
+          (S+VP
+            (VP
+              (VBP are)
+              (VBN mixed)
+              (PP (IN with) (NP (NN cement))))
+            (TO to)
+            (VP (VB create) (NP (NN concrete)))))))
+    (. .)))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP
+      (NN nature)
+      (, ,)
+      (JJ corals)
+      (NX
+        (CC and)
+        (NX (NNS mollusks))
+        (NX (NNS combine))
+        (NX (NNS calcium))
+        (CC and)
+        (NN carbon)
+        (NN dioxide)))
+    (VP
+      (VBN absorbed)
+      (PP
+        (IN in)
+        (NP
+          (JJ seawater)
+          (NX
+            (CC and)
+            (NX (NNS secrete))
+            (NX (NNS calcium))
+            (NX (NNS carbonate))
+            (NX (NNS skeletons))
+            (, ,)
+            (VBG forming)
+            (NN shells)
+            (CC and)
+            (NN coral)
+            (NN reefs)))))
+    (. .)))"
+"(NP+S
+  (NP
+    (NP (DT the) (JJ ultimate) (NN impact))
+    (PP (IN of) (NP (DT the) (NNP Blue) (NNP Planet) (NN process))))
+  (VP
+    (VBZ is)
+    (SBAR
+      (IN that)
+      (S
+        (S
+          (NP (JJ carbon) (NN dioxide))
+          (NP (JJ ) (NN Earths))
+          (NP (JJ principal) (NN heat-trapping))
+          (NP (JJ greenhouse) (NN gas))
+          (VP
+            (VB )
+            (VBZ is)
+            (VBD kept)
+            (PRT (RP out))
+            (PP (IN of) (NP (DT the) (NN atmosphere)))))
+        (CC and)
+        (VP
+          (VBZ is)
+          (ADJP
+            (RB instead)
+            (JJ sequestered)
+            (PP (IN into) (NP (JJ new) (NN buildings)))))
+        (. .)))))"
+"(S+ADJP
+  (ADJP
+    (ADJP (JJ We) (S+VP (VBP are) (VBG taking) (NP (NN something))))
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP
+        (MD would)
+        (VP
+          (VB be)
+          (VBN released)
+          (PP (IN into) (NP (DT the) (NN atmosphere)))))))
+  (ADJP
+    (CC and)
+    (JJ contribute)
+    (S+VP
+      (TO to)
+      (VP
+        (VB climate)
+        (VB change)
+        (CC and)
+        (VBG making)
+        (NP (NN something)))))
+  (ADJP (JJ useful))
+  (SBAR
+    (IN out)
+    (S
+      (SBAR
+        (IN of)
+        (S (NP (PRP it)) (, ,) (NP (NNS )) (VP (VBD said))))
+      (NP (NNP Brent) (NNP Constantz))
+      (, ,)
+      (NP (DT a) (JJ marine) (NN scientist))
+      (CC and)
+      (NP (NNP Silicon) (NNP Valley))
+      (VP
+        (VB entrepreneur)
+        (SBAR
+          (WHNP (WP who))
+          (S+VP (VBD founded) (NP (NNP Blue) (NNP Planet)))))
+      (. .))))"
+"(SINV
+  (S
+    (NP (NNP brent) (NNP Constantz))
+    (, ,)
+    (VP (VBZ is) (NP (DT a) (JJ marine) (NN scientist)))
+    (CC and)
+    (NP (NNP Silicon) (NNP Valley))
+    (VP
+      (VB entrepreneur)
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VP (VBN figured) (PP (IN out) (NP (DT a) (NN way))))
+          (TO to)
+          (VP (`` ``) (ADJP (JJ sequester)))))))
+  ('' '')
+  (S
+    (NP
+      (NP (JJ carbon) (NN pollution))
+      (PP (IN in) (NP (NN building) (NN materials.Brent))))
+    (NP (NNP Constantz))
+    (, ,)
+    (VP (VBZ is) (NP (DT a) (JJ marine) (NN scientist)))
+    (CC and)
+    (NP (NNP Silicon) (NNP Valley))
+    (VP
+      (VB entrepreneur)
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VP (VBN figured) (PP (IN out) (NP (DT a) (NN way))))
+          (TO to)
+          (VP (`` ``) (ADJP (JJ sequester)))))))
+  ('' '')
+  (S
+    (NP
+      (NP (JJ carbon) (NN pollution))
+      (PP (IN in) (NP (NN building) (NN materials.Blue))))
+    (NP (NNP Planet) (DT The) (NN company))
+    (VP
+      (VBZ plans)
+      (S+VP
+        (TO to)
+        (VP
+          (VB expand)
+          (, ,)
+          (S+VP
+            (VBG drawing)
+            (NP
+              (JJ additional)
+              (JJ carbon)
+              (NN dioxide)
+              (PP (IN from) (NP (DT the) (NNP Los) (NNP Medanos)))))))))
+  (NP
+    (NP (NN power) (NN plant))
+    (PP
+      (IN in)
+      (NP
+        (NP
+          (NP
+            (NAC (NNP Pittsburg) (, ,) (NNP California) (, ,))
+            (DT the)
+            (JJ large)
+            (JJ natural)
+            (JJ gas-powered)
+            (NN plant))
+          (PP (IN that) (NP (JJ delivers) (NN electricity))))
+        (PP (TO to) (NP (NNP San) (NNP Francisco))))))
+  (. .))"
+"(NP+SBAR+S
+  (ADVP (RB already))
+  (S
+    (, ,)
+    (NP (NNP Blue) (JJ Planets) (NN aggregate))
+    (VP
+      (VBD went)
+      (PP (IN into) (NP (DT the) (NN concrete)))
+      (VBN used)
+      (S+VP
+        (TO to)
+        (VP
+          (VB build)
+          (NP
+            (DT a)
+            (JJ new)
+            (NN terminal)
+            (PP (IN at) (NP (NNP San) (NNP Francisco))))))))
+  (S
+    (NP (NNP International) (NN Airport))
+    (VP
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S+VP
+          (VBZ is)
+          (ADJP
+            (JJ due)
+            (S+VP (TO to) (VP (VB open) (NP (JJ next) (NN summer))))))))
+    (. .)))"
+"(NP+S
+  (NP
+    (NP
+      (NP
+        (NP (DT the) (NN leader))
+        (PP (IN of) (NP (DT the) (NN agency))))
+      (PP (IN that) (NP (JJ oversees) (NN air) (NN quality))))
+    (PP
+      (IN in)
+      (NP
+        (NP (CD nine) (NNP San) (NNP Francisco))
+        (NNP Bay)
+        (NNP Area))))
+  (VP
+    (VB counties)
+    (VBD said)
+    (SBAR
+      (IN that)
+      (S
+        (PP (IN if) (NP (DT the) (NNP Blue) (NNP Planet)))
+        (NP
+          (NP (NN process) (NN proves))
+          (PP
+            (IN as)
+            (NP
+              (ADJP
+                (JJ successful)
+                (RB as)
+                (VBN imagined)
+                (SBAR+S
+                  (NP (PRP it))
+                  (VP
+                    (MD could)
+                    (VBN spread)
+                    (PP (TO to) (NP (JJ other) (NN power))))))
+              (NNS plants))))
+        (CC and)
+        (NP (JJ heavy) (NN polluters))
+        (, ,)
+        (VP
+          (PP (IN like) (NP (DT a) (JJ cement) (NN factory)))
+          (PP (RB south) (IN of) (NP (NNP San) (NNP Francisco))))
+        (. .)))))"
+"(SINV
+  (S
+    (NP (JJ This) (NN process))
+    (VP
+      (VBZ has)
+      (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN promise))))))
+  (, ,)
+  (VP (VBZ ))
+  (VP (VBD said))
+  (NP
+    (NAC
+      (NNP Jack)
+      (NNP Broadbent)
+      (, ,)
+      (NNP CEO)
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (NNP Bay) (NNP Area))
+          (NNP Air)
+          (NNP Quality))))
+    (NNP Management)
+    (NNP District))
+  (. .))"
+"(S+ADJP
+  (ADJP
+    (JJ Essentially)
+    (SBAR+S
+      (NP (PRP we))
+      (VP
+        (VBP are)
+        (VBG learning)
+        (PP
+          (IN from)
+          (NP
+            (NN nature)
+            (S+VP (NP (PRP itself)) (TO to) (VP (VB be))))))))
+  (JJ able)
+  (SBAR+S+VP
+    (TO to)
+    (VP (VB address) (NP (DT a) (JJ man-made) (NN problem.)))))"

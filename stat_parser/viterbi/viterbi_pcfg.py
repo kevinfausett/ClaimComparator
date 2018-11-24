@@ -6,6 +6,7 @@ from nltk.tree import Tree
 import glob
 import os
 import re
+import pickle
 
 
 class PCFGTrainer:
@@ -48,8 +49,9 @@ class PCFGTrainer:
                         # end of tree
                     if paren_count == 0:
                         this_tree = self.delete_outer_parens(this_tree)
-                        print(this_tree)
-                        trees.append(Tree.fromstring(this_tree))
+                        tree = Tree.fromstring(this_tree)
+                        # tree.chomsky_normal_form()
+                        trees.append(tree)
                         this_tree = ""
                 self.tree_corpus = self.tree_corpus + trees
 
@@ -152,8 +154,14 @@ class PCFGTrainer:
                 string = string.replace(leaf, tag, 1)
             self.tree_corpus_pos_leaves.append(Tree.fromstring(string))
 
+    def dump_grammar(self):
+        file = open("./grammar.txt", 'wb')
+        pickle.dump(str(self.train()), file)
+        file.close()
+
 
 # pcfg_train = PCFGTrainer()
+# pcfg_train.dump_grammar()
 # print(pcfg_train.tree_corpus_pos_leaves)
 # pcfg_train.train()
 # print(pcfg_train.trained_grammar)

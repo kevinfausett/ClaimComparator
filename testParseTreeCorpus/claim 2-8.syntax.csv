@@ -1,0 +1,1136 @@
+"(NP+S
+  (NP (DT the) (NN climate))
+  (VP
+    (VBZ is)
+    (VBG changing)
+    (S
+      (, ,)
+      (CC but)
+      (VP
+        (ADVP (RB not) (RB just) (RB because))
+        (PP (IN of) (NP (NNS humans))))
+      (. .))))"
+"(NP+SBAR+WHNP+S+VP
+  (ADVP (RB here))
+  (VP
+    (VBZ 's)
+    (SBAR
+      (WHADVP (WRB why))
+      (S (NP (DT that)) (VP (VBZ matters)) (. .)))))"
+"(S
+  (NP (NP (PRP$ our) (NN culture)) (PP (IN of) (NP (NN disaster))))
+  (VP
+    (VBZ has)
+    (VBN increased)
+    (VB ideological)
+    (NP
+      (ADJP (JJ semantics) (CC but) (RB not) (VBN informed))
+      (NN decision-making)))
+  (. .))"
+"(NP+SBAR+S
+  (S
+    (NP (DT the) (NN climate))
+    (VP (VBZ is) (VBG changing) (VB ) (NP (DT the) (NN thing))))
+  (S
+    (VP
+      (VBZ is)
+      (SBAR+S
+        (, ,)
+        (NP (PRP it))
+        (VP
+          (VB isnt)
+          (ADJP (RB just) (JJ due) (PP (TO to) (NP (NNS humans)))))))
+    (. .)))"
+"(S
+  (NP (JJ natural) (NNS forces))
+  (NP (JJ beyond) (JJ human) (NN control))
+  (VP
+    (VBP are)
+    (ADVP (RB also))
+    (ADVP (RB gradually))
+    (VBG affecting)
+    (NP (PRP$ our) (NN climate)))
+  (. .))"
+"(S
+  (NP (DT these) (JJ geophysical) (NNS forces))
+  (VP
+    (VBP are)
+    (VB vital)
+    (S+VP
+      (TO to)
+      (VP (VBG understanding) (NP (JJ global) (NN warming)))))
+  (. .))"
+"(NP+S
+  (NP (NN man) (VBZ is))
+  (VP
+    (ADVP (RB indeed))
+    (ADJP (JJ responsible))
+    (SBAR
+      (IN for)
+      (S
+        (NP (DT a) (JJ large) (JJ portion) (NN ))
+        (ADVP (RB possibly))
+        (ADVP (RB even))
+        (NP (DT a) (NN majority))
+        (VP (VB ) (PP (IN of) (NP (JJ global) (NN warming))))
+        (. .)))))"
+"(UCP
+  (CC but)
+  (SBAR
+    (ADVP (RB also))
+    (IN in)
+    (S
+      (VP
+        (VB play)
+        (VBP are)
+        (UCP
+          (ADJP (JJ complex))
+          (NN gravitational)
+          (NN interactions)
+          (, ,)
+          (NP
+            (NP (VBG including) (NNS changes))
+            (PP (IN in) (NP (DT the) (NN Earths))))
+          (NN orbit)
+          (, ,)
+          (NN axial)
+          (NN tilt)
+          (CC and)
+          (JJ torque)))
+      (. .))))"
+"(S
+  (NP (DT this) (NN fact))
+  (VP
+    (VBZ needs)
+    (S+VP
+      (TO to)
+      (VP
+        (VB be)
+        (VBN included)
+        (PP (IN in) (NP (DT the) (JJ public) (NN debate))))))
+  (. .))"
+"(PRN+SBAR
+  (IN because)
+  (S
+    (NP (DT these) (JJ gravitational) (NN shifts))
+    (, ,)
+    (PP (VBG occurring) (IN over) (NP (NN millennia)))
+    (, ,)
+    (VP
+      (MD can)
+      (NP (NN influence) (NN climate))
+      (VB patterns)
+      (CC and)
+      (ADVP (RB ultimately))
+      (VB lead)
+      (PP
+        (TO to)
+        (NP
+          (NP (JJ noticeable) (NN variations))
+          (PP (IN in) (NP (NN seasons))))))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB interestingly))
+  (S
+    (, ,)
+    (NP (NN research))
+    (VP
+      (VBZ suggests)
+      (VB climate)
+      (VB change)
+      (MD can)
+      (VB alter)
+      (NP
+        (NP (DT the) (NN tilt))
+        (PP (IN of) (NP (DT the) (NP (NNP Earth)) (, ,))))))
+  (S
+    (CC but)
+    (NP
+      (NP (DT an) (JJ unrelated) (NN change))
+      (PP (IN in) (NP (NN tilt))))
+    (VP
+      (MD can)
+      (ADVP (RB also))
+      (ADVP (RB further))
+      (VB change)
+      (NP (DT the) (NN climate)))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (NP (PRP it))
+    (VP
+      (VBZ is)
+      (NP (DT a) (JJ balance-counterbalance) (NN relationship))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NNS changes))
+    (VP
+      (PP (IN in) (NP (DT the) (JJ Earths) (NN path)))
+      (PP (IN around) (NP (DT the) (NNP Sun)))))
+  (, ,)
+  (S
+    (CC or)
+    (VP
+      (VB eccentricity)
+      (NP
+        (NP
+          (NP (, ,) (JJ involve) (NN shifts))
+          (PP
+            (IN in)
+            (NP
+              (NP (DT the) (NN orbit))
+              (PP
+                (IN around)
+                (NP
+                  (NP (DT the) (NNP Sun))
+                  (PP
+                    (IN from)
+                    (NP
+                      (DT a)
+                      (ADJP (RB roughly) (JJ circular))
+                      (NN journey))))))))
+        (PP
+          (TO to)
+          (NP
+            (NP (JJR more))
+            (PP (IN of) (NP (DT an) (JJ elliptical) (NN one)))))))
+    (. .)))"
+"(SBAR
+  (WHADVP (WRB when))
+  (S
+    (NP (DT the) (NNP Earth))
+    (ADVP (RB gradually))
+    (NP
+      (JJ adopts)
+      (DT a)
+      (ADJP (RBR more) (JJ elliptical))
+      (NN orbit))
+    (, ,)
+    (NP (EX there))
+    (VP
+      (VBP are)
+      (ADJP
+        (RBR more)
+        (JJ pronounced)
+        (JJ temperatures)
+        (PP
+          (IN during)
+          (NP
+            (NP (DT the) (NN summer))
+            (CC and)
+            (JJ winter)
+            (NNS months)))))
+    (. .)))"
+"(NP+S
+  (NP (DT this) (NN alteration))
+  (VP
+    (VBZ is)
+    (VBD exacerbated)
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (DT the) (NN Earths))
+        (NP (JJ axial) (NN tilt))
+        (VP
+          (VBZ is)
+          (VBN inclined)
+          (PP
+            (TO to)
+            (NP
+              (NP (DT a) (JJ sharper) (NN degree))
+              (PP (IN than) (NP (NN usual))))))
+        (. .)))))"
+"(PRN+SBAR
+  (IN as)
+  (S
+    (NP (DT this) (NN happens))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VBZ causes)
+      (NP (DT the) (NNP North) (CC and) (NNP South) (NNP Poles))
+      (S+VP
+        (TO to)
+        (VP
+          (VB be)
+          (VBN positioned)
+          (ADVP (RBR more) (RB directly))
+          (PP (IN toward) (NP (DT the) (NNP Sun))))))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ Havent)
+    (SBAR+S
+      (NP (PRP you))
+      (VP
+        (VBN noticed)
+        (NP (DT the) (JJ recent) (NN rise))
+        (PP (IN in) (NP (JJ irregular) (NN weather) (NN patterns))))))
+  (. ?))"
+"(SINV
+  (S (NP (DT this)) (VP (VBZ is) (ADVP (RB not) (RB just))))
+  (NP (DT a) (JJ man-made) (NN problem))
+  (. .))"
+"(S+ADJP
+  (ADJP
+    (JJ gradual)
+    (JJ slight)
+    (JJ variations)
+    (PP (IN in) (NP (DT the) (NN Earths))))
+  (ADJP (JJ orbit))
+  (SBAR
+    (IN around)
+    (S
+      (NP (DT the) (NNP Sun))
+      (VP
+        (MD can)
+        (ADVP (RB strongly))
+        (NP (NN influence) (NN temperature) (NN extremes)))
+      (. .))))"
+"(S+SBAR
+  (S
+    (NP (DT this))
+    (VP
+      (VBZ is)
+      (ADJP
+        (JJ important)
+        (PP (IN because) (NP (DT the) (NN conversation))))))
+  (IN around)
+  (S
+    (NP (JJ climate) (NN change))
+    (VP (VBZ has) (VB become) (ADJP (RB so) (VBN politicized))))
+  (, ,)
+  (S
+    (NP (PRP we))
+    (VP
+      (VBP 've)
+      (ADVP (RB totally))
+      (VBD lost)
+      (VB sight)
+      (PP (IN of) (NP (DT the) (JJ science) (NN )))
+      (SBAR
+        (CC and)
+        (IN with)
+        (S
+          (NP (PRP it))
+          (, ,)
+          (VP
+            (NP (DT any) (NN room))
+            (PP (IN for) (NP (NN bipartisanship))))
+          (. .))))))"
+"(S
+  (NP (JJ tropical) (NN storms))
+  (, ,)
+  (PP (IN for) (NP (NN example)))
+  (, ,)
+  (VP
+    (VBP have)
+    (VBN been)
+    (VBG forming)
+    (ADVP
+      (ADVP (JJ later))
+      (SBAR
+        (WHPP (IN in) (WHNP (WP what)))
+        (S
+          (NP (PRP we))
+          (VP (VB know) (PP (IN as) (NP (JJ hurricane) (NN season))))))))
+  (. .))"
+"(RRC+VP
+  (VBN based)
+  (PP
+    (IN on)
+    (NP
+      (PRP$ my)
+      (JJ own)
+      (NN analysis)
+      (PRN
+        (, ,)
+        (PP
+          (IN over)
+          (NP (DT the) (JJ past) (CD three) (NNS decades)))
+        (, ,))
+      (DT the)
+      (NN majority)
+      (PP
+        (IN of)
+        (NP
+          (NNP Category)
+          (QP (CD 3) (CC or) (JJR stronger))
+          (NNS storms)))))
+  (S+VP
+    (TO to)
+    (VP
+      (VB hit)
+      (S
+        (NP (DT the) (NNP United) (NNPS States))
+        (VP
+          (VB appear)
+          (PP
+            (IN from)
+            (NP
+              (JJ late)
+              (NP (NNP August))
+              (PP (TO to) (NP (JJ early) (NNP October))))))
+        (. .)))))"
+"(SQ+FRAG
+  (ADJP
+    (JJR earlier)
+    (SBAR
+      (IN in)
+      (S
+        (NP (DT the) (JJ 20th) (NN century))
+        (, ,)
+        (NP (NNS storms))
+        (VP
+          (ADVP (RB usually))
+          (VBN occurred)
+          (PP
+            (IN in)
+            (NP
+              (NNP June)
+              (, ,)
+              (NP (NNP July))
+              (CC and)
+              (JJ early)
+              (NNP August)))))))
+  (. .))"
+"(SBARQ
+  (SQ (NP (PRP it)) (VBZ doesnt) (VBP stop) (NP (EX there)))
+  (. .))"
+"(S
+  (NP (NP (NNS changes)) (PP (IN in) (NP (NN seasons))))
+  (VP
+    (MD can)
+    (ADVP (RB also))
+    (VB affect)
+    (NP
+      (NP (JJ other) (NNS types))
+      (PP
+        (IN of)
+        (NP
+          (JJ storms)
+          (NX
+            (, ,)
+            (VBG including)
+            (NN severe)
+            (NX (NNS winter))
+            (NX (NNS snowstorms))
+            (CC and)
+            (NX (NNS tornadoes)))))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (JJ recall)
+    (S+VP
+      (NP
+        (NP
+          (NP
+            (NP (DT the) (NNP Storm))
+            (PP (IN of) (NP (DT the) (NNP Century))))
+          (PP (IN in) (NP (CD 1993))))
+        (PP
+          (IN on)
+          (NP
+            (NP (DT the) (NN heels))
+            (PP (IN of) (NP (NNP Hurricane) (NNP Andrew))))))
+      (ADVP (NP (DT the) (NN year)) (RB prior))))
+  (. .))"
+"(UCP
+  (CC or)
+  (SBAR
+    (WHNP (WP what))
+    (S
+      (PP
+        (IN about)
+        (NP
+          (NP (DT the) (JJ recent) (NN string))
+          (PP (IN of) (NP (NN snowstorms)))))
+      (PRN
+        (-LRB- ()
+        (PP
+          (IN with)
+          (NP
+            (NP (NNS names))
+            (PP
+              (IN like)
+              (NP
+                (NNP Snowpocalypse)
+                (, ,)
+                (NNP Snowmageddon)
+                (CC and)
+                (NNP Snowzilla)))))
+        (-RRB- )))
+      (VP
+        (VBG dovetailing)
+        (PP (IN with) (NP (JJ warm-weather) (NN superstorms))))
+      (. .))))"
+"(NP+S
+  (NP (JJ climate) (NN extremes))
+  (VP
+    (VBP are)
+    (VB evident)
+    (S
+      (, ,)
+      (CC and)
+      (VP
+        (ADVP (RB not) (RB just))
+        (PP (IN with) (NP (NN hurricanes))))
+      (. .))))"
+"(NP+SBAR+S
+  (S
+    (NP
+      (NP (DT the) (NN variations))
+      (PP (IN in) (NP (DT the) (JJ Earths) (NN orbit))))
+    (VP
+      (VBP are)
+      (VBN known)
+      (PP
+        (IN as)
+        (NP
+          (NP (DT the) (NNP Milankovitch) (JJ cycles) (NN ))
+          (PP
+            (IN after)
+            (NP (DT the) (NNP Serbian) (NNP geophysicist)))))))
+  (S
+    (NP (NNP Milutin) (NNP Milankovic))
+    (VP
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VBD hypothesized)
+          (NP
+            (NP (DT this) (NN phenomenon))
+            (PP (IN in) (NP (DT the) (NN 1920s)))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (PRP he))
+    (VP
+      (VBN discovered)
+      (PP
+        (IN that)
+        (NP
+          (NP (NNS variations))
+          (PP
+            (IN in)
+            (NP
+              (DT the)
+              (JJ Earths)
+              (NN path)
+              (PP (IN around) (NP (DT the) (NNP Sun)))))))))
+  (, ,)
+  (S
+    (NP (JJ axial) (NN tilt))
+    (CC and)
+    (VP
+      (VB torque)
+      (MD could)
+      (ADVP (RB together))
+      (VB affect)
+      (NP (PRP$ our) (NN climate)))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB even))
+  (S
+    (NP (DT a) (JJ slight) (NN change))
+    (CC or)
+    (NP
+      (NP (NNS orientation))
+      (PP
+        (IN in)
+        (NP
+          (NP (DT the) (NN precession))
+          (PP (IN of) (NP (DT the) (NN Earths))))))
+    (NP (VBG rotating) (NN body))
+    (VP (MD can) (VB cause) (NP (DT a) (VBG wobbling) (NN effect))))
+  (S
+    (NP
+      (NP
+        (NP (VBG shifting) (NN torque))
+        (PP (IN in) (NP (JJ different) (NNS areas))))
+      (PP (IN since) (NP (DT the) (NN planet))))
+    (VP
+      (VBZ is)
+      (RB not)
+      (NP (DT a) (JJ perfect) (NN sphere))
+      (PP (TO to) (NP (DT some) (JJ peoples) (NN surprise))))
+    (. .)))"
+"(NP+SBAR+WHNP+S+VP
+  (ADVP (RB now))
+  (VP
+    (MD would)
+    (VBP seem)
+    (S
+      (NP (DT a) (ADJP (RB particularly) (JJ apt)) (NN time))
+      (VP (TO to) (VP (VB act)))
+      (. .))))"
+"(S
+  (NP (DT the) (CD 2017) (NNP Atlantic) (JJ hurricane) (NN season))
+  (VP
+    (VBD was)
+    (NP (DT an) (JJ intense) (, ,) (JJ record-setting) (NN period)))
+  (. .))"
+"(PRN+SBAR
+  (IN with)
+  (S
+    (NP (JJ several) (NN landfall))
+    (VP
+      (VB hurricanes)
+      (NP
+        (NAC
+          (NNP )
+          (NNP Harvey)
+          (, ,)
+          (NNP Irma)
+          (, ,)
+          (NNP Jose)
+          (CC and)
+          (NNP Maria)
+          (NNP )
+          (PP
+            (VBG barreling)
+            (NP
+              (NP (PRP$ their) (NN way))
+              (PP
+                (IN through)
+                (NP
+                  (DT the)
+                  (NNP Caribbean)
+                  (CC and)
+                  (NNP Gulf)
+                  (PP
+                    (IN of)
+                    (NP
+                      (NP
+                        (NNP Mexico)
+                        (, ,)
+                        (VBG devastating)
+                        (NNS parts))
+                      (PP
+                        (IN of)
+                        (NP (DT the) (NNP Leeward) (NNPS Islands))))))))))
+        (CC and)
+        (NNP United)
+        (NNPS States)))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB still))
+  (S
+    (, ,)
+    (ADVP (RB even))
+    (NP (NNP President) (NNP Donald))
+    (NP (NNP J.) (NNP Trump))
+    (VP
+      (VBZ has)
+      (VBN implied)
+      (NP (DT the) (NN whole))
+      (PP (IN of) (NP (NN idea) (NN climate)))))
+  (S
+    (VP
+      (VB change)
+      (MD may)
+      (ADVP (RB just))
+      (VB be)
+      (NP (DT a) (NN hoax)))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (RBS most)
+    (JJ Republicans)
+    (S+VP
+      (VBP seem)
+      (TO to)
+      (VP
+        (VB agree)
+        (SBAR
+          (IN that)
+          (S
+            (NP (PRP it))
+            (VP
+              (VBZ is)
+              (RB not)
+              (NP (DT a) (JJ serious) (NN problem))))))))
+  (. .))"
+"(VP+VP
+  (ADVP (RB meanwhile))
+  (, ,)
+  (SBAR
+    (IN while)
+    (S
+      (S
+        (NP (DT some) (NNPS Democrats))
+        (VP
+          (VBP have)
+          (VBN tried)
+          (S+VP (TO to) (VP (VB use) (NP (DT the) (NN frequency))))))
+      (CC and)
+      (NP
+        (NP (NNS intensity))
+        (PP
+          (IN of)
+          (NP
+            (NP (NNS storms))
+            (PP
+              (IN in)
+              (NP
+                (DT the)
+                (NP (NNS hopes))
+                (PP
+                  (IN of)
+                  (S+VP
+                    (VBG highlighting)
+                    (NP (DT the) (NN climate)))))))))
+      (NP (NN change) (NN conversation))
+      (, ,)
+      (ADVP (RB even))
+      (NP (DT this) (NN effort))
+      (VP (VBZ has) (VBD seemed) (VP (VBN muted)))
+      (. .))))"
+"(VP+S+VP
+  (TO to)
+  (VP
+    (VB make)
+    (S
+      (NP (JJ effective) (NN policy))
+      (, ,)
+      (NP (PRP it))
+      (VP
+        (VBZ is)
+        (ADJP
+          (ADJP (JJ important) (PP (IN for) (NP (NNS politicians))))
+          (CC and)
+          (JJ activists)
+          (JJ alike)
+          (S+VP
+            (TO to)
+            (VP
+              (VB set)
+              (VB aside)
+              (NP (PRP$ their) (JJ ideological) (NNS differences))))))
+      (. .))))"
+"(SINV
+  (S
+    (NP (EX there))
+    (VP
+      (VBZ is)
+      (ADVP (RB now))
+      (NP (DT a) (JJ real) (NN opportunity))
+      (PP (IN for) (NP (JJ new) (NN legislation)))))
+  (, ,)
+  (VP (VBP sound))
+  (NP (JJ environmental) (NN legislation))
+  (. .))"
+"(S
+  (CC but)
+  (VP
+    (MD will)
+    (SBAR+S
+      (NP (PRP we))
+      (VP
+        (VB squander)
+        (NP (DT this) (JJ unprecedented) (NN opportunity))
+        (, ,)
+        (S+VP (VBG punting) (NP (DT the) (NN ball)))))
+    (ADVP (RB yet) (RB again)))
+  (. ?))"
+"(SBARQ
+  (SQ
+    (NP (PRP you))
+    (VP (MD can) (VB bet) (PP (IN on) (NP (PRP it)))))
+  (. .))"
+"(VP+VP
+  (VBN given)
+  (NP
+    (NP (DT the) (NN realities))
+    (SBAR
+      (IN of)
+      (S
+        (NP (JJ everyday) (NN life))
+        (, ,)
+        (NP
+          (NP (DT the) (NN extent))
+          (PP (IN of) (NP (JJ social) (NN beliefs))))
+        (, ,)
+        (NP (JJ political) (NN attitudes))
+        (CC and)
+        (NP (JJ economic) (NN perspectives))
+        (VP
+          (VB vary)
+          (PP
+            (IN on)
+            (NP
+              (NP (DT a) (JJ wide) (NN range))
+              (PP (IN of) (NP (NN policy) (NNS issues))))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (S+VP (TO to) (VP (VB make) (NP (NN sound))))
+    (CC and)
+    (NP (JJ effective) (NN policy))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (VBZ is)
+      (ADJP (JJ important) (PP (IN for) (NP (NNS politicians))))))
+  (S
+    (CC and)
+    (NP
+      (NP (JJ activists) (NN alike))
+      (SBAR+S+VP
+        (TO to)
+        (VP
+          (VB set)
+          (VB aside)
+          (NP (PRP$ their) (JJ ideological) (NNS differences)))))
+    (VP
+      (CC and)
+      (VB return)
+      (PP
+        (TO to)
+        (NP (NP (DT the) (NN basics)) (PP (IN of) (NP (NN science)))))))
+  (, ,)
+  (S
+    (PP (IN in) (NP (DT this) (NN case)))
+    (, ,)
+    (VP (NP (DT the) (NN mechanics)) (PP (IN of) (NP (NN science))))
+    (. .)))"
+"(PRN+SBAR
+  (IN after)
+  (S
+    (NP (DT all))
+    (, ,)
+    (VP
+      (VBZ shouldnt)
+      (SBAR+S
+        (NP (PRP we))
+        (VP
+          (VB be)
+          (S+VP
+            (VBG relying)
+            (VP
+              (ADVP (RBR more) (RB heavily))
+              (PP
+                (IN upon)
+                (NP
+                  (JJ geoscientists)
+                  (CC and)
+                  (NN weather)
+                  (NN forecasters))))
+            (TO to)
+            (VP
+              (VB provide)
+              (NP
+                (NP (JJ evidence-based) (NNS data))
+                (CC and)
+                (JJ predictive)
+                (NN modeling)))))))
+    (. ?)))"
+"(SINV
+  (NP
+    (NNS risks)
+    (S+VP (TO to) (VP (VB disasters) (VBZ are) (VBG increasing))))
+  (. .))"
+"(NP+S
+  (NP
+    (NP (NN population) (NN growth))
+    (PP (IN along) (NP (JJ coastlines) (NN worldwide))))
+  (VP
+    (, ,)
+    (SBAR
+      (IN in)
+      (S
+        (NP
+          (NP (NN addition))
+          (PP
+            (TO to)
+            (NP
+              (JJ technological)
+              (CC and)
+              (JJ infrastructural)
+              (NN development))))
+        (, ,)
+        (VP
+          (MD will)
+          (ADVP (RB inherently))
+          (VB result)
+          (PP
+            (IN in)
+            (NP
+              (NP (DT a) (JJ concomitant) (NN increase))
+              (PP
+                (IN in)
+                (NP
+                  (NP (NNS places))
+                  (ADJP
+                    (JJ prone)
+                    (S+VP (TO to) (VP (VB disasters)))))))))
+        (. .)))))"
+"(SQ+FRAG
+  (ADJP
+    (JJ modern)
+    (JJ society)
+    (JJ relies)
+    (PP
+      (IN upon)
+      (NP
+        (NP
+          (NP (NN government))
+          (PP
+            (IN for)
+            (NP
+              (JJ effective)
+              (NP (NN response))
+              (PP (TO to) (NP (CC and) (NNS recovery))))))
+        (PP (IN from) (NP (JJ such) (NNS events))))))
+  (. .))"
+"(S
+  (VP
+    (VB change)
+    (VBZ is)
+    (VBG occurring)
+    (CC and)
+    (MD will)
+    (VB continue)
+    (S+VP (TO to) (VP (VBP do) (ADVP (IN so)))))
+  (. .))"
+"(S+SBAR
+  (IN as)
+  (S
+    (NP (DT the) (NN population))
+    (VP (VBZ continues) (S+VP (TO to) (VP (VB explode)))))
+  (S
+    (NP (CC and) (NNS resources))
+    (VP
+      (VBP are)
+      (VBN consumed)
+      (PP (IN on) (NP (DT a) (JJ massive) (NN scale)))))
+  (, ,)
+  (S
+    (VP
+      (VBG trying)
+      (S+VP
+        (TO to)
+        (VP
+          (VB stop)
+          (ADVP (DT both))
+          (VBZ is)
+          (ADJP (JJ unrealistic)))))
+    (. .)))"
+"(SBAR+S
+  (NP (PRP it))
+  (VP
+    (VBZ is)
+    (ADJP
+      (JJR more)
+      (SBAR
+        (IN than)
+        (S
+          (ADVP (RB just))
+          (NP (VBG being) (NN unrealistic))
+          (, ,)
+          (NP (PRP it))
+          (VP
+            (VBZ is)
+            (ADVP (RB simply))
+            (VBG wasting)
+            (NP (JJ critical) (NN time)))
+          (. .))))))"
+"(SBAR+S
+  (NP (PRP I))
+  (VP
+    (VB know)
+    (S (, ,) (VP (VB science) (NP (JJ isnt) (NN sexy))) (. .))))"
+"(SQ+VP+VP
+  (NP (DT the) (NN obsession))
+  (PP
+    (IN on)
+    (SBAR
+      (WHADVP (WRB why))
+      (S
+        (VP
+          (VB storms)
+          (VBP are)
+          (VBG occurring)
+          (PP
+            (IN in)
+            (NP
+              (NP (NNS lieu))
+              (PP
+                (IN of)
+                (S+VP
+                  (VBG discussing)
+                  (NP
+                    (DT the)
+                    (SBAR
+                      (WHADVP (WRB how))
+                      (S+VP
+                        (VBZ is)
+                        (VP
+                          (VBG leading)
+                          (NP (PRP us))
+                          (PRT (IN down)))))
+                    (DT a)
+                    (JJ dangerous)
+                    (NN path)))))))
+        (. .)))))"
+(SQ+FRAG (ADJP (DT A) (RB deadly) (JJ path)) (. .))
+"(S
+  (NP
+    (NP (DT the) (JJ heightened) (NN culture))
+    (PP (IN of) (NP (JJ disaster) (JJ only) (NN feeds))))
+  (NP
+    (NP (PRP$ our) (NN attention))
+    (PP (IN on) (NP (JJ political) (NN banter))))
+  (CC and)
+  (NP (JJ ideological) (NN semantics))
+  (VP
+    (PP (IN with) (NP (DT no) (NN room)))
+    (PP (IN for) (NP (JJ informed) (NN decision-making))))
+  (. .))"
+"(SBAR+S
+  (NP (PRP we))
+  (VP
+    (VB get)
+    (S
+      (NP (PRP it))
+      (, ,)
+      (NP (NNP Mother) (NNP Nature))
+      (VP (ADVP (RB always)) (VP (VB wins)))
+      (. .))))"
+"(PRN+SBAR
+  (IN so)
+  (S
+    (, ,)
+    (VP
+      (VBP are)
+      (SBAR+S
+        (NP (PRP we))
+        (VP
+          (ADVP (RB now))
+          (VBN faced)
+          (PP
+            (IN with)
+            (NP
+              (NP (DT the) (VBG sobering) (NN lesson))
+              (SBAR
+                (WHNP (WDT that))
+                (S+VP
+                  (RB little)
+                  (VP
+                    (MD can)
+                    (VB be)
+                    (VBN done)
+                    (S
+                      (, ,)
+                      (CC and)
+                      (NP (PRP we))
+                      (VP
+                        (MD should)
+                        (ADVP (RB just))
+                        (VB throw)
+                        (PP (IN in) (NP (DT the) (NN towel)))))))))))))
+    (. ?)))"
+"(NP
+  (DT no)
+  (, ,)
+  (SBAR (IN of) (S (VP (NP (NN course)) (RB not)) (. .))))"
+"(VP+VP
+  (PP (IN though) (NP (JJ climate) (NN change)))
+  (VBZ is)
+  (VB inevitable)
+  (, ,)
+  (SBAR
+    (SBAR+S
+      (NP (PRP we))
+      (VP
+        (ADVP (RB also))
+        (VBP need)
+        (S+VP
+          (TO to)
+          (VP (VB have) (NP (DT a) (JJ healthy) (NN appreciation))))))
+    (IN of)
+    (S
+      (NP
+        (DT the)
+        (NP (NN fact))
+        (PP (IN that) (NP (JJ climate) (NN shifts))))
+      (VP
+        (VB arent)
+        (ADVP (RB just))
+        (VBN limited)
+        (S+VP
+          (TO to)
+          (VP
+            (ADVP (RB rapidly))
+            (VBG changing)
+            (NP (NN weather) (NN patterns)))))
+      (. .))))"
+"(S+VP
+  (VBG turning)
+  (NP
+    (NP (DT the) (NN corner))
+    (SBAR
+      (IN into)
+      (S
+        (VP
+          (VBN unexplored)
+          (VB territory)
+          (VBZ is)
+          (ADVP (RB always))
+          (ADJP (JJ difficult)))
+        (. .)))))"
+"(UCP
+  (PP
+    (IN by)
+    (S+VP
+      (VBG having)
+      (NP
+        (NP (DT a) (JJR broader) (NN sense))
+        (PP (IN of) (NP (JJ communal) (NN resiliency))))))
+  (NN )
+  (JJ social)
+  (, ,)
+  (JJ political)
+  (CC and)
+  (S
+    (NP (JJ economic) (NN standing) (NN ))
+    (NP (PRP we))
+    (VP
+      (MD can)
+      (VB manage)
+      (NP
+        (NP (DT this) (JJ unavoidable) (NN pendulum))
+        (PP (IN of) (NP (JJ climate) (NN extremes)))))
+    (. .)))"
+"(PRN+SBAR
+  (IN with)
+  (S
+    (NP
+      (DT the)
+      (ADJP
+        (JJ recent)
+        (JJ sweeping)
+        (PP
+          (IN of)
+          (NP (NN storms) (S+VP (VBG draining) (NP (NN response))))))
+      (NNS efforts))
+    (CC and)
+    (NP (JJ budgetary) (NNS resources))
+    (, ,)
+    (ADVP (RB now))
+    (VP
+      (VBZ is)
+      (NP (DT the) (NN time))
+      (S+VP
+        (TO to)
+        (VP
+          (VBD set)
+          (SBAR+S
+            (NP (JJ aside) (DT the) (JJ theatrical) (NN shenanigans))
+            (VP
+              (CC and)
+              (VB engage)
+              (PP (IN in) (NP (NN realpolitik))))))))
+    (. .)))"

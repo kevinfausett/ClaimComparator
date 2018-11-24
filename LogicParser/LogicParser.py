@@ -45,8 +45,11 @@ class LogicParser:
 
     # is_logic_unit: returns a boolean which is true if the given tree is an ls unit
     def is_logic_unit(self, tree):
+        criterion1 = tree.label() in self.dominant_nodes
+        if tree.parent():
+            pass  # TODO: more criteria
         print("is logic unit")
-        return tree.label() in self.dominant_nodes
+        return criterion1
 
     # insert_delimiters: inserts brackets arounds
     def insert_delimiters(self):

@@ -1,0 +1,1117 @@
+"(SINV
+  (S
+    (NP
+      (CD 5)
+      (NNP Major)
+      (NNP Crops)
+      (PP
+        (IN In)
+        (NP (DT The) (NNP Crosshairs) (NNP Of) (NNP Climate))))
+    (NP (NNP Change) (NNP Climate))
+    (VP
+      (VB change)
+      (VBZ is)
+      (VBG coming)
+      (PP (IN like) (NP (DT a) (JJ freight) (NN train)))))
+  (, ,)
+  (NP (CC or) (DT a) (VBG rising) (NN tide))
+  (. .))"
+"(UCP
+  (CC and)
+  (NP (PRP$ our) (NN food))
+  (, ,)
+  (ADJP (RB so) (JJ dependent) (PP (IN on) (NP (NN rain))))
+  (CC and)
+  (S
+    (NP (JJ suitable) (NN temperatures))
+    (, ,)
+    (VP
+      (NP (JJ sits) (NN right))
+      (PP (IN in) (NP (PRP$ its) (NN path))))
+    (. .)))"
+"(S
+  (NP (NP (DT the) (NNS plants)) (PP (IN that) (NP (NN nourish))))
+  (NP (PRP us))
+  (VP (MD wo) (RB n't) (VB disappear) (ADVP (RB entirely)))
+  (. .))"
+"(S+SBAR
+  (S
+    (CC but)
+    (NP (PRP they))
+    (VP
+      (MD may)
+      (VBP have)
+      (S+VP
+        (TO to)
+        (VP
+          (VB move)
+          (PP
+            (TO to)
+            (NP
+              (QP (JJR higher) (CC and) (JJR cooler))
+              (NNS latitudes)))))))
+  (, ,)
+  (S
+    (CC or)
+    (VP (VB farther) (PRT (RP up)) (NP (DT a) (NN mountainside)))
+    (. .)))"
+"(NP+S
+  (NP (DT some) (NNS places))
+  (VP
+    (MD may)
+    (VB find)
+    (S
+      (NP (PRP it))
+      (VP
+        (ADJP
+          (JJR harder)
+          (SBAR+S+VP
+            (TO to)
+            (VP
+              (VB grow)
+              (NP
+                (NP (NN anything))
+                (PP
+                  (IN at)
+                  (NP
+                    (DT all)
+                    (, ,)
+                    (SBAR
+                      (IN because)
+                      (S
+                        (NP (EX there))
+                        (VP (VBZ 's) (RB not) (ADJP (RB enough)))))))))))
+        (NP (NN water)))
+      (. .))))"
+"(NP+SBAR+WHNP+S+VP
+  (ADVP (RB here))
+  (VP
+    (VBP are)
+    (S
+      (NP (CD five) (NNS foods))
+      (, ,)
+      (CC and)
+      (NP (JJ food-growing) (NNS places))
+      (VP
+        (, ,)
+        (SBAR
+          (WHNP (WDT that))
+          (S+VP (MD will) (VP (VB see) (NP (DT the) (NN impact))))))
+      (. .))))"
+"(NAC
+  (NNP wheat)
+  (NNP Wheat)
+  (, ,)
+  (NN source)
+  (PP
+    (IN of)
+    (NP
+      (JJ bread)
+      (CC and)
+      (DT a)
+      (NN foundation)
+      (PP
+        (IN of)
+        (NP
+          (NN life)
+          (SBAR
+            (IN in)
+            (S
+              (NP
+                (NP (JJ much))
+                (PP (IN of) (NP (DT the) (NN world))))
+              (, ,)
+              (VP
+                (MD will)
+                (VB suffer)
+                (PP
+                  (IN from)
+                  (NP
+                    (NP (JJ hotter) (NN temperatures))
+                    (JJ )
+                    (CC and)
+                    (DT the)
+                    (NN country)))
+                (SBAR
+                  (WHADVP (WRB where))
+                  (S
+                    (NP (DT the) (NN impact))
+                    (VP
+                      (MD may)
+                      (VB be)
+                      (ADJP
+                        (JJS greatest)
+                        (VP
+                          (ADVP (RB also))
+                          (VBZ is)
+                          (PP
+                            (IN among)
+                            (NP (JJS least) (NN well-equipped)))
+                          (S+VP
+                            (TO to)
+                            (VP
+                              (VB cope)
+                              (PP
+                                (IN with)
+                                (NP (DT a) (NN shortfall)))))))))))
+              (. .))))))))"
+"(S+ADJP
+  (ADJP
+    (JJ india)
+    (S+VP
+      (VBZ is)
+      (ADJP
+        (JJ likely)
+        (S+VP
+          (TO to)
+          (VP
+            (VB see)
+            (NP
+              (NP (DT a) (JJ large) (NN drop))
+              (PP (IN in) (NP (JJ wheat) (NN production)))))))))
+  (ADJP (JJ due) (PP (TO to) (NP (JJ heat) (NN stress))))
+  (ADJP (JJ ))
+  (SBAR
+    (IN about)
+    (S
+      (NP
+        (NP (CD 8) (NN percent))
+        (PP
+          (IN if)
+          (NP
+            (JJ average)
+            (JJ global)
+            (JJ temperatures)
+            (NN rise)
+            (PP (IN by) (NP (CD 1) (NN degree))))))
+      (NP (NNP Celsius))
+      (, ,)
+      (VP
+        (VBG according)
+        (PP (TO to) (NP (CD one) (JJ recent) (NN study))))
+      (. .))))"
+"(ADVP
+  (ADVP
+    (NP
+      (NP (NNS temperatures))
+      (VP (VBP are) (VBN expected) (S+VP (TO to) (VP (VB rise)))))
+    (JJR more))
+  (SBAR
+    (IN than)
+    (S
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (: ;)
+          (VBG according)
+          (TO to)
+          (VP
+            (NP (DT a) (JJ recent) (NN report))
+            (PP (IN from) (NP (DT the) (NN U.N.))))))
+      (NP
+        (NP (NNP Intergovernmental) (NNP Panel))
+        (PP (IN on) (NP (NNP Climate) (NNP Change))))
+      (, ,)
+      (S+VP
+        (VBG limiting)
+        (NP
+          (NP (JJ climate) (NN change))
+          (PP (TO to) (NP (CD 1.5) (NNS degrees)))))
+      (NP (NNP Celsius))
+      (VP
+        (MD will)
+        (VB require)
+        (VB heroic)
+        (NP (CC and) (JJ dramatic) (NN action)))
+      (. .))))"
+"(S+SBAR
+  (S
+    (NP (PRP it))
+    (VP
+      (MD will)
+      (VB take)
+      (NP
+        (NP
+          (NP (JJ significant) (NN cuts))
+          (PP (IN in) (NP (JJ greenhouse) (NN gas) (NNS emissions))))
+        (PP (IN within) (NP (CD 15) (NNS years))))))
+  (, ,)
+  (S
+    (NP (CC plus) (NNS efforts))
+    (VP
+      (PP
+        (TO to)
+        (NP
+          (JJ recapture)
+          (NP (DT some))
+          (PP (IN of) (NP (DT the) (NN carbon)))))
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (VBZ 's)
+          (VP
+            (ADVP (RB already))
+            (VBN been)
+            (VBN emitted)
+            (, ,)
+            (SBAR
+              (ADVP (RB perhaps))
+              (IN by)
+              (S
+                (VP (VBG planting) (NP (JJ new) (NN forests)))
+                (. .)))))))))"
+"(VP+VP
+  (ADVP (RB globally))
+  (, ,)
+  (SBAR
+    (IN though)
+    (S
+      (, ,)
+      (VP
+        (VB wheat)
+        (MD may)
+        (RB not)
+        (VB be)
+        (PP
+          (IN in)
+          (NP
+            (NP (JJ short) (NN supply))
+            (PP (IN in) (NP (DT a) (JJ warmer) (NN world))))))
+      (. .))))"
+"(VP+VP
+  (VB russia)
+  (, ,)
+  (SBAR
+    (WHNP (WDT which))
+    (S+VP
+      (VBZ is)
+      (S
+        (ADVP (RB already))
+        (NP (DT a) (JJ major) (JJ wheat) (NN exporter))
+        (, ,)
+        (VP
+          (MD may)
+          (VB be)
+          (ADJP
+            (JJ able)
+            (S+VP
+              (TO to)
+              (VP
+                (VB expand)
+                (NP
+                  (NP (DT the) (NN amount))
+                  (PP (IN of) (NP (NN land)))))))
+          (VBN devoted)
+          (PP (TO to) (NP (DT this) (NN crop))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (NNP peaches) (NNP Despite))
+    (NP (NNP Georgia) (POS 's))
+    (VP
+      (VBP claim)
+      (S+VP
+        (TO to)
+        (VP (VB be) (NP (DT the) (NNP Peach) (NNP State))))))
+  (, ,)
+  (S
+    (NP (NNP California))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN country) (POS 's))
+        (JJS biggest)
+        (JJ peach)
+        (NN producer)))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (NNS farmers))
+    (NP (EX there))
+    (VP
+      (VB grow)
+      (PP
+        (IN about)
+        (NP
+          (NP (DT half))
+          (PP (IN of) (NP (DT the) (NN country) (POS 's)))))))
+  (S
+    (NP (JJ fresh) (NN peaches))
+    (, ,)
+    (CC and)
+    (ADVP (RB almost))
+    (NP (DT all))
+    (VP
+      (PP (IN of) (NP (DT the) (NN fruit)))
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (VBZ 's)
+          (VP
+            (VBN canned)
+            (CC and)
+            (VBN processed)
+            (PP (IN in) (NP (JJ other) (NNS ways)))))))
+    (. .)))"
+"(S
+  (NP (JJ many) (JJ fruit) (NN trees))
+  (, ,)
+  (NP (VBG including) (NN peaches))
+  (, ,)
+  (VP (VB have) (NP (DT a) (JJ peculiar) (NN requirement)))
+  (. .))"
+"(S+SBAR
+  (IN if)
+  (S
+    (NP (PRP they))
+    (VP
+      (VBP do)
+      (RB n't)
+      (VB experience)
+      (NP
+        (NP (JJ enough) (NN chill))
+        (PP (IN during) (NP (NN wintertime))))))
+  (, ,)
+  (S
+    (NP (PRP they))
+    (VP
+      (VB get)
+      (VBN confused)
+      (CC and)
+      (VBP do)
+      (RB n't)
+      (VB bloom)
+      (ADVP (RB properly)))
+    (. .)))"
+"(SQ+FRAG (ADJP (RB no) (JJ bloom) (, ,) (RB no) (JJ harvest)) (. .))"
+"(SINV
+  (S
+    (NP (DT the) (JJ peach) (NN trees))
+    (VP
+      (ADVP (RB currently))
+      (VBN grown)
+      (PP (IN in) (NP (NNP California) (POS 's)))))
+  (S
+    (NP (NNP Central) (NNP Valley))
+    (VP (VB require) (PP (IN about) (NP (CD 700)))))
+  (`` ``)
+  (NP (VBG chilling) (NNS hours))
+  ('' '')
+  (PP (IN during) (NP (DT the) (NN winter)))
+  (. .))"
+"(S+SBAR
+  (S
+    (CC but)
+    (NP (NNS scientists))
+    (VP
+      (VBP are)
+      (VBG predicting)
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (PP (IN by) (NP (DT the) (NN end)))
+          (PP (IN of) (NP (DT the) (NN century)))))))
+  (, ,)
+  (S
+    (ADVP (RB only))
+    (NP
+      (NP (CD 10) (NN percent))
+      (PP (IN of) (NP (DT the) (NN valley))))
+    (VP
+      (MD will)
+      (ADVP (RB reliably))
+      (VB see)
+      (PP (IN that) (NP (JJ much) (NN chilling))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (CC and)
+    (ADVP (RB even))
+    (SBAR
+      (IN if)
+      (S
+        (NP (NN plant) (NN breeders))
+        (VP (VB create) (NP (JJ peach) (NN varieties)))))
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP (VBP need) (ADJP (RBR less) (JJ chilling))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ 's) (NP (DT another) (NN problem))))
+  (S
+    (: :)
+    (NP (NNP Peach) (NNP trees))
+    (ADVP (RB also))
+    (VP
+      (VB yield)
+      (ADJP (RBR less) (JJ fruit))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP it))
+          (VP
+            (VB gets)
+            (ADJP
+              (RB too)
+              (JJ hot)
+              (PP (IN in) (NP (NN summertime))))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ coffee) (NNP beans) (NNP Coffee))
+    (VP
+      (MD ca)
+      (RB n't)
+      (VB take)
+      (NP (VBG freezing) (NN temperatures))))
+  (S
+    (, ,)
+    (CC but)
+    (NP (PRP it))
+    (VP (VBZ does) (RB n't) (VB like) (NP (JJ extreme) (NN heat))))
+  (, ,)
+  (S
+    (NP
+      (NP (DT either) (NN ))
+      (PP
+        (IN at)
+        (NP
+          (JJS least)
+          (DT the)
+          (ADJP (RB highly) (VBN prized))
+          (NNP Arabica)
+          (NN type))))
+    (VP (VBZ does) (RB n't))
+    (. .)))"
+"(PRN+SBAR
+  (IN so)
+  (S
+    (NP (PRP it))
+    (VP
+      (VBZ 's)
+      (ADVP (RB mainly))
+      (VBN grown)
+      (PP
+        (IN on)
+        (NP
+          (NP (ADJP (RB relatively) (JJ cool)) (NN mountainsides))
+          (PP (IN in) (NP (DT the) (NN tropics))))))
+    (. .)))"
+"(UCP
+  (NN brazil)
+  (VP (VBZ is) (NP (DT the) (JJS biggest) (NN coffee)))
+  (NN producer)
+  (PP (IN in) (NP (DT the) (NN world)))
+  (, ,)
+  (ADVP (IN by) (RB far))
+  (, ,)
+  (CC but)
+  (SBAR
+    (IN as)
+    (S
+      (NP (DT the) (JJ globe) (NN warms))
+      (VP
+        (PRT (RP up))
+        (, ,)
+        (S+ADJP
+          (ADJP
+            (JJS most)
+            (PP
+              (IN of)
+              (NP (PRP$ its) (JJ main) (NN coffee-growing))))
+          (ADJP
+            (JJ regions)
+            (S+VP
+              (VP
+                (ADVP (RB probably))
+                (MD wo)
+                (RB n't)
+                (VB be)
+                (VB suitable)
+                (PP (IN for)))
+              (VBG growing)
+              (NP (DT this) (NN crop) (NN anymore))))
+          (, ,)
+          (JJ due)
+          (SBAR+S+VP
+            (TO to)
+            (VP
+              (VB heat)
+              (PP
+                (IN as)
+                (NP
+                  (ADJP (RB well) (RB as) (RBR more) (JJ frequent))
+                  (NN rainstorms)))))))
+      (. .))))"
+"(S+SBAR
+  (S
+    (NP (NNS coffee))
+    (VP
+      (MD could)
+      (VB move)
+      (PP
+        (TO to)
+        (NP
+          (NP (JJ cooler) (NNS parts))
+          (PP (IN of) (NP (DT the) (NN country)))))))
+  (, ,)
+  (S
+    (CC but)
+    (NP (NNS researchers))
+    (VP
+      (VBP do)
+      (RB n't)
+      (VBP think)
+      (SBAR+S
+        (NP (DT those) (JJ new) (VBG growing) (NNS areas))
+        (VP
+          (MD will)
+          (VB make)
+          (PRT (RP up))
+          (SBAR
+            (WHPP (IN for) (WHNP (WP what)))
+            (S (VP (VBZ 's) (VP (VBN lost))) (. .))))))))"
+"(NP+SBAR+S
+  (ADVP (RB meanwhile))
+  (S
+    (, ,)
+    (NP (VBG rising) (NN temperatures))
+    (VP
+      (MD could)
+      (VB threaten)
+      (VB native)
+      (NP (JJ coffee) (NN trees))))
+  (S
+    (NP (DT that))
+    (VP
+      (VB grow)
+      (VB wild)
+      (PP
+        (IN in)
+        (NP
+          (NP (DT the) (NN forests))
+          (PP
+            (IN of)
+            (NP (NNP Ethiopia) (CC and) (JJ central) (NNP Africa))))))
+    (. .)))"
+"(SINV
+  (S
+    (NP (DT the) (JJ wild) (NN trees))
+    (VP
+      (VBP represent)
+      (NP (DT an) (JJ irreplaceable) (NN storehouse))
+      (PP (IN of) (NP (NN coffee) (POS 's)))))
+  (NP (JJ original) (JJ genetic) (NN diversity))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NN world) (POS 's))
+    (NP (JJ commercial) (NN coffee))
+    (VP
+      (VB trees)
+      (VBP are)
+      (ADJP
+        (RB genetically)
+        (RB very)
+        (JJ similar)
+        (PP (TO to) (NP (DT each) (JJ other))))))
+  (, ,)
+  (S
+    (S
+      (CC and)
+      (NP (DT those))
+      (ADVP (RB genetically))
+      (NP (JJ diverse) (NN wild))
+      (VP
+        (VB trees)
+        (MD could)
+        (VB be)
+        (NP
+          (NP
+            (NP (DT the) (NN source))
+            (PP (IN of) (NP (JJ genetic) (NN traits))))
+          (PP (IN that) (NP (NN plant) (NN breeders))))))
+    (VP
+      (MD may)
+      (VBP need)
+      (PP
+        (IN in)
+        (NP
+          (NN order)
+          (S+VP
+            (TO to)
+            (VP (VB create) (NP (JJ commercial) (NN trees))))))
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (MD can)
+          (VP
+            (VB thrive)
+            (PP
+              (IN in)
+              (NP (NP (NN tomorrow) (POS 's)) (NN climate)))))))
+    (. .)))"
+"(S
+  (NP (NP (DT some)) (PP (IN of) (NP (DT the) (JJ wild) (NN trees))))
+  (, ,)
+  (ADVP (RB however))
+  (, ,)
+  (VP
+    (VBP are)
+    (VBN preserved)
+    (PP
+      (IN in)
+      (NP
+        (`` ``)
+        (JJ gene)
+        (NNS banks)
+        ('' '')
+        (PP
+          (IN in)
+          (NP (NNP Ethiopia) (CC and) (NNP Latin) (NNP America))))))
+  (. .))"
+"(SINV
+  (NP (NN corn) (NN Nothing))
+  (VP (VBZ says))
+  (NP
+    (NP (NNP Iowa) (NNP quite))
+    (PP (IN like) (NP (NNS fields) (PP (IN of) (NP (NN corn))))))
+  (. .))"
+"(NP+S
+  (NP (JJ climate) (NNS models))
+  (VP
+    (, ,)
+    (SBAR
+      (IN though)
+      (S
+        (, ,)
+        (VP (VB see) (NP (DT a) (JJ different) (NN future)))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (PRP they))
+    (VP
+      (VBP 're)
+      (VBG predicting)
+      (PP (IN that) (NP (DT a) (VBG warming) (NN climate)))
+      (MD will)
+      (VB bring)
+      (NP (JJ several) (NNS changes))))
+  (, ,)
+  (S
+    (VP
+      (NP (NP (JJS most)) (PP (IN of) (NP (PRP them))))
+      (PP (JJ bad) (IN for) (NP (VBG growing) (NN corn))))
+    (. .)))"
+"(UCP
+  (NN rain)
+  (VP (MD will) (VB come) (ADVP (RBR less) (RB often)))
+  (, ,)
+  (CC and)
+  (SBAR
+    (WHADVP (WRB when))
+    (S
+      (S
+        (NP (PRP it))
+        (VP
+          (VBZ comes)
+          (SBAR+S
+            (NP (, ,) (DT the) (NN storms))
+            (VP
+              (MD will)
+              (VB be)
+              (NP (ADJP (RBR more) (JJ intense)) (NN ))))))
+      (NP
+        (NP (DT neither))
+        (PP
+          (IN of)
+          (NP
+            (SBAR
+              (WHNP (WDT which))
+              (S+VP
+                (VBZ is)
+                (ADJP
+                  (JJ helpful)
+                  (PP
+                    (IN for)
+                    (NP
+                      (NP (DT a) (NN crop))
+                      (PP
+                        (IN that)
+                        (NP (JJ demands) (JJ frequent) (NN rains))))))))
+            (, ,))))
+      (CC but)
+      (VP
+        (VBZ does)
+        (RB n't)
+        (VBP do)
+        (NP (DT a) (JJ good) (NN job))
+        (PP
+          (IN of)
+          (S+VP (VBG preventing) (NP (JJ soil) (NN erosion)))))
+      (. .))))"
+"(RRC+VP
+  (PP (IN in) (NP (NN addition)))
+  (ADVP
+    (ADVP
+      (NP
+        (NP (, ,) (NN corn) (NN suffers))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP it))
+            (VP (VB gets) (NP (ADJP (RB too) (JJ hot)) (NN ))))))
+      (RB especially))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP it))
+        (VP
+          (VBZ 's)
+          (ADJP (RB too) (JJ hot) (PP (IN at) (NP (NN night)))))
+        (. .)))))"
+"(VP
+  (VB add)
+  (S
+    (NP (PRP it))
+    (NP (DT all))
+    (ADVP (RB up))
+    (, ,)
+    (CC and)
+    (NP
+      (NP (CD one) (NN study) (NNS estimates))
+      (PP (IN that) (NP (NN corn))))
+    (NP (NP (NNS yields)) (PP (IN in) (NP (NNP Iowa))))
+    (VP
+      (MD will)
+      (VB fall)
+      (ADJP
+        (RB substantially)
+        (, ,)
+        (JJ anywhere)
+        (PP
+          (IN from)
+          (NP
+            (NP (CD 15) (NN percent))
+            (PP (TO to) (NP (DT an) (NN astounding)))))
+        (CD 50)
+        (NN percent)))
+    (. .)))"
+"(SINV
+  (`` ``)
+  (S
+    (NP (NNP By) (CD 2100))
+    (, ,)
+    (NP (DT the) (NNP Corn) (NNP Belt))
+    (VP
+      (VBZ is)
+      (S+VP
+        (VBG going)
+        (TO to)
+        (VP (VB be) (PP (IN in) (NP (NNP Canada)))))))
+  (, ,)
+  (ADVP
+    (RB not)
+    (PP (IN in) (NP (DT the) (NNP United) (NNPS States))))
+  (, ,)
+  ('' '')
+  (VP (VBZ says))
+  (S
+    (NP (NNP Jason) (NNP Clay))
+    (, ,)
+    (NP (JJ senior) (NN vice))
+    (VP (NP (NN president)) (PP (IN for) (NP (NN food)))))
+  (NP
+    (NP (CC and) (NNS markets))
+    (PP (IN at) (NP (DT the) (NNP World) (NNP Wildlife) (NNP Fund))))
+  (. .))"
+"(PRN+SBAR
+  (IN so)
+  (S
+    (SBAR
+      (WHNP (WP what))
+      (S+VP
+        (MD will)
+        (VP
+          (VB replace)
+          (NP (NP (NN corn)) (PP (IN on) (NP (NNP Iowa) (POS 's)))))))
+    (VP (VB fertile) (NP (NN land)))
+    (. ?)))"
+"(S+VP
+  (VBG according)
+  (TO to)
+  (VP
+    (NP (CD one) (NN study))
+    (, ,)
+    (SBAR
+      (IN by)
+      (S
+        (NP
+          (NP (DT the) (NN end))
+          (PP (IN of) (NP (DT the) (NN century))))
+        (NP
+          (DT this)
+          (NP (NN part))
+          (PP (IN of) (NP (DT the) (NN Midwest))))
+        (VP
+          (MD will)
+          (VB be)
+          (ADJP
+            (RBR more)
+            (VBN suited)
+            (PP
+              (IN for)
+              (NP
+                (VBG growing)
+                (NX
+                  (NX (NNS cotton))
+                  (, ,)
+                  (NX (NNS soybeans))
+                  (, ,)
+                  (NX (NNS grass))
+                  (CC and)
+                  (NX (NNS forests)))))))
+        (. .)))))"
+"(NX
+  (NX (NNS almonds))
+  (NNP California)
+  (, ,)
+  (DT the)
+  (JJS biggest)
+  (NX+NX (JJ single) (NN source))
+  (PP (IN of) (NP (NNP America) (POS 's)))
+  (JJ fresh)
+  (NN vegetables)
+  (CC and)
+  (NX (NNS nuts))
+  (, ,)
+  (CC and)
+  (NP (DT the) (JJ primary) (NN source))
+  (SBAR
+    (IN of)
+    (S
+      (NP
+        (NP (NNS almonds))
+        (PP (IN for) (NP (DT the) (JJ entire) (NN world))))
+      (, ,)
+      (VP
+        (VBZ is)
+        (SBAR+S
+          (NP
+            (NP
+              (NP (DT a) (JJ dramatic) (NN illustration))
+              (WHPP
+                (IN of)
+                (WHNP (WHADJP (WRB how) (JJ subtle)) (NNS shifts))))
+            (PP (IN in) (NP (NN climate))))
+          (VP (MD can) (VB have) (NP (JJ huge) (NN effects)))))
+      (. .))))"
+"(NP+S
+  (NP (NN california) (POS 's))
+  (VP
+    (VB farms)
+    (ADVP (RB rely))
+    (ADVP (RB heavily))
+    (SBAR
+      (IN on)
+      (S
+        (S+ADJP
+          (ADJP (JJ snow) (PP (IN that) (NP (NN piles))))
+          (ADJP
+            (PRT (RP up))
+            (PP (IN in) (NP (DT the) (NNP Sierra) (NNP Nevada))))
+          (ADJP
+            (JJ mountains)
+            (PP (IN during) (NP (DT the) (NN winter))))
+          (, ,)
+          (CC and)
+          (ADJP
+            (RB then)
+            (RB slowly)
+            (JJ melts)
+            (PP (IN during) (NP (DT the) (NN summer)))))
+        (, ,)
+        (VP
+          (VBG delivering)
+          (NP
+            (NP (DT a) (JJ vital) (NN flow))
+            (PP
+              (IN of)
+              (NP
+                (NP (NN water))
+                (PP
+                  (TO to)
+                  (NP
+                    (NP (DT the) (NN state) (POS 's))
+                    (JJ irrigation)
+                    (NN canals)))))))
+        (. .)))))"
+"(PRN+SBAR
+  (IN as)
+  (S
+    (NP (DT the) (JJ climate) (NN warms))
+    (, ,)
+    (SBAR
+      (IN though)
+      (S
+        (, ,)
+        (NP (JJ winter) (NN precipitation))
+        (VP
+          (MD will)
+          (VB arrive)
+          (ADVP (RBR more) (RB often))
+          (PP (IN as) (NP (NN rain))))))
+    (, ,)
+    (CC and)
+    (NP (DT the) (NN snow))
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP
+        (VBZ does)
+        (VP
+          (VB fall)
+          (MD will)
+          (VB melt)
+          (ADJP (RB much) (JJR more)))))
+    (ADVP (RB quickly))
+    (, ,)
+    (VP
+      (VBG leaving)
+      (NP
+        (NP (NNS farmers))
+        (PP
+          (VBG scrambling)
+          (IN for)
+          (NP
+            (NP (NN water))
+            (SBAR+S+VP
+              (TO to)
+              (VP
+                (VB keep)
+                (NP
+                  (NP (JJ crops) (NN alive))
+                  (PP (IN in) (NP (JJ late) (NN summer))))))))))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB also))
+  (S
+    (, ,)
+    (NP (EX there))
+    (VP
+      (MD will)
+      (VB be)
+      (NP
+        (NP (JJR more) (NNS variation))
+        (PP
+          (IN from)
+          (NP
+            (NN year)
+            (S+VP
+              (TO to)
+              (VP
+                (NP (NN year) (: ;) (JJ wet) (NNS years))
+                (MD will)
+                (VB be)
+                (NP (NN wetter)))))))))
+  (S
+    (, ,)
+    (CC and)
+    (NP (JJ dry) (NNS years))
+    (VP (MD will) (VB be) (ADJP (RB even) (JJ dryer)))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (DT both) (NN trends))
+    (VP
+      (VB increase)
+      (NP
+        (NP (DT the) (NN chances))
+        (PP
+          (IN that)
+          (NP
+            (PP (IN from) (NP (NN time)))
+            (PP (TO to) (NP (NN time))))))))
+  (, ,)
+  (S
+    (NP (NNS farmers))
+    (VP
+      (MD will)
+      (VB face)
+      (NP
+        (NP (JJ catastrophic) (NN shortages))
+        (PP (IN of) (NP (NN water)))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (CC and)
+    (NP
+      (NP
+        (NP
+          (SBAR
+            (WHNP (WDT that))
+            (S+VP
+              (VBZ 's)
+              (ADJP
+                (RB especially)
+                (JJ bad)
+                (PP (IN for) (NP (NN tree) (NN crops))))))
+          (, ,))
+        (PP
+          (IN of)
+          (NP
+            (SBAR
+              (WHNP (WDT which))
+              (S+VP
+                (VBZ almonds)
+                (VP (VBP are) (ADJP (DT the) (JJS biggest)))))
+            (, ,))))
+      (PP (IN because) (S+VP (VBG losing) (NP (DT an) (NN orchard)))))
+    (VP
+      (VBZ is)
+      (ADVP (RB much) (RBR more))
+      (VBG devastating)
+      (PP
+        (IN than)
+        (S+VP (VBG losing) (NP (DT a) (JJ single) (NN crop))))))
+  (IN of)
+  (, ,)
+  (S (VP (VB say) (NP (, ,) (NP (NNP tomatoes)))) (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (NN california) (POS 's))
+    (NP (NNS farmers))
+    (VP
+      (MD may)
+      (VB be)
+      (VBN forced)
+      (S+VP
+        (TO to)
+        (VP
+          (VB reduce)
+          (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NN land))))))))
+  (S
+    (VP
+      (VBN devoted)
+      (S+VP
+        (TO to)
+        (VP
+          (VB orchards)
+          (, ,)
+          (SBAR
+            (IN since)
+            (S
+              (NP (EX there))
+              (NP (EX there))
+              (VP
+                (VBZ 's)
+                (NP (DT a) (NN chance))
+                (SBAR
+                  (IN that)
+                  (S
+                    (NP (PRP they))
+                    (VP
+                      (MD will)
+                      (RB not)
+                      (VB survive)
+                      (NP (DT a) (JJ major) (NN drought)))))))))))
+    (. .)))"

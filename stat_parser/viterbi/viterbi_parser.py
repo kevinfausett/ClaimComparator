@@ -1,8 +1,11 @@
-from six.moves import range
 from nltk.tag import pos_tag
 from nltk.tokenize import word_tokenize
 from nltk.parse import ViterbiParser
 from nltk.tree import ParentedTree
+from nltk import PCFG
+import pickle
+import re
+from stat_parser.viterbi.viterbi_pcfg import PCFGTrainer
 
 try:
     from nltk import Tree
@@ -15,20 +18,34 @@ try:
 except ImportError:
     nltk_is_available = False
 
-from stat_parser.viterbi import viterbi_pcfg
 from stat_parser.tokenizer import PennTreebankTokenizer
 
 
 class CustomViterbiParser:
-    def __init__(self):
+    def __init__(self, grammar=None, load_grammar=False):
+        if grammar is None:
+            if load_grammar:
+                file = open('./grammar.txt', 'rb')
+                grammar_string = pickle.load(file)
+                file.close()
+                # copy the first line of the file into this lstrip method
+                grammar_string = grammar_string.lstrip("Grammar with 7652 productions (start state = S)")
+                print(grammar_string)
+                grammar_string = re.sub(' \. ', " PERIOD ", grammar_string)
+                grammar_string = re.sub(' , ', " COMMA ", grammar_string)
+                grammar_string = re.sub(' -NONE- ', " NONE ", grammar_string)
+                print("tried")
+                self.grammar = PCFG.fromstring(grammar_string)
+            else:
+                pcfg_trainer = PCFGTrainer()
+                self.grammar = pcfg_trainer.train()
+        else:
+            self.grammar = grammar
         self.unwrapped_parser = self.init_viterbi()
 
     # returns a viterbi parser
-    @staticmethod
-    def init_viterbi():
-        vp = viterbi_pcfg.PCFGTrainer()
-        pcfg = vp.train()
-        return ViterbiParser(pcfg)
+    def init_viterbi(self):
+        return ViterbiParser(self.grammar)
 
     @staticmethod
     def tokenize_for_parsing(string):
@@ -46,7 +63,6 @@ class CustomViterbiParser:
         result = None
         for tree in self.unwrapped_parser.parse(tags):
             result = tree
-            # return tree
         if result:
             return self.pos_to_leaves(result, tokenized, tags)
         else:
@@ -65,7 +81,13 @@ class CustomViterbiParser:
         return Tree.fromstring(string)
 
 
-def syntactic_parse(text):
-    viterbi_parser = CustomViterbiParser()
+def syntactic_parse(text, grammar=None):
+    if grammar is None:
+        viterbi_parser = CustomViterbiParser()
+    else:
+        viterbi_parser = CustomViterbiParser(grammar=grammar)
     return viterbi_parser.parse(text)
 
+
+# pcfg_training = PCFGTrainer()
+# grammar = pcfg_training.train()
