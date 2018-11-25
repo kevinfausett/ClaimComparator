@@ -1,0 +1,893 @@
+"(S+SBAR
+  (S
+    (NP
+      (JJ brazil)
+      (: :)
+      (NNP Bolsonaro)
+      (NNP threatens)
+      (PP (TO to) (NP (NNP quit) (NNP Paris))))
+    (NP (JJ climate) (NN deal))
+    (NP (NNP De) (NNP facto))
+    (NP (JJ presidential) (NN frontrunner))
+    (VP (VBZ says)))
+  (S (NP (PRP he)) (VP (MD would) (VP (VB follow))))
+  (S
+    (NP (NNP Donald) (NNP Trump))
+    (VP
+      (PRT (RP out))
+      (PP (IN of) (NP (DT the) (JJ international) (NN pact)))))
+  (, ,)
+  (S
+    (NP
+      (NP (VBG drawing) (NN criticism))
+      (PP (IN from) (NP (DT the) (NN UNâs))))
+    (NP (NN environment) (NN chief))
+    (NP (NNP Presidential) (NNP candidate))
+    (NP (NNP Jair) (NNP Bolsonaro))
+    (VP
+      (VBZ is)
+      (S+VP
+        (VBG threatening)
+        (TO to)
+        (VP
+          (VB take)
+          (SBAR
+            (SBAR+S
+              (NP (NNP Brazil))
+              (VP
+                (PRT (RP out))
+                (PP
+                  (IN of)
+                  (NP (DT the) (NNP Paris) (NNP Agreement)))))
+            (IN if)
+            (S
+              (NP (PRP he))
+              (VP
+                (VB wins)
+                (NP (DT the) (NNP October) (NN election))))))))
+    (. .)))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP (DT an) (JJ unpredictable) (NN race))
+    (, ,)
+    (NP (DT the) (NNP right-wing) (NNP Bolsonaro))
+    (VP
+      (VBZ is)
+      (VBG polling)
+      (NP
+        (ADJP
+          (JJ second)
+          (PP
+            (IN behind)
+            (NP
+              (NAC
+                (NNP Luiz)
+                (NNP InÃ¡cio)
+                (NNP Lula)
+                (NNP da)
+                (NNP Silva)
+                (, ,))
+              (DT the)
+              (NN socialist))))
+        (JJ former)
+        (NN president)))
+    (. .)))"
+"(NP+S
+  (NP (CC but) (NNS âLulaâ))
+  (VP
+    (VBZ is)
+    (SBAR
+      (IN in)
+      (S
+        (S+ADJP
+          (ADJP (JJ jail) (PP (IN for) (NP (NN corruption))))
+          (CC and)
+          (ADJP
+            (JJ likely)
+            (S+VP
+              (TO to)
+              (VP
+                (VB be)
+                (VBN disqualified)
+                (PP (IN by) (NP (DT the) (NNS courts)))))))
+        (, ,)
+        (VP (VBG leaving) (NP (DT a) (JJ scattered) (NN field)))
+        (. .)))))"
+"(PRN+SBAR
+  (IN at)
+  (S
+    (NP (PRP$ his) (NN campaign) (NN launch))
+    (NP (JJ last) (NN month))
+    (CC and)
+    (PP (IN in) (NP (JJ subsequent) (NN interviews)))
+    (, ,)
+    (NP (NNP Bolsonaro))
+    (VP
+      (VBD said)
+      (SBAR+S
+        (NP (PRP he))
+        (VP
+          (MD would)
+          (VB join)
+          (NP
+            (NNP Donald)
+            (JJ Trumpâs)
+            (NNP US)
+            (CC and)
+            (NNS withdraw)
+            (PP (IN from) (NP (DT the) (NNP Paris) (NNP pact)))))))
+    (. .)))"
+"(PRN+SBAR
+  (IN that)
+  (S
+    (VP
+      (VB stance)
+      (NP
+        (NP (JJ drew) (NN ire))
+        (PP
+          (IN from)
+          (NP
+            (JJ UN)
+            (NN environment)
+            (NN chief)
+            (NNP Erik)
+            (NNP Solheim)))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (NP (NN action)) (PP (IN on) (NP (JJ climate) (NN change))))
+    (VP
+      (MD would)
+      (VB create)
+      (VB âhealthier)
+      (NP (CC and) (JJ wealthierâ) (NN economies))))
+  (, ,)
+  (S
+    (NP (PRP he))
+    (VP (VBD told) (NP (NNP Climate) (NNP Home) (NNP News)))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP
+      (NP (JJ âA) (NN rejection))
+      (PP (IN of) (NP (DT the) (NNP Paris) (NNP Agreement))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (DT a) (NN rejection))
+        (PP (IN of) (NP (JJ science) (CC and) (NN fact))))))
+  (, ,)
+  (S (NP (NNP â) (NNP Solheim)) (VP (VBD said)) (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB âItâs))
+  (ADVP (RB also))
+  (S
+    (NP (DT a) (JJ false) (NN promise))
+    (, ,)
+    (PP
+      (IN because)
+      (NP
+        (NP (NNS politicians))
+        (SBAR
+          (WHNP (WP who))
+          (S+VP
+            (VP
+              (VB present)
+              (NP
+                (NP (JJ climate) (NN action))
+                (PP (IN as) (NP (DT a) (NN cost)))))
+            (TO to)
+            (VP (VB society) (VBP have) (VP (VBN got)))))))
+    (NP (PRP it))
+    (NP (DT all) (NN wrong.â))
+    (NP (NNP Last) (NN week))
+    (, ,)
+    (NP (JJ Brazilâs) (NN government))
+    (VP
+      (VBD released)
+      (SBAR+S
+        (NP (DT a) (NN statement))
+        (VP (VBG declaring) (NP (DT the) (NN country))))))
+  (S
+    (VP
+      (VBD had)
+      (VBD met)
+      (SBAR+S
+        (NP (PRP$ its) (CD 2020) (JJ forest) (NNS emissions))
+        (VP
+          (VB target)
+          (ADVP (NP (CD three) (NNS years)) (RB early)))))
+    (. .)))"
+"(NP+S
+  (NP (JJ âThe) (NN policy) (NN message))
+  (VP
+    (VBZ is)
+    (SBAR
+      (IN that)
+      (S
+        (S
+          (NP (PRP we))
+          (VP
+            (MD can)
+            (CC and)
+            (MD should)
+            (VB remain)
+            (PP (IN in) (NP (DT the) (NNP Paris) (NNP Agreement)))))
+        (PRN
+          (-LRB- ()
+          (IN because)
+          ( ))
+          (S
+            (NP (PRP it))
+            (VP
+              (VBZ is)
+              (ADJP (JJ possible))
+              (S+VP
+                (TO to)
+                (VP
+                  (ADVP (RB effectively))
+                  (VB implement)
+                  (NP
+                    (NP (DT the) (NNS commitments))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S+VP
+                        (VBP have)
+                        (VP
+                          (VBN been)
+                          (VBN made)
+                          (NP
+                            (NAC
+                              (, ,)
+                              (NNP â)
+                              (NNP Thiago)
+                              (NNP Mendes)
+                              (, ,))
+                            (NN secretary))
+                          (PP
+                            (IN of)
+                            (NP
+                              (NP (JJ climate) (NN change))
+                              (PP
+                                (IN in)
+                                (NP
+                                  (DT the)
+                                  (NNP Environment)
+                                  (NNP Ministry)))))))))))))
+          (, ,))
+        (VP (VBD told) (NP (NNP Reuters)))
+        (. .)))))"
+"(S
+  (NP
+    (NP (DT the) (NN withdrawal))
+    (PP
+      (IN of)
+      (NP
+        (JJ such)
+        (DT an)
+        (JJ important)
+        (VBG developing)
+        (NN country))))
+  (, ,)
+  (NP (NP (NN home)) (PP (TO to) (NP (DT the) (NN worldâs))))
+  (NP (JJS largest) (NN rainforest))
+  (, ,)
+  (VP
+    (MD would)
+    (VB deal)
+    (NP
+      (NP (DT a) (NN blow))
+      (PP
+        (TO to)
+        (NP (JJ international) (JJ climate) (NN cooperation)))))
+  (. .))"
+"(S+SBAR
+  (IN while)
+  (S
+    (NP (PRP it))
+    (VP (VBZ has) (RB not) (VBN been) (VP (VBN confirmed))))
+  (, ,)
+  (S
+    (NP (NNP Brazil))
+    (VP
+      (VBD was)
+      (VBN expected)
+      (PP
+        (TO to)
+        (NP
+          (NN host)
+          (DT the)
+          (CD 2019)
+          (NNS UN)
+          (JJ climate)
+          (NN summit))))
+    (. .)))"
+"(S
+  (CC but)
+  (NP (JJ Brazilian) (NNS experts))
+  (VP
+    (VBD downplayed)
+    (SBAR+S
+      (NP
+        (NP (DT the) (NN likelihood))
+        (PP (IN of) (NP (NNP Bolsonaro))))
+      (VP (VBG carrying) (PRT (RP out)) (NP (PRP$ his) (NN threat)))))
+  (. .))"
+"(S+SBAR
+  (IN unlike)
+  (IN in)
+  (S
+    (NP (DT the) (NNP US) (, ,) (NP (NNP Brazil)))
+    (VP
+      (VBN ratified)
+      (NP (DT the) (NNP Paris) (NNP Agreement))
+      (PP (IN through) (NP (PRP$ its) (NN congress)))))
+  (, ,)
+  (S
+    (VP
+      (VBD said)
+      (NP
+        (NP (JJ AndrÃ©) (NN GuimarÃ£es))
+        (PRN
+          (, ,)
+          (NP
+            (NP (NN head))
+            (PP
+              (IN of)
+              (NP
+                (DT the)
+                (NNP Amazon)
+                (NNP Environmental)
+                (NNP Research)
+                (NNP Institute))))
+          (-LRB- ()
+          (NP (NNP Ipam))
+          (-RRB- )))))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB âHonestly))
+  (S
+    (, ,)
+    (NP (PRP I))
+    (VP
+      (VBP think)
+      (SBAR
+        (IN that)
+        (S
+          (NP (EX there))
+          (VP
+            (VBZ is)
+            (RB very)
+            (NP (JJ little) (NN chance))
+            (PP (IN that) (NP (JJ [) (DT a) (NN withdrawal))))))))
+  (S
+    (NP (JJ ]) (NN happens))
+    (, ,)
+    (NP (NNS â))
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ âMy) (NN guess))
+    (VP
+      (VBZ is)
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (ADVP (RB even))
+          (PP (IN if) (NP (NNP Bolsonaro) (NNP wins)))))))
+  (S
+    (CC and)
+    (S+VP
+      (VBZ wants)
+      (TO to)
+      (VP (VB change) (NP (DT the) (NN deal))))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (MD will)
+      (RB not)
+      (VB be)
+      (NP (DT an) (JJ easy) (NN task.â))))
+  (S
+    (NP
+      (NP (NNP Citing) (NN research) (NN showing))
+      (PP (IN that) (NP (NNP Amazon) (NNP deforestation))))
+    (VP
+      (MD could)
+      (VBD hit)
+      (VB rainfall)
+      (NP (CC and) (JJ therefore) (NN agriculture))))
+  (, ,)
+  (S
+    (VP
+      (VB GuimarÃ£es)
+      (VBD said)
+      (SBAR+S
+        (NP (JJ climate) (NN action))
+        (VP
+          (VBD was)
+          (PP (IN in) (NP (DT the) (JJ national) (NN interest))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ âStopping) (NN deforestation))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (JJ good) (NN business))
+        (PP (IN for) (NP (NNP Brazil))))))
+  (, ,)
+  (S
+    (ADVP
+      (RB not)
+      (RB just)
+      (PP (IN for) (NP (NNP environmentalists.â) (NNP Bolsonaro))))
+    (VP
+      (VBZ has)
+      (NP
+        (ADJP
+          (ADJP (RB not) (VBN elaborated))
+          (SBAR
+            (IN on)
+            (S
+              (SBAR
+                (WHADVP (WRB why))
+                (S
+                  (NP (PRP he))
+                  (VP
+                    (VB opposes)
+                    (NP (DT the) (NNP Paris) (NNP Agreement)))))
+              (, ,)
+              (CC but)
+              (NP (DT some) (NN clues))
+              (VP
+                (MD can)
+                (VB be)
+                (VBN found)
+                (PP (IN in) (NP (PRP$ his) (JJ social) (NNS media)))))))
+        (NN activity)))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB last))
+  (S
+    (NP (NNP August))
+    (, ,)
+    (NP (NNP Bolsonaro))
+    (VP
+      (VBN shared)
+      (NP (DT an) (NN interview))
+      (PP (IN with) (NP (NNP Ricardo) (NNP Felicio)))))
+  (S
+    (, ,)
+    (NP (DT a) (NN geographer))
+    (CC and)
+    (NP (JJ prominent) (NN climate))
+    (VP
+      (VB denier)
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (NP (JJ disputes) (DT the) (JJ basic) (NN physics))
+          (PP (IN of) (NP (DT the) (JJ greenhouse) (NN effect))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (NP (DT the) (NN day)) (PP (IN after) (NP (NNP Trump))))
+    (VP
+      (VBD announced)
+      (NP (PRP$ his) (NN intention))
+      (PP (TO to) (NP (JJ quit) (DT the) (NNP Paris) (NN deal)))))
+  (, ,)
+  (S
+    (NP (NNP Bolsonoro))
+    (VP
+      (VBD shared)
+      (SBAR+S
+        (NP
+          (NP (DT an) (NN article))
+          (PP (VBG defending) (NP (DT the) (NN decision))))
+        (VP
+          (VBN entitled)
+          (VB âthe)
+          (NP (JJ greenhouse) (NN fablesâ)))))
+    (. .)))"
+"(S
+  (NP (JJ Bolsonaroâs) (CD three) (JJ eldest) (NN sons))
+  (, ,)
+  (NP (DT all) (VBN elected) (NNS officials))
+  (, ,)
+  (VP
+    (VBP have)
+    (VBN been)
+    (ADJP (RBR more) (JJ outspoken))
+    (PP (IN on) (NP (DT the) (NN issue))))
+  (. .))"
+"(NP+VP
+  (NP (NN eduardo))
+  (, ,)
+  (NP
+    (NP
+      (NP (DT a) (JJ federal) (NN representative))
+      (PP (IN from) (NP (DT the) (NN state))))
+    (SBAR
+      (IN of)
+      (S
+        (NP (NNP SÃ£o) (NNP Paulo))
+        (, ,)
+        (VP
+          (VBD posted)
+          (SBAR+S
+            (NP
+              (NP (DT a) (JJ homemade) (NN video))
+              (PP (IN in) (NP (NNP January))))
+            (VP
+              (VBG characterising)
+              (NP
+                (NP (DT the) (NNP Paris) (NN deal))
+                (PP
+                  (IN as)
+                  (NP (DT a) (JJ globalist) (NN conspiracy)))))))
+        (. .)))))"
+"(SINV
+  (S
+    (NP (JJ âIt) (NN doesnât))
+    (VP (VB make) (NP (DT any) (NN sense))))
+  (, ,)
+  (VP (VBZ â))
+  (S
+    (NP (PRP he))
+    (VP
+      (VBD told)
+      (VB viewers)
+      (PP (IN from) (NP (DT a) (NN snowy)))))
+  (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NNP US))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (DT A) (NN photograph))
+    (, ,)
+    (ADVP (RB reportedly))
+    (VP (VBN taken) (NP (JJ last) (NN week))))
+  (, ,)
+  (S
+    (VP
+      (VBZ shows)
+      (NP
+        (NNP Eduardo)
+        (NN meeting)
+        (JJ former)
+        (NX
+          (NX (NNP Trump) (NN adviser))
+          (CC and)
+          (NX (NNS far-right))
+          (NX (NNS propagandist))
+          (NNP Steve)
+          (NNP Bannon))
+        (PP (IN in) (NP (NNP New) (NNP York)))))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ bannon)
+    (S+VP
+      (VP
+        (VBD was)
+        (NP (CD one))
+        (PP
+          (IN of)
+          (NP
+            (NP
+              (DT the)
+              (JJS strongest)
+              (NNP White)
+              (NNP House)
+              (NNP advocates))
+            (PP (IN for) (NP (DT the) (NNP US))))))
+      (TO to)
+      (VP (VB withdraw) (PP (IN from) (NP (DT the) (NN deal))))))
+  (. .))"
+"(NP+VP
+  (NP (NN carlos))
+  (, ,)
+  (NP
+    (NP (DT a) (NN city) (NN councillor))
+    (SBAR
+      (IN in)
+      (S
+        (NP (NNP Rio) (NNP de) (NNP Janeiro))
+        (, ,)
+        (VP
+          (VBD blamed)
+          (SBAR+S
+            (NP
+              (NP (DT the) (JJ âleftist) (NN agendaâ))
+              (PP (IN for) (NP (JJ climate) (NN change))))
+            (VP
+              (VBG getting)
+              (NP
+                (NP (NNS media) (NN coverage))
+                (PP (IN in) (NP (DT a) (CD 2016) (NNS tweet)))))))
+        (. .)))))"
+"(SBAR+S
+  (NP (PRP he))
+  (VP
+    (VBN asserted)
+    (VB â)
+    (SBAR
+      (IN against)
+      (S
+        (NP
+          (NP (DT all) (NN evidence) (NN â))
+          (PP (IN that) (NP (DT the) (NN world))))
+        (VP (VBD was) (VP (VBG cooling)))
+        (. .)))))"
+"(NP+VP
+  (NP (NN flavio))
+  (, ,)
+  (NP
+    (NP (DT a) (JJ federal) (NN representative))
+    (SBAR
+      (IN in)
+      (S
+        (NP (NNP Rio))
+        (, ,)
+        (VP
+          (VBZ has)
+          (VBN called)
+          (ADJP
+            (JJ global)
+            (S+VP (VBG warming) (NP (DT a) (NN âfraudâ)))))
+        (. .)))))"
+"(SBAR+S
+  (NP (PRP it))
+  (VP
+    (VBZ comes)
+    (SBAR
+      (IN as)
+      (S
+        (NP (NNP Brazil))
+        (NP
+          (NP (JJ faces) (JJ international) (NN pressure))
+          (PP
+            (TO to)
+            (NP
+              (JJ tackle)
+              (DT an)
+              (NN up-tick)
+              (PP (IN in) (NP (NN deforestation))))))
+        (, ,)
+        (VP
+          (ADVP (RB particularly))
+          (PP
+            (IN from)
+            (NP
+              (NNP Norway)
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S+VP
+                  (NP
+                    (NP (JJ supports) (NN forest))
+                    (NN protection)
+                    (NNS efforts))
+                  (PP
+                    (IN through)
+                    (NP (DT the) (NNP Amazon) (NNP Fund))))))))
+        (. .)))))"
+"(S
+  (NP (JJ last) (NN year))
+  (, ,)
+  (NP
+    (NP
+      (NNP Norway)
+      (NP (JJR more))
+      (PP
+        (IN than)
+        (NP (JJ halved) (PRP$ its) (JJ annual) (NN payment))))
+    (PP (TO to) (NP+QP ($ $) (CD 35) (CD million))))
+  (, ,)
+  (VP (VBG citing) (NP (JJ poor) (NNS results)))
+  (. .))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP (CD 2016) (CC and) (CD 2017))
+    (, ,)
+    (NP (NNP Brazil))
+    (VP
+      (VBN recorded)
+      (NP (PRP$ its) (JJS highest) (NNS rates))
+      (PP
+        (IN of)
+        (NP (NP (NN tree) (NN clearance)) (DT this) (NN century))))
+    (. .)))"
+"(SINV
+  (S
+    (NP (JJ NGO) (NN Imazonâs))
+    (NP (JJ monthly) (NNS data))
+    (VP
+      (VBD showed)
+      (NP (DT a) (JJ further) (NN spike))
+      (PP (IN in) (NP (NNP June)))))
+  (, ,)
+  (NP (NNP Mongabay) (NNS reports))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (JJ michel) (JJ Temerâs) (NN administration))
+    (VP (VBZ has) (VBN courted) (NP (DT the) (JJ beef) (NN lobby))))
+  (, ,)
+  (S
+    (VP
+      (VBG rolling)
+      (PRT (RP back))
+      (UCP
+        (NN forest)
+        (ADJP
+          (JJ protections)
+          (S+VP
+            (TO to)
+            (VP
+              (VB allow)
+              (NP
+                (NP (DT the) (NN expansion))
+                (PP (IN of) (NP (JJ cattle) (NN ranches)))))))
+        (, ,)
+        (NN soy)
+        (NN plantations)
+        (CC and)
+        (JJ mines)))
+    (. .)))"
+"(NP+S
+  (NP (JJ ten) (NNS scientists))
+  (VP
+    (VBD wrote)
+    (SBAR
+      (IN in)
+      (S
+        (NP
+          (NP (DT a) (NN letter))
+          (PP (TO to) (NP (DT the) (NN journal))))
+        (NP (NNP Nature) (NNP Climate))
+        (NP
+          (NP (NNP Change) (JJ last) (NN month))
+          (PP (IN that) (NP (JJ such) (NNS moves))))
+        (VP
+          (VBN jeopardised)
+          (VB Brazilâs)
+          (NP (JJ climate) (NN goals)))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP
+      (NP (JJ âThe) (NN abandonment))
+      (PP (IN of) (NP (JJ deforestation) (NN control))))
+    (NP (NNS policies))
+    (CC and)
+    (NP
+      (DT the)
+      (JJ political)
+      (NN support)
+      (PP
+        (IN for)
+        (NP (JJ predatory) (JJ agricultural) (NNS practices))))
+    (VP
+      (VB make)
+      (SBAR+S
+        (NP (PRP it))
+        (VP
+          (VB impossible)
+          (S+VP
+            (TO to)
+            (VP
+              (VB meet)
+              (VBZ targets)
+              (VB consistent)
+              (PP
+                (IN with)
+                (NP
+                  (NP (JJ Brazilâs) (NN contribution))
+                  (PP (TO to) (NP (DT a) (JJ 2C) (NN world)))))))))))
+  (, ,)
+  (S (NP (NNS â)) (NP (PRP they)) (VP (VBD said)) (. .)))"
+"(S+SBAR
+  (S
+    (NP (NNP climate) (NNP Action))
+    (NP (NNP Tracker) (NNS notes))
+    (NP (DT the) (CD 2020) (NN target))
+    (, ,)
+    (SBAR
+      (WHNP (WDT which))
+      (S
+        (NP (DT the) (NN government))
+        (VP
+          (VBD claimed)
+          (PP (IN as) (NP (DT an) (JJ early)))
+          (VB win)
+          (, ,)
+          (VBD was)
+          (PP (IN in) (NP (NN fact))))))
+    (ADVP (RB already))
+    (ADVP (RB mostly))
+    (VP (VBN achieved) (PP (IN in) (NP (CD 2012)))))
+  (, ,)
+  (S
+    (VP
+      (VBG having)
+      (VBN been)
+      (VBN weakened)
+      (PP
+        (IN by)
+        (S+VP
+          (ADVP (RB artificially))
+          (VBG inflating)
+          (NP
+            (NP (DT the) (NN âbusiness))
+            (PP (IN as) (NP (JJ usualâ) (NN baseline)))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP
+      (NP (DT the) (NN outlook))
+      (PP (IN for) (NP (NN meeting) (DT the) (NN tougher))))
+    (NP (CD 2030) (NNS targets))
+    (VP
+      (VBZ is)
+      (ADJP (JJ poor))
+      (VBN based)
+      (PP (IN on) (NP (JJ current) (NN trends)))))
+  (, ,)
+  (S
+    (S+VP
+      (VBG according)
+      (TO to)
+      (VP
+        (NP (NN analyst) (NNP Paola) (NNP Parra))
+        (: :)
+        (VB âIt)
+        (VBZ is)
+        (RB not)
+        (VBG looking)
+        (NP
+          (ADJP
+            (JJ great)
+            (PP
+              (IN for)
+              (NP
+                (NP (NNS deforestation))
+                (PP
+                  (IN for)
+                  (NP (DT the) (JJ future.â) (NN Ipamâs))))))
+          (NN GuimarÃ£es))))
+    (VP (VBD agreed))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ âIt)
+    (S+VP
+      (VP (VBZ is) (ADJP (RB very) (JJ easy)))
+      (TO to)
+      (VP
+        (VB play)
+        (SBAR
+          (IN with)
+          (S
+            (NP (NNS numbers))
+            (, ,)
+            (NP (NNS â))
+            (NP (PRP he))
+            (VP (VBD said)))))))
+  (. .))"
+"(NP+S
+  (NP
+    (NP
+      (NP (JJ âAt) (DT some) (NN point))
+      (PP
+        (IN in)
+        (NP (DT the) (JJ future) (, ,) (DT the) (NN challenge))))
+    (PP (IN for) (NP (NNP Brazil))))
+  (VP
+    (VBZ is)
+    (S+VP (TO to) (VP (VB stop) (NP (NN deforestation.â))))))"

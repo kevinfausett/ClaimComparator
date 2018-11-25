@@ -1,0 +1,616 @@
+"(S+SBAR
+  (S (NP (DT the) (NNP Economist)) (VP (VBZ is) (ADJP (JJ wrong))))
+  (, ,)
+  (S
+    (S
+      (NP (NNP Jair) (NNP Bolsonaro))
+      (VP
+        (MD would)
+        (VB be)
+        (ADVP (ADVP (RBR better)) (PP (IN for) (NP (NNP Brazil))))
+        (PP (IN than) (NP (NNP Fernando) (NNP Haddad)))))
+    (NP (JJ Brazilian) (JJ presidential) (NN front-runner))
+    (NP (NNP Jair) (NNP Bolsonaro))
+    (VP
+      (VBZ has)
+      (VBD made)
+      (SBAR+S
+        (NP (JJ unpleasant) (NN remarks))
+        (VP (CC and) (VBZ has) (NP (JJ authoritarian) (NN impulses)))))
+    (. .)))"
+"(PRN+SBAR
+  (IN that)
+  (S
+    (VP
+      (VBZ has)
+      (VBD made)
+      (SBAR+S
+        (NP (DT the) (JJ former) (JJ army) (NN officer))
+        (VP
+          (NP (DT a) (NN target))
+          (PP
+            (IN for)
+            (S+VP
+              (VBG withering)
+              (NP (NP (JJ Western) (NNS media)) (NN criticism)))))))
+    (. .)))"
+(SQ+FRAG (ADJP (JJ fair) (JJ enough)) (. .))
+"(SBARQ
+  (CC but)
+  (WHADVP (WRB why))
+  (SQ
+    (VBZ does)
+    (NP
+      (NP (NNP Bolsonaro) (POS 's))
+      (JJ opponent)
+      (, ,)
+      (JJ socialist)
+      (NN candidate)
+      (SBAR+S
+        (NP (NNP Fernando) (NNP Haddad))
+        (VP (, ,) (VB get) (NP (DT a) (JJ free)))))
+    (VP (VB pass)))
+  (. ?))"
+"(SBAR+S
+  (NP (PRP I))
+  (VP
+    (VB ask)
+    (NP
+      (NP (DT this))
+      (SBAR
+        (IN because)
+        (S
+          (, ,)
+          (VP
+            (VBN assessed)
+            (PP
+              (IN against)
+              (NP
+                (NP (DT the) (NN scale))
+                (PP
+                  (IN of)
+                  (NP
+                    (ADJP
+                      (JJ challenges)
+                      (CC and)
+                      (JJ opportunities)
+                      (S+VP
+                        (VBG facing)
+                        (NP
+                          (NP (DT the) (JJ Brazilian) (NNS people))
+                          (, ,)
+                          (NNP Haddad)
+                          (JJ deserves)
+                          (DT a)
+                          (ADJP (RB far) (JJ tougher))
+                          (NN gaze)
+                          (PP (IN than) (NP (PRP he) (POS 's))))))
+                    (NN receiving))))))
+          (. .))))))"
+"(S
+  (NP (DT the) (NNP Economist))
+  (, ,)
+  (PP (IN for) (NP (NN example)))
+  (, ,)
+  (VP
+    (VBZ is)
+    (VBG offering)
+    (ADVP (RB utterly))
+    (NP
+      (NP (JJ absurd) (NN editorials))
+      (PP (IN in) (NP (NNP Haddad) (POS 's))))
+    (VB support)
+    (, ,)
+    (S+VP
+      (VBG presenting)
+      (NP (PRP him))
+      (PP (IN as) (NP (DT a) (JJ moderate)))))
+  (. .))"
+"(NP+S
+  (NP (DT the) (NN evidence))
+  (VP
+    (VBZ suggests)
+    (PP (IN that) (NP (NNP Haddad)))
+    (VBZ is)
+    (S
+      (ADVP (RB actually))
+      (NP (DT a) (JJ devout) (NN socialist))
+      (CC and)
+      (VP (VB loyal) (NP (NN party) (NN man)))
+      (. .))))"
+"(SBAR
+  (WHADVP (WRB when))
+  (S
+    (S
+      (NP (PRP it))
+      (VP (VBZ comes) (PP (TO to) (NP (DT the) (NN socialist)))))
+    (NP (NNP Workers) (NNP Party))
+    (, ,)
+    (VP
+      (VB loyalty)
+      (VBZ is)
+      (NP
+        (DT a)
+        (JJ negative)
+        (CONJP (RB rather) (IN than))
+        (JJ noble)
+        (NN feature)))
+    (. .)))"
+"(S+SBAR
+  (IN after)
+  (S
+    (NP (DT all))
+    (, ,)
+    (NP (DT the) (NNP Workers) (NNP Party))
+    (VP
+      (VBZ is)
+      (PP (IN at) (NP (DT the) (NN heart)))
+      (PP (IN of) (NP (DT a) (NN systemic)))))
+  (S
+    (NP (JJ corruption) (NN scandal))
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP
+        (VBZ has)
+        (VP (VBN seen) (NP (JJ former) (NNP President) (NNP Lula)))))
+    (NP (NNP da) (NNP Silva))
+    (VP (VBN imprisoned) (NP (CC and) (PRP$ his) (NN successor))))
+  (, ,)
+  (S
+    (NP (NNP Dilma) (NNP Rousseff))
+    (VP
+      (VBN impeached)
+      (CC and)
+      (VBN removed)
+      (PP (IN from) (NP (NN office))))
+    (. .)))"
+"(SINV
+  (S
+    (NP
+      (NP (DT the) (NN centerpiece))
+      (PP (IN of) (NP (DT that) (NN scandal))))
+    (, ,)
+    (ADVP (RB now))
+    (VP
+      (VBN investigated)
+      (PP (IN as) (NP (`` ``) (NNP Car) (NNP Wash)))))
+  (, ,)
+  ('' '')
+  (VP (VBZ involves))
+  (NP
+    (NP
+      (NP (JJ Brazilian) (NNS politicians))
+      (PP (VBG taking) (NP (JJ big) (NN bribes))))
+    (PP
+      (IN in)
+      (NP
+        (NP (NN return))
+        (PP (IN for) (NP (NN business) (NNS contracts))))))
+  (. .))"
+"(UCP
+  (CC and)
+  (SBAR
+    (WHADVP (WRB where))
+    (S
+      (S
+        (NP (JJ candidate) (NNP Barack) (NNP Obama))
+        (VP
+          (VBD came)
+          (PRT (RP out))
+          (PP
+            (IN of)
+            (NP
+              (NP (DT the) (NNP Chicago) (NNP swamp))
+              (PP (IN with) (NP (PRP$ his) (NN reputation)))))))
+      (CC and)
+      (NP (JJ integrity) (NN intact))
+      (, ,)
+      (NP (NNP Haddad))
+      (VP
+        (VBZ is)
+        (NP
+          (NP (DT a) (JJ true) (NN swamp))
+          (JJ dweller)
+          (NN candidate)))
+      (. .))))"
+"(NP+S
+  (NP (DT the) (JJ former) (NN professor))
+  (VP
+    (VBZ has)
+    (VBN been)
+    (VBN charged)
+    (PP
+      (IN by)
+      (NP
+        (NP (NNS prosecutors))
+        (PP
+          (IN for)
+          (NP
+            (NP (VBG taking) (NN bribes))
+            (PP
+              (IN from)
+              (NP
+                (DT a)
+                (NN construction)
+                (NN company)
+                (SBAR
+                  (IN while)
+                  (S
+                    (VP
+                      (VBG serving)
+                      (PP
+                        (IN as)
+                        (NP (NNP Sao) (NNP Paulo) (NN mayor))))
+                    (. .)))))))))))"
+"(NP+S
+  (NP (DT the) (NN world))
+  (VP
+    (VBZ is)
+    (VB imperfect)
+    (S
+      (, ,)
+      (NP (CC and) (NNP Bolsonaro))
+      (VP
+        (VBZ is)
+        (ADVP (RB far) (PP (IN from) (NP (DT a) (NN saint)))))
+      (. .))))"
+"(VP
+  (CC but)
+  (VB let)
+  (VBZ 's)
+  (VB consider)
+  (SBAR
+    (WHNP (WDT which))
+    (S
+      (NP (JJ candidate) (NNS offers))
+      (NP
+        (NP (DT the) (JJS best) (NN program))
+        (PP (IN for) (NP (NNP Brazil))))
+      (VP (VBZ 's) (ADJP (RBR better) (JJ future)))
+      (. .))))"
+"(NP+SBAR+S
+  (ADVP (RB first))
+  (S
+    (, ,)
+    (NP (EX there))
+    (VP
+      (VBZ 's)
+      (NP
+        (NP
+          (NP (DT no) (NN evidence))
+          (PP (IN from) (NP (NP (NNP Haddad) (POS 's)) (NN program))))
+        (PP (IN that) (NP (DT the) (NN would-be-president))))))
+  (S
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT any) (NN interest))
+        (PP (IN in) (NP (JJ serious) (NN reform)))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (NNS haddad))
+    (VP
+      (VBZ wants)
+      (S+VP (TO to) (VP (VB boost) (NP (JJ public) (NN spending))))))
+  (IN on)
+  (S
+    (ADVP (RB already))
+    (VP (VBN bloated) (NP (JJ entitlement) (NNS programs))))
+  (, ,)
+  (S
+    (NP (NN increase) (NN state))
+    (NP (NP (NN control)) (PP (IN over) (NP (DT the) (NN economy))))
+    (, ,)
+    (CC and)
+    (VP (VB raise) (NP (NN taxes)))
+    (. .)))"
+"(NP+S
+  (NP (DT these) (NNS things))
+  (VP
+    (MD will)
+    (VBP do)
+    (NP (NN nothing))
+    (S+VP
+      (TO to)
+      (VP
+        (VB give)
+        (S
+          (NP (NNP Brazil))
+          (NP
+            (NP (DT a) (ADJP (RBR more) (JJ efficient)) (NN economy))
+            (PP (IN that) (NP (JJ creates) (JJ new) (NNS jobs))))
+          (CC and)
+          (VP
+            (VB attracts)
+            (NP (JJR greater) (JJ foreign) (NN investment)))
+          (. .))))))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (VP
+      (VB contrast)
+      (UCP
+        (, ,)
+        (ADJP
+          (JJ Bolsonaro)
+          (S+VP
+            (VBZ is)
+            (VBG pledging)
+            (TO to)
+            (VP
+              (VB expand)
+              (NP
+                (NP (DT the) (NN independence))
+                (PP (IN of) (NP (NNP Brazil) (POS 's)))))))
+        (JJ central)
+        (NN bank)
+        (, ,)
+        (NN privatize)
+        (NN corrupt)
+        (CC and)
+        (NN inefficient)
+        (NN state-owned)
+        (NN industries)
+        (, ,)
+        (VP (VB reduce) (NP (DT the) (NN government)))
+        (NN bureaucracy)
+        (CC and)
+        (NN workforce)
+        (, ,)
+        (CC and)
+        (NN simplify)
+        (NP (NNP Brazil) (POS 's))
+        (ADJP (JJ complex))
+        (, ,)
+        (NN evasion-heavy)
+        (NN tax)
+        (NN code)))
+    (. .)))"
+"(NP+S
+  (NP (DT these) (NN proposals))
+  (VP
+    (VBP are)
+    (NP
+      (NP (JJ textbook) (NNS reforms))
+      (PP (IN of) (NP (DT the) (NN kind))))
+    (SBAR
+      (IN that)
+      (S
+        (VP
+          (VBD saved)
+          (SBAR+S
+            (NP (NNP Margaret) (NNP Thatcher) (POS 's))
+            (VP
+              (NP (NNP Britain))
+              (PP
+                (IN from)
+                (NP (PRP$ its) (JJ socialist) (NN nightmare))))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (PRP it))
+    (VP
+      (VBZ 's)
+      (NP
+        (NP (DT the) (JJ same) (NN dichotomy))
+        (PP (IN on) (NP (NN security) (NN issues.Where))))))
+  (S
+    (NP (NNP Haddad))
+    (VP
+      (VBZ offers)
+      (NP
+        (NP
+          (NP (JJR more))
+          (PP
+            (IN of)
+            (NP
+              (DT the)
+              (JJ same)
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S+VP (VBZ has) (VBD led) (NP (NNP Brazil)))))))
+        (PP (IN into) (NP (JJ war-like) (NN crime) (NNS levels))))))
+  (, ,)
+  (S
+    (NP (NNP Bolsonaro))
+    (VP
+      (VBZ offers)
+      (PP (IN at) (NP (JJS least) (DT some) (NN measure)))
+      (PP (IN of) (NP (NN innovation))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (DT the) (JJ conservative) (NN candidate))
+    (VP
+      (VBZ wants)
+      (S+VP
+        (TO to)
+        (VP
+          (VB boost)
+          (NP
+            (NP (JJ civilian) (NNS rights))
+            (PP (TO to) (NP (JJ gun) (NN ownership))))))))
+  (S
+    (PRN
+      (-LRB- ()
+      (S
+        (NP (DT the) (NN gangs))
+        (VP
+          (VBP have)
+          (NP
+            (NP (DT an) (NN abundance))
+            (PP (IN of) (NP (NN guns))))
+          (ADVP (RB already))))
+      (-RRB- )))
+    (, ,)
+    (CC and)
+    (NP (JJR greater) (NN resourcing))
+    (VP
+      (PP (IN for) (NP (NN police) (NN investigations)))
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (MD can)
+          (VP (VB target) (NP (JJ senior) (NN criminals))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (VP (VBP do) (ADJP (RB n't) (JJ misunderstand)))
+    (NP (PRP me))
+    (, ,)
+    (NP (NNP Bolsonaro))
+    (VP (VBZ is) (ADVP (RB far) (PP (IN from) (NP (NN perfect))))))
+  (S
+    (ADVP (RB here))
+    (: :)
+    (NP (PRP he))
+    (VP
+      (VBZ 's)
+      (VBG pledging)
+      (, ,)
+      (PP (IN for) (NP (NN example)))))
+  (, ,)
+  (S
+    (VP
+      (PP
+        (TO to)
+        (NP
+          (NP (JJ grant) (JJ relative) (NN impunity))
+          (PP (TO to) (NP (NN police) (NN officers)))))
+      (SBAR
+        (WHNP (WP who))
+        (S+VP (VBP use) (NP (JJ excessive) (NN force)))))
+    (. .)))"
+"(S
+  (ADVP (RB yet))
+  (NP (NNP Brazil))
+  (VP (VBZ is) (PP (IN in) (NP (DT a) (JJ real) (NN crisis))))
+  (. .))"
+"(PRN+SBAR
+  (IN unlike)
+  (S
+    (NP (PRP$ his) (NN opponent))
+    (, ,)
+    (NP
+      (NNP Bolsonaro)
+      (PP (IN at) (NP (JJS least) (NN recognizes)))
+      (PP (IN that) (NP (NNP Brazilians))))
+    (VP
+      (VBP need)
+      (CC and)
+      (VBP are)
+      (VBG demanding)
+      (NP (JJ decisive) (NN action)))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (PRP it))
+    (VP
+      (MD might)
+      (NP (JJ spark) (NN groans))
+      (PP (IN in) (NP (JJ Western) (NN capitals)))))
+  (, ,)
+  (S
+    (CC but)
+    (NP (NNP Bolsonaro) (POS 's))
+    (NP
+      (NP
+        (NN pledge)
+        (S+VP
+          (TO to)
+          (VP (VB put) (NP (DT the) (JJ armed) (NNS forces)))))
+      (PP
+        (IN into)
+        (NP
+          (NP (NN action))
+          (PP (IN against) (NP (JJ criminal) (NN gangs))))))
+    (VP
+      (VBZ does)
+      (RB not)
+      (VB reflect)
+      (NP (JJ dystopian) (NN ideals)))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (NP (PRP it))
+    (VP (VB reflects) (NP (JJ public) (NN desperation))))
+  (. .))"
+"(S+SBAR
+  (S
+    (ADVP (RB ultimately))
+    (VP
+      (, ,)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP it))
+          (VP
+            (VBZ comes)
+            (PP (TO to) (NP (DT the) (JJ big) (NN question))))))))
+  (IN of)
+  (IN whether)
+  (S
+    (NP (NNP Haddad) (CC or) (NNP Bolsonaro))
+    (VP
+      (VBZ is)
+      (ADJP
+        (ADVP
+          (ADVP (RBR better))
+          (PP (IN for) (NP (NNP Brazil) (POS 's))))
+        (JJ future))))
+  (, ,)
+  (S
+    (NP (PRP I))
+    (VP
+      (VB see)
+      (ADJP
+        (RB very)
+        (RB little)
+        (JJ doubt)
+        (PP (IN as) (TO to) (NP (DT the) (NN answer)))))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (NP (PRP it))
+    (VP (VBZ 's) (NP (NNP Bolsonaro) (, ,) (NP (NNP stupid)))))
+  (. .))"
+"(ADVP
+  (ADVP (CC and) (RB just))
+  (SBAR
+    (IN as)
+    (S
+      (NP (DT the) (NNP Economist))
+      (VP
+        (VBD was)
+        (ADJP (JJ wrong))
+        (SBAR
+          (IN in)
+          (S
+            (S+VP
+              (VBG opposing)
+              (NP (NNP Narendra) (NNP Modi) (POS 's)))
+            (NP
+              (NN campaign)
+              (S+VP (TO to) (VP (VB lead) (NP (NNP India)))))
+            (, ,)
+            (NP (PRP they))
+            (VP
+              (VBP are)
+              (ADJP (JJ wrong) (PP (IN about) (NP (NNP Bolsonaro))))))))
+      (. .))))"
+"(NP+SBAR+S
+  (ADVP (RB only))
+  (S
+    (NP (PRP he))
+    (VP (VBZ offers) (NP (DT the) (JJ urgent) (NNS reforms))))
+  (S
+    (VP
+      (ADJP (JJ necessary))
+      (S+VP
+        (TO to)
+        (VP
+          (VB make)
+          (NP (NP (NNP Brazil) (POS 's)) (JJ future) (NN brighter)))))
+    (. .)))"

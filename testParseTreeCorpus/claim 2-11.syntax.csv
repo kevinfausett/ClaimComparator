@@ -485,3 +485,166 @@
       (-RRB- )))
     (VP (VB deny) (NP (JJ such) (NN cycles)))
     (. .)))"
+"(UCP
+  (NN Through)
+  (NP (DT this) (NN denial))
+  (, ,)
+  (NNS leaders)
+  (SBAR
+    (IN from)
+    (IN within)
+    (S
+      (NP (DT this) (JJ much-revered) (NN community))
+      (VP
+        (MD can)
+        (VBP claim)
+        (SBAR
+          (IN that)
+          (S (NP (EX there)) (VP (VBZ is) (NP (NN something))))))))
+  (ADJP (JJ unusual))
+  (PP (IN about) (NP (JJ current) (NN temperatures)))
+  (: :)
+  (SBAR
+    (IN that)
+    (S
+      (NP (PRP we))
+      (VP
+        (VBP have)
+        (VB catastrophic)
+        (NP
+          (NP (JJ global) (NN warming))
+          (PP
+            (IN from)
+            (NP (JJ industrialisation.) (NNP Dr) (NNP Marohasy)))))))
+  (, ,)
+  (SBAR
+    (WHNP
+      (WP$ whose)
+      (NP
+        (NP (JJ long) (NN list))
+        (PP (IN of) (NP (NN credentials)))))
+    (S+VP
+      (VBP include)
+      (VBG setting)
+      (PRT (RP up))
+      (NP (DT The) (NNP Climate) (NNP Modelling) (NNP Laboratory))))
+  (CC and)
+  (NN director)
+  (PP
+    (IN of)
+    (NP
+      (NP
+        (DT the)
+        (JJ Australian)
+        (NNP Environment)
+        (NNP Foundation))
+      (PP (IN until) (NP (CD 2008)))))
+  (, ,)
+  (RB scathingly)
+  (ADJP
+    (JJ concludes)
+    (SBAR+S
+      (NP (: :) (JJ The) (NN science))
+      (VP
+        (VBZ is)
+        (SBAR
+          (RB far)
+          (IN from)
+          (S
+            (NP (NNP settled.) (NNP However))
+            (, ,)
+            (NP (NNP Nasa))
+            (, ,)
+            (PP (IN for) (NP (CD one)))
+            (, ,)
+            (VP
+              (VBZ has)
+              (ADVP (RB repeatedly))
+              (VBN stated)
+              (PP
+                (IN that)
+                (NP
+                  (ADJP
+                    (ADJP
+                      (JJ global)
+                      (S+VP
+                        (VBG warming)
+                        (VP
+                          (VBZ is)
+                          (NP
+                            (NP (DT a) (NN result))
+                            (PP
+                              (IN of)
+                              (NP
+                                (NP (JJ human) (NN activity))
+                                (, ,)))))
+                        (VBG saying)
+                        (SBAR
+                          (IN that)
+                          (S
+                            (NP (EX there))
+                            (VP
+                              (VBZ is)
+                              (NP
+                                (NP (DT a) (NN 95))
+                                (PP
+                                  (IN per)
+                                  (NP (NN cent) (NN probability)))))))))
+                    (SBAR
+                      (IN that)
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ is) (VBN caused) (PP (IN by))))))
+                  (NN man))))
+            (. .)))))))"
+"(NP+SBAR+S
+  (S
+    (NP (JJ Nasas) (NNP Global) (NNP Climate))
+    (NP (NNP Change) (NNP Office))
+    (VP
+      (VBZ has)
+      (VBD said)
+      (: :)
+      (VB The)
+      (NP
+        (NP (JJ heat-trapping) (NN nature))
+        (PP (IN of) (NP (JJ carbon) (NN dioxide))))))
+  (S
+    (CC and)
+    (NP (JJ other) (NN gases))
+    (VP
+      (VBD was)
+      (VBN demonstrated)
+      (PP (IN in) (NP (DT the) (JJ mid-19th) (NN century))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP
+      (NP
+        (NP (PRP$ their) (NN ability))
+        (PP
+          (TO to)
+          (NP
+            (NP (JJ affect) (DT the) (NN transfer))
+            (PP (IN of) (NP (JJ infrared) (NN energy))))))
+      (PP (IN through) (NP (DT the) (NN atmosphere))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (DT the) (JJ scientific) (NN basis))
+        (PP (IN of) (NP (JJ many) (NNS instruments))))))
+  (S (VP (VB flown) (PP (IN by) (NP (NNP Nasa)))) (. .)))"
+"(S+ADJP
+  (JJ There)
+  (SBAR+S+VP
+    (VP
+      (VBZ is)
+      (SBAR+S
+        (NP
+          (NP
+            (NP (DT no) (NN question))
+            (PP (IN that) (NP (VBN increased) (NNS levels))))
+          (PP (IN of) (NP (JJ greenhouse) (NN gases))))
+        (VP (MD must) (VB cause) (NP (DT the) (NNP Earth)))))
+    (TO to)
+    (VP (VB warm) (PP (IN in) (NP (NN response.))))))"

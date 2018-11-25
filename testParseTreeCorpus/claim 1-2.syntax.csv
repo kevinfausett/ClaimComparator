@@ -1,0 +1,215 @@
+"(S+SBAR
+  (S
+    (NP (NNP haddad) (NNP Reaches))
+    (NP (CD 22) (NN %))
+    (: ;)
+    (NP
+      (NP (NNP Bolsonaro) (NNP Loses))
+      (PP
+        (IN in)
+        (NP (DT All) (NNP Second) (NNP Round) (NNP Scenarios))))
+    (NP
+      (NP (NNP Fernando) (NNP Haddad))
+      (PRN (-LRB- () (NP (NNP PT)) (-RRB- ))))
+    (VP
+      (VBD gained)
+      (SBAR+S
+        (NP (CD six) (NN percentage) (NNS points))
+        (VP
+          (CC and)
+          (VBN cemented)
+          (NP (PRP$ his) (NN position))
+          (PP
+            (IN in)
+            (NP
+              (JJ second)
+              (NP (NN place))
+              (PP (IN in) (NP (DT the) (JJ presidential) (NN run)))))))))
+  (, ,)
+  (S
+    (PP (IN with) (NP (CD 22) (NN %)))
+    (VP
+      (, ,)
+      (S+VP
+        (VBG according)
+        (TO to)
+        (VP
+          (NP (DT a) (NNP Datafolha) (NNP poll))
+          (VBN done)
+          (PP
+            (IN between)
+            (NP
+              (NP (NNP September))
+              (DT the)
+              (NN 26th)
+              (CC and)
+              (NNS 28th))))))
+    (. .)))"
+"(S
+  (NP (NNP jair) (NNP Bolsonaro))
+  (PRN (-LRB- () (NP (NNP PSL)) (-RRB- )))
+  (VP
+    (VBZ is)
+    (ADVP (RB still))
+    (NP (NP (DT the) (NN frontrunner)) (, ,))
+    (PP (IN with) (NP (CD 28) (NN %))))
+  (. .))"
+"(S+SBAR
+  (S
+    (CC but)
+    (PP (IN in) (NP (JJ second) (NN round) (NN simulation)))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VB loses)
+      (PP (TO to) (NP (DT all) (JJ other) (NNS candidates)))))
+  (, ,)
+  (S (VP (VBG including) (NP (NNP Haddad))) (. .)))"
+"(S
+  (NP (DT both) (NNS candidates))
+  (ADVP (RB also))
+  (VP (VB top) (VB voter) (NP (JJ rejection) (NN rankings)))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NN bolsonaro) (POS 's))
+    (VP
+      (VB rejection)
+      (VBN increased)
+      (PP
+        (IN from)
+        (NP (NP (CD 43) (NN %)) (PP (TO to) (NP (CD 46) (NN %)))))))
+  (, ,)
+  (S
+    (PP (IN while) (NP (NNP Haddad) (POS 's)))
+    (VP
+      (VB gone)
+      (PP
+        (IN from)
+        (NP (NP (CD 29) (NN %)) (PP (TO to) (NP (CD 32) (NN %))))))
+    (. .)))"
+"(S
+  (NP (NNP ciro) (NNP Gomes))
+  (PRN (-LRB- () (NP (NNP PDT)) (-RRB- )))
+  (, ,)
+  (PP (IN with) (NP (CD 11) (NN %)))
+  (, ,)
+  (CC and)
+  (NP (NNP Geraldo) (NNP Alckmin))
+  (PRN (-LRB- () (NP (NNP PSDB)) (-RRB- )))
+  (, ,)
+  (PP (IN with) (NP (CD 11) (NN %)))
+  (, ,)
+  (VP
+    (VBP are)
+    (ADJP
+      (ADVP (RB technically) (VP (VBN tied) (PP (IN in))))
+      (JJ third)))
+  (. .))"
+"(S
+  (NP (NP (DT the) (NN margin)) (PP (IN of) (NP (NN error))))
+  (VP
+    (VBZ is)
+    (NP (CD two) (NNS points))
+    (ADVP (RB up) (CC or) (RB down)))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NN poll))
+    (VP
+      (ADVP (RB also))
+      (VBZ shows)
+      (PP (IN that) (NP (NNP Bolsonaro) (CC and) (NNP Haddad)))
+      (VBP are)
+      (ADVP (RB technically))
+      (VBN tied)
+      (PP (IN among) (NP (NNS women)))))
+  (, ,)
+  (S
+    (PP (IN with) (NP (CD 21) (NN %)))
+    (CC and)
+    (NP
+      (NP (CD 22) (NN %))
+      (PP (IN of) (NP (VBG voting) (NN intention))))
+    (VP (, ,) (ADVP (RB respectively)))
+    (. .)))"
+"(S+SBAR
+  (S
+    (CC but)
+    (PP (IN while) (NP (NNP Bolsonaro) (POS 's)))
+    (NP (NNS intention))
+    (VP
+      (VBD remained)
+      (VB stable)
+      (VBN compared)
+      (PP (TO to) (NP (JJ previous) (NN polls)))))
+  (, ,)
+  (S
+    (NP (NNP Haddad))
+    (VP (VBD gained) (NP (CD six) (NNS points)))
+    (. .)))"
+"(NP+S
+  (NP (DT the) (NN frontrunner) (POS 's))
+  (VP
+    (VB rejection)
+    (SBAR
+      (IN among)
+      (S
+        (NP (NNS women))
+        (ADVP (RB also))
+        (VP
+          (VBD increased)
+          (SBAR+S
+            (NP (: :) (CD 52) (NN %))
+            (VP
+              (ADVP (RB now))
+              (VBP say)
+              (SBAR+S
+                (NP (PRP they))
+                (VP
+                  (MD would)
+                  (RB not)
+                  (VB vote)
+                  (PP
+                    (IN for)
+                    (NP
+                      (NNP Bolsonaro)
+                      (, ,)
+                      (QP (IN from) (CD 49))
+                      (NN %))))))))
+        (. .)))))"
+"(NP+S
+  (NP (NN haddad) (POS 's))
+  (VP
+    (VB rejection)
+    (SBAR
+      (IN in)
+      (S
+        (NP (DT this) (NN group))
+        (VP
+          (VBD rose)
+          (PP (IN from) (NP (CD 24) (NN %)))
+          (PP (TO to) (NP (CD 26) (NN %))))
+        (. .)))))"
+"(NP+SBAR+S
+  (S
+    (NP (DT both) (NNS candidates))
+    (VP (VBP have) (ADJP (RB highly) (JJ confident))))
+  (S
+    (NP (NNS voters))
+    (: :)
+    (NP
+      (NP (CD 79) (NN %))
+      (PP (IN of) (NP (NNP Bolsonaro) (POS 's))))
+    (CC and)
+    (NP (NP (CD 78) (NN %)) (PP (IN of) (NP (NNP Haddad) (POS 's))))
+    (VP
+      (VBP say)
+      (SBAR+S
+        (NP (PRP they))
+        (VP
+          (MD wo)
+          (RB n't)
+          (VB change)
+          (NP (PRP$ their) (NN minds)))))
+    (. .)))"

@@ -1,0 +1,504 @@
+"(S+SBAR
+  (S
+    (NP
+      (NP (NNS assets))
+      (PP
+        (IN of)
+        (NP
+          (NAC
+            (NNP Congressman)
+            (NNP Jair)
+            (NNP Bolsonaro)
+            (CC and)
+            (NNP His)
+            (NNP Sons)
+            (NNP Multiply)
+            (NNP During)
+            (NNP Political)
+            (NNP Careers)
+            (NNP According)
+            (NNP Folha)
+            (PP (IN de) (NP (NNP Sao) (NNP Paulo))))
+          (NN newspaper))))
+    (NP (JJ Brazilian) (NN congressman))
+    (NP (NNP Jair) (NNP Bolsonaro))
+    (, ,)
+    (NP
+      (NP
+        (SBAR
+          (WHNP (WP who))
+          (S+VP
+            (VBZ is)
+            (ADJP
+              (JJ likely)
+              (S+VP
+                (TO to)
+                (VP
+                  (VBN run)
+                  (PP
+                    (IN for)
+                    (NP
+                      (NP (NN president))
+                      (PP
+                        (IN in)
+                        (NP (DT this) (JJ yearâs) (NN election))))))))))
+        (, ,))
+      (PP
+        (IN along)
+        (NP
+          (PP (IN with) (NP (PRP$ his) (CD three) (NNS sons)))
+          (SBAR (WHNP (WP who)) (S+VP (VBP hold) (NP (NN office)))))))
+    (VP
+      (VBP are)
+      (NP
+        (NP (DT the) (NN owners))
+        (PP (IN of) (NP (CD 13) (NNS properties))))
+      (PP (IN with) (NP (DT a) (NN market) (NN price)))))
+  (IN of)
+  (IN at)
+  (S
+    (NP (JJS least) (NN R))
+    (NP
+      (NP+QP ($ $) (CD 15) (CD million))
+      (PRN
+        (-LRB- ()
+        (NP (NNP US))
+        (NP+QP ($ $) (CD 4.5) (CD million))
+        (-RRB- ))))
+    (, ,)
+    (NP (NP (JJS most)) (PP (IN of) (NP (PRP them))))
+    (VP
+      (PP (IN in) (NP (JJ high-end) (NNS areas)))
+      (PP (IN of) (NP (NNP Rio) (NNP de) (NNP Janeiro)))))
+  (, ,)
+  (S
+    (NP (NP (JJ such)) (PP (IN as) (NP (NNP Copacabana))))
+    (, ,)
+    (NP (NNP Barra))
+    (VP (VB da) (NP (NNP Tijuca) (CC and) (NNP Urca)))
+    (. .)))"
+"(SINV
+  (S
+    (NP (DT A) (NN survey))
+    (VP
+      (PP (IN by) (NP (NNP Folha)))
+      (PP (IN in) (NP (JJ local) (NN notary)))))
+  (VP (VBZ publics))
+  (VP (VBD identified))
+  (S
+    (PP (IN that) (NP (DT the) (JJ main) (NN apartments)))
+    (NP (CC and) (NNS houses))
+    (VP
+      (VBD were)
+      (VBN bought)
+      (PP (IN in) (NP (DT the) (JJ last) (JJ ten) (NNS years)))))
+  (S (CC and) (NP (DT the) (NN price)) (VP (VBN paid) (PP (IN for))))
+  (S
+    (NP (PRP them))
+    (VP
+      (VBD was)
+      (RB well)
+      (PP (IN below) (NP (DT the) (NN assessment)))
+      (VBN made)
+      (PP (IN by) (NP (DT the) (NNP Rio) (NNP de) (NNP Janeiro)))))
+  (NP
+    (NP (NNP City) (NNP Hall))
+    (PP (IN at) (NP (DT the) (NN time))))
+  (. .))"
+"(S
+  (NP (JJ jair) (NN Bolsonaroâs))
+  (NP (JJS oldest) (NN son))
+  (, ,)
+  (NP
+    (NNP Flavio)
+    (, ,)
+    (DT a)
+    (NNP State)
+    (NNP congressman)
+    (PP (IN for) (NP (NNP Rio) (NNP de) (NNP Janeiro))))
+  (, ,)
+  (VP
+    (VBN negotiated)
+    (NP (CD 19) (NNS properties))
+    (PP (IN in) (NP (DT the) (JJ last) (CD 13) (NNS years))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NNS documents))
+    (VP (VBN kept) (PP (IN in) (NP (NNP Electoral) (NNP Courts)))))
+  (S
+    (CC and)
+    (NP
+      (JJ notary)
+      (JJ publics)
+      (NN show)
+      (PP
+        (IN that)
+        (NP (DT the) (NNP Bolsonaro) (JJ familyâs) (NNS assets))))
+    (VP
+      (ADVP (RB also))
+      (VBP include)
+      (NP (NNS cars))
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (VP
+            (VB range)
+            (PP
+              (IN from)
+              (NP
+                (JJ R)
+                ($ $)
+                (CD 45,000)
+                (PRN
+                  (-LRB- ()
+                  (NP (NNP US) ($ $) (CD 14,000))
+                  (-RRB- ))))))
+          (TO to)
+          (VP
+            (VB R)
+            (NP
+              (NP ($ $) (CD 105,000))
+              (PRN
+                (-LRB- ()
+                (NP (NNP US) ($ $) (CD 32,000))
+                (-RRB- )))))))))
+  (, ,)
+  (S
+    (NP (DT a) (JJ jet) (NN ski))
+    (, ,)
+    (CC and)
+    (VP
+      (NP (JJ financial) (NNS investments))
+      (PP
+        (IN that)
+        (NP
+          (NN amount)
+          (S+VP
+            (TO to)
+            (VP
+              (VB R)
+              (NP
+                (NP+QP ($ $) (CD 1.7) (CD million))
+                (PRN
+                  (-LRB- ()
+                  (NP (NNP US) ($ $) (CD 520,000))
+                  (-RRB- )))))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (NNP Jair) (NNP Bolsonaro))
+        (VP
+          (VBD began)
+          (NP (PRP$ his) (NN career))
+          (PP
+            (IN in)
+            (NP (NP (NNS politics)) (PP (IN in) (NP (CD 1988))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VBD declared)
+      (SBAR
+        (IN that)
+        (S
+          (NP (PRP he))
+          (VP (RB only) (VBN owned) (NP (DT a) (NN car)))))))
+  (S
+    (PRN (-LRB- () (NP (NNP Fiat) (NNP Panorama)) (-RRB- )))
+    (, ,)
+    (NP (DT a) (NN motorcycle))
+    (CC and)
+    (NP (CD two) (NNS pieces))
+    (VP
+      (PP
+        (IN of)
+        (NP (NP (NN land)) (PP (IN of) (NP (JJ low) (NN value)))))
+      (PP (IN in) (NP (NNP Resende)))))
+  (, ,)
+  (S
+    (PP
+      (IN in)
+      (NP
+        (NP (DT the) (NN countryside))
+        (PP (IN of) (NP (NNP Rio) (NNP de) (NNP Janeiro)))))
+    (, ,)
+    (SBAR
+      (WHNP (WDT which))
+      (S+VP (VBD totaled) (NP (DT some) (NN R))))
+    (VP
+      (NP
+        (NP ($ $) (CD 10,000))
+        (PRN (-LRB- () (NP (NNP US) ($ $) (CD 3,000)) (-RRB- ))))
+      (PP (IN in) (NP (JJ current) (NN values))))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (NP (PRP he))
+    (VP
+      (VBZ has)
+      (RB only)
+      (VBN worked)
+      (PP
+        (IN as)
+        (NP
+          (NP (DT a) (NN politician))
+          (PP (IN since) (NP (RB then)))))))
+  (. .))"
+"(SBARQ
+  (SQ
+    (NP (PRP he))
+    (VP
+      (VBZ has)
+      (VBN been)
+      (VBN elected)
+      (NP
+        (NP (DT a) (JJ federal) (NN congressman))
+        (CD seven)
+        (NNS times))))
+  (. .))"
+"(S
+  (NP (NNP jair) (NNP Bolsonaro))
+  (NP (, ,) (CD 62))
+  (, ,)
+  (VP
+    (VBZ has)
+    (NP
+      (NP
+        (NP (CD two) (NNS ex-wives))
+        (PRN
+          (-LRB- ()
+          (S
+            (NP (PRP he))
+            (VP
+              (VBZ is)
+              (ADVP (RB now))
+              (VBN married)
+              (PP (IN for) (NP (DT the) (JJ third) (NN time)))))
+          (-RRB- ))))
+      (CC and)
+      (CD five)
+      (NNS children)))
+  (. .))"
+"(NP+SBAR+S
+  (S
+    (NP
+      (NP (CD three))
+      (PP
+        (IN of)
+        (NP
+          (NP
+            (SBAR+S
+              (NP (PRP them))
+              (VP (VBP are) (NP (NNS politicians))))
+            (: :))
+          (PP
+            (IN in)
+            (NP
+              (NP (NN addition))
+              (PP (TO to) (NP (NNP Flavio) (, ,) (NP (NNP Carlos)))))))))
+    (VP
+      (VBZ has)
+      (VBN been)
+      (NP (DT a) (NNP Rio) (NNP de) (NNP Janeiro))))
+  (S
+    (NP (NP (NN town) (NN councilor)) (PP (IN since) (NP (CD 2001))))
+    (NP (CC and) (NNP Eduardo))
+    (VP
+      (VBZ has)
+      (VBN been)
+      (NP (DT a) (JJ federal) (NN congressman))
+      (PP (IN since) (NP (CD 2015))))
+    (. .)))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP (DT all))
+    (, ,)
+    (NP (DT the) (CD four) (NN Bolsonaros))
+    (VP
+      (VBP have)
+      (VBN run)
+      (PP (IN for) (NP (NN office) (CD 19) (NNS times))))
+    (. .)))"
+"(PRN+SBAR
+  (IN like)
+  (S
+    (NP (PRP$ their) (NN father))
+    (, ,)
+    (NP (NNP Flavio) (, ,) (NNP Carlos) (CC and) (NNP Eduardo))
+    (ADVP (RB also))
+    (NP (NN show) (DT a) (NN fast-paced))
+    (VP (VB increase) (PP (IN in) (NP (PRP$ their) (NNS assets))))
+    (. .)))"
+"(VP+VP
+  (PP (IN with) (NP (DT the) (NN exception)))
+  (PP (IN of) (NP (DT a) (NN partnership) (NN Flavio)))
+  (VBZ has)
+  (ADVP (RB recently))
+  (VBD started)
+  (PP (IN in) (NP (DT a) (NN chocolate)))
+  (VB store)
+  (, ,)
+  (SBAR
+    (RB all)
+    (IN of)
+    (S
+      (NP (PRP them))
+      (VP
+        (VBP have)
+        (RB only)
+        (VBN worked)
+        (PP (IN as) (NP (NNS politicians))))
+      (. .))))"
+"(FRAG+SBAR
+  (ADVP (RB up))
+  (IN until)
+  (S
+    (NP (CD 2008) (, ,) (DT the) (NNP Bolsonaros))
+    (VP
+      (VBD declared)
+      (SBAR+S
+        (NP
+          (NP
+            (NP (NP (NNS assets)) (PP (IN of) (NP (DT some) (NN R))))
+            (NP+QP ($ $) (CD 1) (CD million))
+            (PRN
+              (-LRB- ()
+              (NP (NNP US) ($ $) (CD 300,000))
+              (-RRB- ))))
+          (PP (TO to) (NP (NNP Electoral) (NNP Courts))))
+        (VP
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S+VP
+              (VBD included)
+              (NP
+                (NP (RB only) (CD 3))
+                (PP
+                  (IN of)
+                  (NP
+                    (PRP$ their)
+                    (JJ current)
+                    (CD 13)
+                    (NNS properties)))))))))
+    (. .)))"
+"(S
+  (NP (DT the) (JJ main) (JJ new) (NNS acquisitions))
+  (VP
+    (VBN occurred)
+    (PP (IN in) (NP (DT the) (JJ last) (JJ ten) (NNS years))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP
+      (NP (DT the) (CD two) (JJ main) (NNS houses))
+      (PP (IN in) (NP (NNP Jair) (JJ Bolsonaroâs) (NNS assets))))
+    (VP
+      (VBP are)
+      (VBN located)
+      (PP
+        (IN in)
+        (NP
+          (DT a)
+          (JJ seaside)
+          (NN condominium)
+          (PP
+            (IN in)
+            (NP
+              (NP (DT the) (NN neighborhood))
+              (PP (IN of) (NP (NNP Barra) (NNP da) (NNP Tijuca)))))))))
+  (, ,)
+  (S
+    (PP (IN on) (NP (NNP Lucio) (NNP Costa)))
+    (NP (NNS avenue))
+    (, ,)
+    (VP
+      (NP (CD one))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (ADJP (RBS most) (JJ expensive)) (NNS areas))
+          (PP (IN in) (NP (NNP Rio) (NNP de) (NNP Janeiro))))))
+    (. .)))"
+"(NP+S
+  (NP (JJ official) (NNS documents))
+  (VP
+    (VBP show)
+    (SBAR
+      (IN that)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBD purchased)
+          (NP (CD one))
+          (PP
+            (IN of)
+            (NP
+              (NP (DT the) (NNS houses))
+              (PP
+                (IN for)
+                (NP
+                  (NP
+                    (NP
+                      (NP
+                        (JJ R)
+                        ($ $)
+                        (CD 400,000)
+                        (PRN
+                          (-LRB- ()
+                          (NP (NNP US) ($ $) (CD 122,000))
+                          (-RRB- ))))
+                      (PP (IN in) (NP (CD 2009))))
+                    (CC and)
+                    (DT the)
+                    (JJ other)
+                    (PP (IN for) (NP (JJ R) ($ $) (CD 500,000)))
+                    (PRN
+                      (-LRB- ()
+                      (NP (NNP US) ($ $) (CD 152,000))
+                      (-RRB- ))))
+                  (PP (IN in) (NP (CD 2012))))))))
+        (. .)))))"
+"(SINV
+  (S
+    (NP
+      (NP (CD five) (JJ real) (NN estate) (NNS offices))
+      (PP (IN in) (NP (DT the) (NN region))))
+    (VP (VBN consulted) (PP (IN by) (NP (NNP Folha)))))
+  (VP (VBD said))
+  (S
+    (PP
+      (IN that)
+      (NP
+        (NP (DT the) (NN market) (NN price))
+        (PP (IN of) (NP (DT the) (CD two) (NNS houses)))))
+    (ADVP (RB together))
+    (NP (NN today))
+    (VP (VBZ is) (PP (IN at) (NP (JJS least) (NN R)))))
+  (NP
+    (NP+QP ($ $) (CD 5) (CD million))
+    (PRN
+      (-LRB- ()
+      (NP (NNP US))
+      (NP+QP ($ $) (CD 1.5) (CD million))
+      (-RRB- ))))
+  (. .))"
+"(PRN+SBAR
+  (IN that)
+  (S
+    (VP
+      (VBZ means)
+      (SBAR+S
+        (NP (PRP$ their) (NNS prices))
+        (VP
+          (VBN increased)
+          (PP
+            (IN by)
+            (NP
+              (NP (QP (IN at) (JJS least) (CD 450)) (NN %))
+              (PP (IN in) (NP (DT the) (NN period))))))))
+    (. .)))"

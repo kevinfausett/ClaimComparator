@@ -1,0 +1,1475 @@
+"(NP+SBAR+S
+  (S
+    (NP
+      (NP (DT A) (JJ Trump-like) (NN politician))
+      (PP (IN in) (NP (NNP Brazil))))
+    (VP
+      (MD could)
+      (VB snag)
+      (NP
+        (NP (DT the) (NN support))
+        (PP (IN of) (NP (DT a) (NN powerful))))))
+  (S
+    (NP (JJ religious) (NN group))
+    (: :)
+    (NP (NNP evangelicals) (NNP Corruption))
+    (VP
+      (VB scandals)
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (VP
+            (VBP have)
+            (VBD landed)
+            (SBAR+S
+              (NP
+                (NP (JJ several))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP
+                      (JJ Brazilâs)
+                      (JJ leading)
+                      (NNS politicians))
+                    (PP (IN in) (NP (NN prison))))))
+              (VP (VB have) (NP (JJ motivated) (NNS voters)))))
+          (TO to)
+          (VP
+            (VB consider)
+            (NP
+              (NP (JJ dark-horse) (NNS candidates))
+              (PP
+                (IN for)
+                (NP
+                  (NP (JJ next) (NN yearâs))
+                  (JJ presidential)
+                  (NN race))))))))
+    (. .)))"
+"(NP+S
+  (NP
+    (NP (CD one))
+    (PP
+      (IN of)
+      (NP
+        (DT those)
+        (, ,)
+        (NNP Congressman)
+        (NNP Jair)
+        (NNP Bolsonaro))))
+  (VP
+    (, ,)
+    (SBAR
+      (WHNP (WP who))
+      (S
+        (NP (NNS likens))
+        (NP (PRP himself))
+        (PP (TO to) (NP (NNP President) (NNP Trump)))
+        (, ,)
+        (VP
+          (MD could)
+          (VB find)
+          (VB support)
+          (PP (IN from) (NP (DT a) (JJ key) (NN group))))
+        (: :)
+        (VP
+          (VB evangelicals)
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S+VP
+              (VBP have)
+              (VP
+                (VB become)
+                (ADVP (RB politically))
+                (VB powerful)
+                (PP (IN in) (NP (JJ recent) (NNS years)))))))
+        (. .)))))"
+"(VP+VP
+  (VB bolsonaro)
+  (, ,)
+  (SBAR
+    (WHNP (WP who))
+    (S
+      (NP (NNP represents) (NNP Rio))
+      (NP
+        (NP (NNP de) (NNP Janeiro))
+        (PP
+          (IN in)
+          (NP
+            (NP (DT the) (NNP countryâs) (NNP House))
+            (PP (IN of) (NP (NNP Representatives))))))
+      (, ,)
+      (VP
+        (VBZ has)
+        (VBD had)
+        (NP (PRP$ his) (JJ own) (NN controversies)))
+      (. .))))"
+"(S+SBAR
+  (S
+    (NP (PRP he))
+    (VP
+      (VBZ has)
+      (VBD said)
+      (VB heâd)
+      (RB rather)
+      (VB have)
+      (NP
+        (NP (DT a) (JJ dead) (NN son))
+        (PP (IN than) (NP (DT a) (JJ gay) (NN son))))))
+  (, ,)
+  (S
+    (CC and)
+    (NP (PRP he))
+    (ADVP (RB once))
+    (VP
+      (VBD told)
+      (SBAR+S
+        (NP (DT a) (NN congresswoman))
+        (NP (PRP she))
+        (VP (VB wasnât) (NP (JJ worth) (NN raping)))))
+    (. .)))"
+"(NP+S
+  (NP (DT A) (JJ former) (NN army))
+  (VP
+    (VB parachutist)
+    (NP
+      (, ,)
+      (NNP Bolsonaro)
+      (JJ praised)
+      (DT the)
+      (NN man)
+      (SBAR
+        (SBAR
+          (WHNP (WP who))
+          (S+VP
+            (NP
+              (NP (JJ oversaw) (NN torture))
+              (PP (IN in) (NP (DT the) (NN era))))
+            (PP
+              (IN of)
+              (NP (DT the) (JJ Brazilian) (JJ military) (NN regime)))))
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP he))
+          (VP
+            (VBD justified)
+            (SBAR+S
+              (NP
+                (NP (PRP$ his) (NN vote))
+                (PP
+                  (IN for)
+                  (NP
+                    (NP (NNS impeachment))
+                    (PP
+                      (IN of)
+                      (NP
+                        (JJ then-President)
+                        (NNP Dilma)
+                        (NNP Rousseff))))))
+              (VP
+                (, ,)
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP
+                      (VBD was)
+                      (VBN tortured)
+                      (PP (IN during) (NP (DT that) (NN time))))
+                    (. .)))))))))))"
+"(S+ADJP
+  (ADJP
+    (JJ observers)
+    (S+VP
+      (VBP say)
+      (PP (IN that) (NP (DT a) (JJ widespread) (NN corruption)))))
+  (JJ probe)
+  (S+VP
+    (VBG involving)
+    (NP
+      (NP (NNS politicians))
+      (SBAR
+        (IN on)
+        (S
+          (NP (DT both) (DT the) (NN right))
+          (CC and)
+          (NP (DT the) (JJ left))
+          (VP
+            (VBZ has)
+            (VBD created)
+            (SBAR+S
+              (NP
+                (NP
+                  (NP (DT an) (NN opening))
+                  (PP
+                    (IN for)
+                    (NP
+                      (NP (JJ nonestablishment) (NNS candidates))
+                      (PP (IN like) (NP (NNP Bolsonaro))))))
+                (PP (IN in) (NP (NNP Brazil))))
+              (VP
+                (, ,)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S+VP
+                    (VBZ is)
+                    (VBG struggling)
+                    (TO to)
+                    (VP
+                      (VB get)
+                      (PRT (RP out))
+                      (PP
+                        (IN of)
+                        (NP (DT a) (JJ deep) (NN recession)))))))))
+          (. .))))))"
+"(S+SBAR
+  (S
+    (NP (JJ âUntil) (JJ recent) (NNS months))
+    (, ,)
+    (NP (DT the) (NN term))
+    (NP (JJ âright) (NN wingâ))
+    (VP (VBD was) (NP (DT a) (JJ bad) (NN word))))
+  (S
+    (, ,)
+    (NP (NNP â) (NNP Bolsonaro))
+    (VP (VBD told) (NP (DT The) (NNP Washington) (NNP Post))))
+  (, ,)
+  (S
+    (VP
+      (VBG noting)
+      (NP
+        (PRP$ his)
+        (VBG longstanding)
+        (NN opposition)
+        (PP
+          (TO to)
+          (NP (NNP Communist) (CC and) (JJ socialist) (NNS programs)))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ âSuddenly) (DT the) (NN term))
+    (NP (JJ âright) (NN wingâ))
+    (VP
+      (VBD became)
+      (VBN accepted)
+      (PP
+        (ADVP (RB again))
+        (IN in)
+        (NP
+          (NP (NNS Brazil.â))
+          (PP (IN In) (NP (DT the) (NNP United) (NNPS States)))))))
+  (S
+    (, ,)
+    (NP (JJ white) (NN evangelicals))
+    (VP
+      (VBP have)
+      (VBN come)
+      (PP
+        (IN under)
+        (NP
+          (DT the)
+          (JJ political)
+          (NN spotlight)
+          (PP (IN after) (NP (CD 80) (NN percent)))))))
+  (IN of)
+  (S (NP (PRP them)) (VP (VBN voted) (PP (IN for) (NP (NNP Trump)))))
+  (, ,)
+  (S
+    (NP (DT a) (JJ thrice-married) (NN candidate))
+    (SBAR
+      (WHNP (WP who))
+      (S+VP
+        (VBN bragged)
+        (PP
+          (IN about)
+          (NP
+            (NP (VBG having) (NN sex))
+            (PP
+              (IN with)
+              (NP (JJ multiple) (VBN married) (NNS women)))))))
+    (CC and)
+    (VP (RB about) (VBG grabbing) (NP (JJ womenâs) (NN genitals)))
+    (. .)))"
+"(S+SBAR
+  (S
+    (CC and)
+    (NP
+      (NP (DT a) (JJ recent) (NN poll))
+      (PP (IN in) (NP (NNP Alabama))))
+    (VP
+      (VBZ suggests)
+      (PP (IN that) (NP (DT a) (NN majority)))
+      (PP (IN of) (NP (NN evangelicals)))))
+  (, ,)
+  (S
+    (SBAR
+      (WHNP (WP who))
+      (S+VP
+        (VP
+          (VB make)
+          (PRT (RP up))
+          (RB almost)
+          (NP (NP (DT half)) (PP (IN of) (NP (DT the) (NN state))))
+          (, ,)
+          (VBP are)
+          (ADJP (RBR more) (JJ likely)))
+        (TO to)
+        (VP (VB vote) (PP (IN for) (NP (NNP Republican) (NNP U.S.))))))
+    (NP (NNP Senate) (NNP nominee))
+    (NP (NNP Roy) (NNP Moore))
+    (VP
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VBZ has)
+          (VP
+            (VBN been)
+            (VBN accused)
+            (PP (IN of) (NP (JJ sexual) (NN misconduct)))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP
+      (NP (JJ evangelical) (NN influence))
+      (PP (IN in) (NP (NNP Brazil))))
+    (VP (VBZ is) (ADJP (RB arguably) (RBR more) (JJ powerful))))
+  (IN than)
+  (S
+    (NP (PRP it))
+    (VP
+      (VBZ is)
+      (PP (IN in) (NP (DT the) (NNP United) (NNPS States)))))
+  (, ,)
+  (S
+    (PRN+SINV (VP (VBD said)) (NP (NNP Paul) (NNP Freston)))
+    (, ,)
+    (NP (DT a) (NN sociologist))
+    (CC and)
+    (NP (DT an) (NN expert))
+    (VP
+      (PP (IN in) (NP (NNP Pentecostalism)))
+      (PP (IN in) (NP (NNP Latin) (NNP America))))
+    (. .)))"
+"(SQ+VP+VP
+  (NP (NNP american) (JJ evangelicals) (NN tend))
+  (PP
+    (TO to)
+    (NP
+      (NN rally)
+      (SBAR
+        (IN on)
+        (S
+          (NP
+            (NP
+              (NP (DT a) (JJ grass-roots) (NN level))
+              (PP (IN over) (NP (JJ conservative) (NNS issues))))
+            (PP (JJ such) (IN as) (NP (NN abortion))))
+          (, ,)
+          (CC but)
+          (NP (DT the) (NN movement))
+          (VP
+            (VBZ is)
+            (RB highly)
+            (VBN fragmented)
+            (PP (IN with) (NP (DT no) (JJ central) (NNS leaders))))
+          (. .))))))"
+"(S+SBAR
+  (S
+    (NP
+      (NP (JJ political) (NNS candidates))
+      (PP (IN in) (NP (NNP Brazil))))
+    (VP (VBN run) (PP (IN as) (NP (NNP Pentecostals)))))
+  (, ,)
+  (S
+    (CC and)
+    (VP
+      (VB pastors)
+      (MD will)
+      (ADVP (RB directly))
+      (VB tell)
+      (NP
+        (NP (NNS people))
+        (SBAR (WHADVP (WRB how)) (S+VP (TO to) (VP (VB vote))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ âThe) (JJ big) (NN churches))
+    (VP
+      (MD can)
+      (ADVP (RB really))
+      (VB engage)
+      (ADVP (RB politically))
+      (PP (IN from) (NP (DT the) (NN top)))
+      (PRT (RP down))
+      (PP
+        (IN by)
+        (S+VP (VBG nominating) (NP (PRP$ their) (NNS candidates))))))
+  (, ,)
+  (S (NP (NNP â) (NNP Freston)) (VP (VBD said)) (. .)))"
+"(SQ+FRAG
+  (ADJP (JJ âParty) (NP (NN affiliation) (VBZ is)) (JJ secondary))
+  (. .))"
+"(NP+S
+  (NP (DT the) (JJ important) (NN affiliation))
+  (VP
+    (VBZ is)
+    (SBAR
+      (IN with)
+      (S
+        (NP (DT the) (JJ church.â) (NN Brazilâs))
+        (NP (NNP Catholic) (NNP identity))
+        (VP
+          (VBZ remains)
+          (ADJP
+            (JJ strong)
+            (, ,)
+            (CC but)
+            (JJ many)
+            (S+VP
+              (VBP are)
+              (VBG turning)
+              (TO to)
+              (VP
+                (NP
+                  (NNP Pentecostalism)
+                  (, ,)
+                  (DT a)
+                  (ADJP (RBR more) (JJ charismatic))
+                  (NN form))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (NNS evangelicalism))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S+VP
+                        (VBZ has)
+                        (VP
+                          (VB become)
+                          (ADVP (RB increasingly))
+                          (VB prominent)
+                          (PP (IN in) (NP (DT the) (NN country))))))))))))
+        (. .)))))"
+"(VP+VP
+  (VB âPentecostals)
+  (VB have)
+  (VBN been)
+  (S+NP
+    (NP (DT a) (JJ decisive) (NN element))
+    (PP
+      (IN in)
+      (S+VP
+        (VBG tilting)
+        (S
+          (NP
+            (DT the)
+            (JJ Brazilian)
+            (NN agenda)
+            (PP (IN toward) (NP (JJ conservative) (NNS views))))
+          (CC and)
+          (NP (NNS policies))
+          (, ,)
+          (VP
+            (VB â)
+            (VBD said)
+            (SBAR+S
+              (NP (NNP Joanildo) (NNP Burity))
+              (VP
+                (, ,)
+                (SBAR
+                  (WHNP (WP who))
+                  (S+VP
+                    (VBZ researches)
+                    (ADJP
+                      (JJ Brazilian)
+                      (JJ evangelicals)
+                      (CC and)
+                      (JJ politics)))))))
+          (. .))))))"
+"(S+SBAR
+  (S
+    (NP (NNS âPolitically))
+    (, ,)
+    (NP (PRP they))
+    (VP
+      (VBP have)
+      (VBN been)
+      (ADJP
+        (RB very)
+        (JJ successful)
+        (PP (IN at) (S+VP (VBG selling) (NP (DT a) (NN view)))))))
+  (IN that)
+  (S
+    (NP (PRP they))
+    (VP
+      (VB command)
+      (NP
+        (NP (DT the) (JJ evangelical) (NN vote))
+        (PP (IN across) (NP (DT the) (NN country.â))))))
+  (S
+    (NP
+      (DT A)
+      (NX
+        (NX (NNS powerful))
+        (NX (NNS âbullet))
+        (, ,)
+        (NX (NNS beef))
+        (CC and)
+        (NX+NX (JJ Bibleâ) (NN caucus))
+        (PP
+          (IN that)
+          (NP
+            (JJ represents)
+            (DT the)
+            (NP (NNS interests))
+            (PP (IN of) (NP (NN security) (NNS forces)))))
+        (, ,)
+        (NX (NNS agribusiness))
+        (CC and)
+        (NX (NNS evangelical))
+        (NN churches)
+        (NN helps)))
+    (VP
+      (VB give)
+      (VB evangelicals)
+      (NP
+        (NP (JJ huge) (NN influence))
+        (PP (IN in) (NP (NNP Congress))))))
+  (, ,)
+  (S
+    (S+VP
+      (VBG allowing)
+      (NP (PRP them))
+      (TO to)
+      (VP (VB block) (NP (NNS policies))))
+    (, ,)
+    (VP
+      (ADJP (JJ such) (PP (IN as) (NP (DT a) (NN ban))))
+      (PP
+        (IN on)
+        (NP
+          (NP (NNS discrimination))
+          (PP (IN against) (NP (JJ gay) (NNS people))))))
+    (. .)))"
+"(NP+SBAR+S
+  (S (NP (PRP they)) (VP (VB tend) (PP (TO to) (NP (VB favor)))))
+  (S
+    (ADVP (RB socially))
+    (NP (JJ conservative) (NNS issues))
+    (VP
+      (, ,)
+      (S+ADJP
+        (ADJP
+          (JJ such)
+          (PP (IN as) (S+VP (VBG restricting) (NP (NN abortion)))))
+        (ADJP (CC and) (VBG stiffening))
+        (JJ incarceration)
+        (PP (IN for) (NP (JJ juvenile) (NN offenders)))))
+    (. .)))"
+"(UCP
+  (NN progressive)
+  (NN evangelicals)
+  (SBAR
+    (WHNP (WP who))
+    (S+VP (NP (NN focus)) (PP (IN on) (NP (NNS issues)))))
+  (ADJP (JJ such) (PP (IN as) (NP (DT the) (NN environment))))
+  (CC and)
+  (NN poverty)
+  (VP
+    (VBP have)
+    (VBN emerged)
+    (PP (IN in) (NP (JJ recent) (NNS years))))
+  (, ,)
+  (CC but)
+  (S
+    (NP (PRP they))
+    (VP
+      (VB tend)
+      (RB not)
+      (TO to)
+      (VB get)
+      (NP
+        (NP (NN attention))
+        (PP (IN in) (NP (JJ Brazilâs) (NNS media)))))
+    (. .)))"
+"(S+SBAR
+  (IN in)
+  (S
+    (NP
+      (DT both)
+      (NP (NNP Brazil))
+      (CC and)
+      (DT the)
+      (NNP United)
+      (NNPS States))
+    (, ,)
+    (NP (NNS evangelicals))
+    (VP
+      (VB make)
+      (PRT (RP up))
+      (PP
+        (IN about)
+        (NP
+          (NP (DT a) (NN quarter))
+          (PP (IN of) (NP (DT the) (NN population)))))))
+  (, ,)
+  (S
+    (NP (CC and) (NNP Pentecostalism))
+    (VP (VBZ is) (VBN considered) (NP (DT a) (NN subgroup)))
+    (. .)))"
+"(S+SBAR
+  (S
+    (CC but)
+    (PP (IN in) (NP (DT the) (NNP United) (NNPS States)))
+    (, ,)
+    (ADVP (RB just))
+    (NP
+      (NP (CD 3.6) (NN percent))
+      (PP (IN of) (NP (NNPS Americans))))
+    (VP
+      (VB describe)
+      (NP (PRP themselves))
+      (PP (IN as) (NP (NNP Pentecostal)))))
+  (, ,)
+  (S
+    (VP
+      (VBN compared)
+      (PP
+        (IN with)
+        (NP
+          (NP (QP (IN about) (CD 70)) (NN percent))
+          (PP (IN of) (NP (JJ Brazilâs) (NN evangelicals))))))
+    (. .)))"
+"(UCP
+  (NP (NNP american) (NNP Pentecostal))
+  (NNS leaders)
+  (, ,)
+  (ADJP (JJ such) (PP (IN as) (NP (NNP Paula) (NNP White))))
+  (CC and)
+  (S
+    (NP (NNP Mark) (NNP Burns))
+    (, ,)
+    (VP
+      (VBP have)
+      (VBN been)
+      (VBN criticized)
+      (PP
+        (IN for)
+        (NP
+          (PRP$ their)
+          (JJ close)
+          (NN relationship)
+          (PP (TO to) (NP (NNP Trump))))))
+    (. .)))"
+"(S+SBAR
+  (IN in)
+  (S
+    (NP (DT both) (NNS countries))
+    (, ,)
+    (NP (NNS observers))
+    (VP (VBP say)))
+  (, ,)
+  (S
+    (NP (NNP Pentecostals) (CC and) (JJ other) (NN evangelicals))
+    (VP
+      (VBP are)
+      (ADJP
+        (JJ willing)
+        (S+VP
+          (TO to)
+          (VP
+            (VB vote)
+            (SBAR
+              (IN for)
+              (S
+                (NP (NNS candidates))
+                (NP (PRP they))
+                (VP
+                  (VBP believe)
+                  (MD will)
+                  (VB focus)
+                  (PP (IN on) (NP (PRP$ their) (NN priorities))))))))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (JJ former) (JJ Brazilian) (NN president))
+    (NP (NNP Luiz) (NNP Inacio) (NNP Lula))
+    (NP (NNP da) (NNP Silva))
+    (VP
+      (VBD was)
+      (VBN found)
+      (VB guilty)
+      (PP
+        (IN of)
+        (NP
+          (JJ corruption)
+          (CC and)
+          (NN money)
+          (S+VP
+            (VBG laundering)
+            (CC and)
+            (VP
+              (VBN sentenced)
+              (PP
+                (TO to)
+                (NP
+                  (NP (QP (RB nearly) (CD 10)) (NNS years))
+                  (PP (IN in) (NP (NN prison)))))))))))
+  (S
+    (CC but)
+    (VP
+      (MD can)
+      (ADVP (RB still))
+      (VB run)
+      (PP (IN for) (NP (NN president)))
+      (SBAR
+        (IN while)
+        (S (NP (PRP he)) (VP (VB appeals) (NP (PRP$ his) (NN case))))))
+    (. .)))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP (NNP September))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VBD led)
+      (NP (DT the) (NN polls))
+      (PP
+        (IN with)
+        (NP
+          (NP (CD 35) (NN percent))
+          (PP (IN of) (NP (DT the) (NN vote))))))
+    (. .)))"
+"(NP+SBAR+WHNP+S+VP
+  (ADVP (RB bolsonaro))
+  (VP
+    (VBD was)
+    (SBAR
+      (IN in)
+      (S
+        (NP (JJ second) (NN place))
+        (, ,)
+        (VP (VBG garnering) (NP (CD 16) (NN percent)))
+        (. .)))))"
+"(S
+  (NP (JJ polls) (NN show))
+  (NP (JJ Bolsonaroâs) (JJS strongest) (NN support))
+  (VP (VBZ comes) (PP (IN from) (NP (NN evangelicals))))
+  (. .))"
+"(UCP
+  (NN bolsonaro)
+  (VP
+    (VBZ has)
+    (VBN been)
+    (VBN described)
+    (PP
+      (IN in)
+      (NP
+        (NP (JJ Brazilian) (NNS media))
+        (PP (IN as) (NP (NN homophobic))))))
+  (, ,)
+  (NN racist)
+  (CC and)
+  (NN sexist)
+  (, ,)
+  (CC and)
+  (SBAR
+    (SBAR+S (NP (PRP he)) (VP (VBD noted)))
+    (IN that)
+    (S
+      (NP (NNP Trump))
+      (VP (VBZ has) (VBN been) (ADVP (RB similarly)) (VBN labeled))
+      (. .))))"
+"(S+SBAR
+  (S
+    (NP (JJ âThe) (JJ American) (NNS people))
+    (NP (JJ didnât) (NN swallow))
+    (NP (DT that))
+    (, ,)
+    (CC and)
+    (NP (PRP he))
+    (VP (VBD was) (VP (VBN elected))))
+  (, ,)
+  (S (NP (NNP â) (NNP Bolsonaro)) (VP (VBD said)) (. .)))"
+"(SBARQ
+  (SQ
+    (VBZ âIn)
+    (NP
+      (NP (NNP Brazil))
+      (NP (NN something))
+      (ADJP (JJ similar) (S+VP (VBZ is) (VP (VBG happening))))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NNS Iâve))
+    (VP
+      (VBN been)
+      (S+VP (VBG suffering) (NP (DT these) (NN accusations)))))
+  (IN for)
+  (S
+    (ADVP (RBR longer) (IN than))
+    (NP (PRP he))
+    (VP
+      (VB has.â)
+      (PP (IN In) (NP (DT a) (NN country)))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (JJ same-sex) (NN marriage))
+          (VP
+            (VBD became)
+            (ADJP (JJ legal) (PP (IN in) (NP (CD 2013)))))))))
+  (S
+    (CC and)
+    (NP (JJ LGBT) (NNS rights))
+    (VP
+      (VBP are)
+      (ADVP (RB still))
+      (NP (JJ hot-button) (NNS issues))))
+  (, ,)
+  (S
+    (NP (NNP Bolsonaro) (NNP opposes))
+    (NP
+      (NP (JJ such) (NNS things))
+      (PP
+        (IN as)
+        (S+VP
+          (VBG using)
+          (NP
+            (NP (JJ public) (NN money))
+            (PP (IN for) (NP (JJ gay) (JJ pride) (NN parades)))))))
+    (CC and)
+    (VP
+      (VB discussion)
+      (PP
+        (IN of)
+        (NP (NP (DT the) (NN topic)) (PP (IN in) (NP (NNS schools))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ âI) (NN canât))
+    (NP
+      (NP
+        (NP (JJ admit) (NNS schools))
+        (PP
+          (TO to)
+          (NP
+            (NP (NN show) (NN girls))
+            (PP
+              (IN as)
+              (NP (JJ young) (QP (IN as) (CD six)) (NNS films))))))
+      (PP (IN of) (NP (NNS women))))
+    (VP
+      (VBG kissing)
+      (S+VP
+        (TO to)
+        (VP (VB try) (NP (CC and) (JJ combat) (NN homophobia))))))
+  (, ,)
+  (S (NP (NNP â) (NNP Bolsonaro)) (VP (VBD said)) (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ âNo) (NN father))
+    (VP
+      (VBZ wants)
+      (S+VP
+        (TO to)
+        (VP
+          (VB come)
+          (ADVP (RB home))
+          (CC and)
+          (VB find)
+          (NP
+            (NP (PRP$ his) (NN son))
+            (PP (VBG playing) (IN with) (NP (DT a) (NN doll))))))))
+  (IN because)
+  (IN of)
+  (S
+    (NP
+      (NP (DT the) (NN influence))
+      (PP (IN of) (NP (PRP$ his) (NN school.â))))
+    (NP (JJ Bolsonaroâs) (NN blunt))
+    (NP (JJ remarks) (NN earn))
+    (NP (PRP him))
+    (VP
+      (VB admiration)
+      (PP (IN from) (NP (JJ evangelical) (NNS leaders)))))
+  (, ,)
+  (S
+    (SBAR
+      (WHNP (WP who))
+      (S+VP (VBP have) (VP (VB become) (ADVP (RB increasingly)))))
+    (VP (ADJP (JJ important)) (PP (IN in) (NP (NNP Brazil))))
+    (. .)))"
+"(SINV
+  (S
+    (NP (NP (CD one)) (PP (IN of) (NP (DT the) (NN countryâs))))
+    (NP (ADJP (RBS most) (JJ influential)) (NN Pentecostal))
+    (VP (VB pastors) (NP (, ,) (NNP Silas) (NNP Malafaia))))
+  (, ,)
+  (VP (VBD said))
+  (VP (VBZ heâs))
+  (S
+    (NP
+      (ADJP
+        (ADJP (RBS most) (JJ interested))
+        (PP
+          (IN in)
+          (NP (NNP Bolsonaro) (CC and) (NN rival) (NN candidate))))
+      (NN SÃ£o))
+    (NP (NNP Paulo) (NNP Mayor))
+    (NP (NNP JoÃ£o) (NNP Doria))
+    (VP
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VBD hosted)
+          (NP
+            (NP (DT the) (JJ Brazilian) (NN version))
+            (PP (IN of) (NP (JJ âThe) (NN Apprenticeâ))))))))
+  (NP (JJ reality) (NN show))
+  (. .))"
+"(SQ
+  (VBZ âBolsonaro)
+  (VBZ is)
+  (NP
+    (NP (DT the) (NN closest))
+    (SBAR
+      (WHPP (TO to) (WHNP (WDT what) (NN evangelicals)))
+      (S
+        (VP
+          (VBP believe)
+          (SBAR+S
+            (NP (, ,) (NNP â) (NNP Malafaia))
+            (VP
+              (VBD said)
+              (SBAR+S
+                (NP
+                  (NP
+                    (, ,)
+                    (SBAR
+                      (IN although)
+                      (S (NP (PRP he)) (VP (VBD noted)))))
+                  (PP (IN that) (NP (NNP Doria))))
+                (VP
+                  (VBZ is)
+                  (ADJP (RBR more) (RB politically) (JJ savvy)))))))
+        (. .)))))"
+"(VP+VP
+  (VB bolsonaro)
+  (, ,)
+  (SBAR
+    (WHNP (WP who))
+    (S+VP
+      (VBZ is)
+      (S
+        (NP (NNP Catholic))
+        (, ,)
+        (VP
+          (VBD was)
+          (VBN married)
+          (PP
+            (IN in)
+            (NP
+              (NP (JJ Malafaiaâs) (NN church))
+              (, ,)
+              (SBAR
+                (WHNP (WDT which))
+                (S+VP (VBZ Bosonaroâs) (NP (NN wife) (NN attends)))))))
+        (. .)))))"
+"(SINV
+  (VP (VBZ malafaia))
+  (, ,)
+  (S
+    (ADVP (RB also))
+    (VP
+      (VBN known)
+      (PP
+        (IN for)
+        (S+VP (VBG making) (NP (JJ controversial) (NN remarks))))))
+  (, ,)
+  (VP (VBZ appreciates))
+  (NP
+    (NP (JJ Bolosonaroâs) (NN comparisons))
+    (PP (TO to) (NP (NNP Trump))))
+  (. .))"
+"(RRC
+  (ADJP (JJ âPeople))
+  (ADVP (RB only))
+  (VP
+    (VB say)
+    (NP
+      (NP (JJ negative) (NNS things))
+      (PP
+        (IN about)
+        (NP
+          (NNP Trump)
+          (, ,)
+          (SBAR
+            (CC but)
+            (WHADVP (WRB how))
+            (S
+              (VP
+                (VB come)
+                (NP (DT the) (NN economy))
+                (VBZ has)
+                (VBN improved)
+                (NP (. ?) (NNP â) (NNP Malafaia)))
+              (VP (VBD said))
+              (. .))))))))"
+"(S+ADJP
+  (ADJP (JJ âWhat))
+  (SBAR
+    (SBAR+S
+      (NP (PRP I))
+      (VP
+        (VB like)
+        (VBZ is)
+        (SBAR (IN that) (S (NP (PRP he)) (VP (VBZ says))))))
+    (WHNP (WP what))
+    (S
+      (NP (PRP he))
+      (NP (NNS thinks))
+      (, ,)
+      (ADVP (RB just))
+      (PP
+        (IN like)
+        (NP (JJ me.â) (NNP Pentecostal) (NNP politician)))
+      (NP (NNP Marina) (NNP Silva))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VP
+            (VBN served)
+            (PP
+              (IN as)
+              (NP
+                (NP (NN environment) (NN minister))
+                (PP (IN during) (NP (JJ Lulaâs) (NN presidency))))))
+          (CC and)
+          (VP
+            (VBD ran)
+            (PP (IN for) (NP (NN president)))
+            (PP (IN in) (NP (CD 2014))))))
+      (, ,)
+      (VP
+        (VBZ is)
+        (ADVP (RB also))
+        (VBN expected)
+        (S+VP (TO to) (VP (VB run))))
+      (. .))))"
+"(NP+S
+  (NP (CC but) (NNP Malafaia))
+  (VP
+    (VBD said)
+    (SBAR+S
+      (NP (PRP she))
+      (VP
+        (ADVP (RB probably))
+        (VB wonât)
+        (VB receive)
+        (VB evangelical)
+        (VB support)
+        (SBAR
+          (IN because)
+          (S
+            (NP (PRP she))
+            (NP (JJ doesnât) (NN display))
+            (VP
+              (NP (PRP$ her) (NN faith))
+              (PP (IN on) (NP (PRP$ her) (NN sleeve))))
+            (. .)))))))"
+"(SQ
+  (VBZ âThey)
+  (VBP think)
+  (NP (PRP she))
+  (VP
+    (VBZ has)
+    (NP (NN something))
+    (S+VP
+      (TO to)
+      (VP
+        (VB hide)
+        (, ,)
+        (SBAR
+          (IN so)
+          (S
+            (NP (PRP they))
+            (NP (JJ donât) (NN trust))
+            (NP (PRP her))
+            (, ,)
+            (NP (NNP â) (NNP Malafaia))
+            (VP (VBD said))
+            (. .)))))))"
+"(S+ADJP
+  (ADJP
+    (JJ âYou)
+    (JJ canât)
+    (S+VP (VB be) (NP (DT an) (NN evangelical))))
+  (ADJP
+    (ADJP (CC and) (JJ separate))
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP
+        (PP
+          (IN from)
+          (NP (PRP$ your) (NNP politics.â) (NNP Evangelicals)))
+        (PP (IN in) (NP (NNP Brazil))))))
+  (VBN mobilized)
+  (PP
+    (IN during)
+    (NP
+      (NP (DT a) (JJ political) (CC and) (JJ economic) (NN crisis))
+      (PP
+        (IN in)
+        (NP
+          (DT the)
+          (CD 1980s)
+          (, ,)
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (DT a) (JJ new) (NN government))
+              (VP
+                (VBD was)
+                (VBN formed)
+                (PP
+                  (IN under)
+                  (NP (DT a) (JJ new) (NN constitution))))
+              (. .))))))))"
+"(S+SBAR
+  (S
+    (NP (PRP they))
+    (VP
+      (VBN formed)
+      (NP (PRP$ their) (JJ own) (VBG voting) (NN bloc))
+      (PP (IN in) (NP (NNP Congress)))))
+  (, ,)
+  (S
+    (ADVP (RB eventually))
+    (VP
+      (VBG moving)
+      (PP
+        (IN from)
+        (NP
+          (NP (NP (DT a) (NN minority)) (PP (TO to) (NP (CD one))))
+          (PP
+            (IN of)
+            (NP
+              (DT the)
+              (ADJP (RBS most) (JJ powerful))
+              (JJ political)
+              (NNS groups))))))
+    (. .)))"
+"(SINV
+  (S
+    (NP (NNS âThis))
+    (VP
+      (VBD was)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP you))
+          (VP
+            (VBD saw)
+            (NP (DT the) (NN mushrooming))
+            (PP (IN of) (NP (NNP Pentecostal) (NN growth))))))))
+  (, ,)
+  (VP (VBZ â))
+  (VP (VBD said))
+  (NP (NNP Eric) (NNP Miller))
+  (, ,)
+  (NP
+    (NP
+      (NP (DT a) (NN professor))
+      (PP
+        (IN at)
+        (NP
+          (NP
+            (NP
+              (NP (NNP Geneva) (NNP College))
+              (SBAR
+                (WHNP (WP who))
+                (S+VP (NP (NNS grew)) (PRT (IN up)))))
+            (PP (IN in) (NP (NNP Brazil))))
+          (PP (IN as) (NP (DT the) (NN child))))))
+    (PP (IN of) (NP (JJ evangelical) (NN missionaries))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NNS âThere))
+    (VP
+      (VBD was)
+      (NP (DT a) (NN sense))
+      (PP (IN of) (NP (DT a) (JJ new) (NN moment)))))
+  (S
+    (, ,)
+    (NP
+      (NP
+        (DT a)
+        (JJ new)
+        (NN stage)
+        (PP (IN in) (NP (DT the) (NN history))))
+      (PP (IN of) (NP (DT the) (NN country))))
+    (NP (NN right) (NN alongside))
+    (NP (DT this) (JJ religious) (NN phenomenon.â))
+    (NP (NNP From) (JJ evangelical-owned) (NN television))
+    (VP
+      (VB networks)
+      (S+VP
+        (TO to)
+        (VP (VB faith-proclaiming) (NP (JJ soccer) (NNS stars))))))
+  (, ,)
+  (S
+    (VP
+      (VB evangelicals)
+      (VBP are)
+      (VBG challenging)
+      (NP
+        (NP
+          (NP
+            (NP (JJ Brazilâs) (NN image))
+            (PP (IN of) (NP (NNP Christ) (DT the) (NN Redeemerâs))))
+          (VBG towering)
+          (NN presence))
+        (PP (IN over) (NP (DT the) (NN country)))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP
+      (NP
+        (NP (DT the) (NNP Universal) (NNP Church))
+        (PP (IN of) (NP (DT the) (NNP Kingdom))))
+      (PP (IN of) (NP (NNP God))))
+    (VP
+      (VB denomination)
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S+VP
+          (VBD opened)
+          (NP
+            (DT an)
+            (JJ enormous)
+            (NN replica)
+            (PP
+              (IN of)
+              (NP
+                (NP (NNP Solomonâs) (NNP Temple))
+                (PP (IN in) (NP (CD 2014))))))))))
+  (, ,)
+  (S
+    (VP
+      (VBZ has)
+      (VBN wielded)
+      (NP (JJ huge) (NN influence))
+      (PP (IN in) (NP (NN politics))))
+    (. .)))"
+"(S
+  (NP
+    (NP (DT the) (NN mayor))
+    (PP (IN of) (NP (NNP Rio) (NNP de) (NNP Janeiro))))
+  (, ,)
+  (NP
+    (NP (DT a) (NN nephew))
+    (PP (IN of) (NP (PRP$ its) (NN founder))))
+  (, ,)
+  (VP
+    (VBZ is)
+    (NP
+      (NP (DT a) (NN bishop))
+      (PP (IN in) (NP (DT the) (NN denomination)))))
+  (. .))"
+"(SINV
+  (VP (VBZ âWith))
+  (S
+    (NP
+      (NP (DT all) (DT the) (NN corruption))
+      (PP (IN in) (NP (NN politics))))
+    (, ,)
+    (NP (DT the) (NN evangelical))
+    (VP
+      (VB vote)
+      (VBZ is)
+      (VBN seen)
+      (PP (IN as) (NP (JJ moral) (NN enforcement)))))
+  (, ,)
+  (VP (VBZ â))
+  (VP (VBD said))
+  (NP (NNP Edgard) (NNP Leite))
+  (, ,)
+  (NP
+    (NP (NP (DT a) (NN professor)) (PP (IN at) (NP (NNP Rio))))
+    (PP (IN de) (NP (NNP Janeiro) (NNP State) (NNP University))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (PRP it))
+    (VP
+      (VBD was)
+      (SBAR+S
+        (NP (DT an) (NN evangelical))
+        (VP (VB â) (NP (NNP Eduardo) (NNP Cunha))))))
+  (, ,)
+  (S
+    (NP
+      (NP (DT the) (NN speaker))
+      (PP (IN of) (NP (DT the) (JJR lower) (NN house))))
+    (VP
+      (PP
+        (IN of)
+        (NP (DT the) (JJ Brazilian) (NNP Congress) (NNP â)))
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VP (VBD helped) (VB lead) (NP (DT the) (NN drive)))
+          (TO to)
+          (VP
+            (NP (NNP impeach) (NNP Rousseff))
+            (PP (IN for) (NP (JJ fiscal) (NN irregularities)))))))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB just))
+  (S
+    (NP
+      (NP (CD 12) (NNS days))
+      (PP
+        (IN after)
+        (S+VP (VBG overseeing) (NP (DT the) (NN impeachment)))))
+    (, ,)
+    (NP (NNP Cunha))
+    (VP (VBD was) (VBN removed) (PP (IN from) (NP (NN office)))))
+  (S
+    (NP (PRP himself))
+    (: ;)
+    (NP (PRP he))
+    (VP
+      (VBZ is)
+      (VBG serving)
+      (NP
+        (NP (CD 15) (NNS years))
+        (PP
+          (IN in)
+          (NP (NP (NNS prison)) (PP (IN for) (NP (NN corruption)))))))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ several)
+    (SBAR+S
+      (NP
+        (NP
+          (NNP Pentecostal)
+          (CC and)
+          (JJ evangelical)
+          (NNS members))
+        (PP (IN of) (NP (NNP Congress))))
+      (VP
+        (VBP have)
+        (VBN been)
+        (PP
+          (IN under)
+          (NP
+            (NP (NN investigation))
+            (PP
+              (IN since)
+              (NP
+                (NP
+                  (NP (JJ early) (CD 2006))
+                  (PP (IN for) (NP (DT a) (NN contract))))
+                (JJ kickback)
+                (NN scandal))))))))
+  (. .))"
+"(UCP
+  (NN rousseff)
+  (, ,)
+  (SBAR
+    (WHNP (WP who))
+    (S+VP
+      (VBD was)
+      (NP (JJ Brazilâs) (JJ first) (JJ female) (NN president))))
+  (, ,)
+  (VP
+    (VBD came)
+    (PP (IN into) (NP (NN power)))
+    (PP (IN before) (NP (NNP Brazil))))
+  (VP (JJ hosted))
+  (NP (DT the) (NNP World) (NNP Cup))
+  (CC and)
+  (S
+    (NP (DT the) (NNP Olympics))
+    (, ,)
+    (CC but)
+    (NP (DT the) (JJ recent) (JJ economic) (NN crisis))
+    (CC and)
+    (NP (JJ political) (NN scandals))
+    (VP
+      (VBP have)
+      (NP (NNS people))
+      (S+VP
+        (VBG turning)
+        (TO to)
+        (VP (NNS leaders) (PP (IN like) (NP (NNP Bolsonaro))))))
+    (. .)))"
+"(SINV
+  (VP (VBZ âPeople))
+  (S
+    (SBAR
+      (WHNP (WP who))
+      (S+VP
+        (VBZ grew)
+        (VP (PRT (RP up)) (PP (IN in) (NP (DT the) (NN 1990s))))))
+    (CC and)
+    (NP (JJ early) (NN 2000s))
+    (VP
+      (VBD were)
+      (VBG expecting)
+      (NP
+        (NP (DT a) (ADJP (RB pretty) (JJ good)) (NN standard))
+        (PP
+          (IN of)
+          (NP
+            (NN living)
+            (, ,)
+            (SBAR
+              (CC but)
+              (WHNP (WDT that))
+              (S+VP (VBD came) (VBG crashing) (PRT (IN down)))))))))
+  (, ,)
+  (VP (VBZ â))
+  (VP (VBD said))
+  (S
+    (NP (NNP Christine) (NNP Gustafson))
+    (, ,)
+    (NP (DT a) (NN professor))
+    (VP
+      (PP (IN at) (NP (NNP Saint) (NNP Anselm) (NNP College)))
+      (SBAR (WHNP (WP who)) (S (VP+VBZ studies)))))
+  (NP
+    (NP (JJ religious) (NN involvement))
+    (PP
+      (IN in)
+      (NP (NP (NNS politics)) (PP (IN in) (NP (NNP Brazil))))))
+  (. .))"
+"(S+ADJP
+  (ADJP
+    (JJ âPeople)
+    (S+VP
+      (VBP are)
+      (VP (RB so) (VBN disgusted) (PP (IN that) (NP (NN theyâre))))))
+  (JJ willing)
+  (PP
+    (TO to)
+    (NP
+      (NNP rally)
+      (PP (IN behind) (NP (NN someone)))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (NP (PRP they))
+          (VP
+            (VBP think)
+            (VBZ is)
+            (VBG going)
+            (PP (TO to) (NP (JJ clean) (NN house.â)))))))))"

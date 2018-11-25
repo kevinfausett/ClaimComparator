@@ -1,0 +1,870 @@
+"(SINV
+  (INTJ (NN nature) (, ,) (RB not))
+  (S
+    (NP (NNS humans))
+    (VP
+      (, ,)
+      (MD could)
+      (VB be)
+      (VB cause)
+      (PP
+        (IN of)
+        (S+VP
+          (PRT (RP up))
+          (TO to)
+          (VP
+            (NP (NN half))
+            (PP (IN of) (NP (NNP Arctic) (NNP sea))))))))
+  (INTJ (NN ice) (NN loss) (, ,) (NN study))
+  (VP (VBZ claims))
+  (S
+    (NP (NNP Natural) (NNP processes))
+    (VP
+      (MD may)
+      (VB be)
+      (ADJP
+        (JJ responsible)
+        (PP
+          (IN for)
+          (S+VP
+            (PRT (RP up))
+            (TO to)
+            (VP
+              (NP
+                (DT half)
+                (DT the)
+                (JJ dramatic)
+                (NN decline)
+                (PP
+                  (IN in)
+                  (NP
+                    (NP (NN sea) (NN ice))
+                    (PP (IN in) (NP (DT the) (NNP Arctic))))))
+              (PP
+                (IN over)
+                (NP (DT the) (JJ last) (CD four) (NNS decades)))))))))
+  (, ,)
+  (S+VP (VBG according) (PP (TO to) (NP (DT a) (JJ new) (NN study))))
+  (. .))"
+"(S+SBAR
+  (IN while)
+  (S
+    (NP (NN air) (NN currents))
+    (VP
+      (VBD had)
+      (VBN been)
+      (VBN affected)
+      (PP (IN by) (NP (JJ human-induced) (JJ climate) (NN change)))))
+  (S
+    (, ,)
+    (NP (NP (JJS most)) (PP (IN of) (NP (DT the) (NNS changes))))
+    (VP
+      (VBD were)
+      (NP
+        (NP (DT the) (NN result))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT an) (JJ internal) (NN variability))
+            (PP (IN within) (NP (DT the) (NN system))))))
+      (PP (IN over) (NP (JJ several) (NN decades)))))
+  (, ,)
+  (S (NP (DT the) (NNS researchers)) (VP (VBD found)) (. .)))"
+"(S
+  (CC and)
+  (NP (PRP they))
+  (VP
+    (VBD estimated)
+    (SBAR+S
+      (NP (DT these) (JJ natural) (NN fluctuations))
+      (VP
+        (VBD were)
+        (ADJP (JJ responsible))
+        (SBAR
+          (IN for)
+          (S
+            (VP
+              (PP
+                (IN between)
+                (NP
+                  (NP
+                    (CD 30)
+                    (CC and)
+                    (CD 50)
+                    (PP
+                      (IN per)
+                      (NP
+                        (NN cent)
+                        (PP (IN of) (NP (DT the) (NN sea))))))
+                  (NN ice)
+                  (NN loss)))
+              (PP (IN since) (NP (CD 1979))))
+            (. .)))))))"
+"(NP+S
+  (NP (JJ other) (JJ climate) (NNS scientists))
+  (VP
+    (VBD said)
+    (SBAR+S
+      (NP (DT the) (NN study))
+      (VP
+        (VBD helped)
+        (VBD explained)
+        (SBAR
+          (WHADVP (WRB why))
+          (S
+            (NP (PRP$ their) (NN computer) (NNS models))
+            (VP
+              (VBD had)
+              (VBD underestimated)
+              (SBAR+S
+                (NP
+                  (NP (DT the) (NN reduction))
+                  (PP (IN in) (NP (NN sea) (NN ice))))
+                (VP
+                  (VBN compared)
+                  (PP
+                    (TO to)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S+VP
+                        (VBZ has)
+                        (VP
+                          (ADVP (RB actually))
+                          (VBN happened)
+                          (PP (IN in) (NP (DT the) (NN region))))))))))
+            (. .)))))))"
+"(S
+  (NP
+    (NP (NN sea) (NN ice))
+    (PP (IN in) (NP (DT the) (NNP Arctic) (CC and) (NNP Antarctic))))
+  (VP
+    (VBZ has)
+    (VBN been)
+    (S+VP
+      (VBG hitting)
+      (NP
+        (NP (NN record) (NN lows))
+        (PP (IN in) (NP (JJ recent) (NNS months))))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NP (DT the) (NN loss)) (PP (IN of) (NP (NN sea) (NN ice))))
+    (VP
+      (VBZ is)
+      (VBN believed)
+      (S+VP
+        (TO to)
+        (VP (VB be) (VBG accelerating) (NP (JJ global) (NN warming))))))
+  (S
+    (, ,)
+    (PP (IN because) (NP (JJ white) (NN ice)))
+    (NP (JJ reflects) (DT the) (NN sun) (POS 's))
+    (VP
+      (VB heat)
+      (ADVP (RB back))
+      (PRT (RP out))
+      (PP (TO to) (NP (NN space)))))
+  (, ,)
+  (S
+    (PP (IN while) (NP (JJ dark) (NN water)))
+    (VP (VB absorbs) (NP (PRP it)))
+    (. .)))"
+"(NP+S
+  (NP (DT the) (NN rapid))
+  (VP
+    (VBG warming)
+    (SBAR
+      (IN in)
+      (S
+        (NP (DT the) (NNP Arctic))
+        (ADVP (RB also))
+        (VP
+          (VBZ has)
+          (NP
+            (NP
+              (NP (JJ knock-on) (NN effects))
+              (PP (IN on) (NP (DT the) (NN weather))))
+            (PP
+              (IN across)
+              (NP
+                (NP (JJ much))
+                (PP
+                  (IN of)
+                  (NP (DT the) (JJ northern) (NN hemisphere)))))))
+        (. .)))))"
+"(S+VP
+  (VBG writing)
+  (SBAR
+    (IN in)
+    (S
+      (NP (DT the) (NN journal))
+      (NP (NNP Nature) (NNP Climate) (NNP Change))
+      (, ,)
+      (NP
+        (NP (DT the) (NN team))
+        (PP (IN of) (NP (NNS researchers))))
+      (, ,)
+      (VP
+        (VBN led)
+        (PP
+          (IN by)
+          (NP
+            (NP (NNP Dr) (NNP Qinghua) (NNP Ding))
+            (PP
+              (IN of)
+              (NP
+                (NNP University)
+                (PP (IN of) (NP (NNP California)))
+                (, ,))))))
+      (NP (NNP Santa) (NNP Barbara))
+      (, ,)
+      (VP
+        (VBD said)
+        (SBAR+S
+          (NP (PRP they))
+          (VP
+            (VBD had)
+            (VBN found)
+            (PP
+              (IN that)
+              (NP
+                (CD 70)
+                (PP
+                  (IN per)
+                  (NP
+                    (NN cent)
+                    (SBAR
+                      (IN of)
+                      (S
+                        (NP
+                          (NP (DT the) (NNS changes))
+                          (PP
+                            (TO to)
+                            (NP
+                              (DT the)
+                              (JJ atmospheric)
+                              (NN circulation))))
+                        (VP (VBD were) (ADJP (JJ due)))))))
+                (PP (TO to) (NP (JJ natural) (NNS causes))))))))
+      (. .))))"
+"(NP+SBAR+S
+  (ADVP (RB The))
+  (ADVP (RB potentially))
+  (S
+    (NP
+      (NP
+        (NP (JJ large) (NN contribution))
+        (PP (IN of) (NP (JJ internal) (NN variability))))
+      (PP
+        (TO to)
+        (NP
+          (NP (JJ sea-ice) (NN loss))
+          (PP (IN over) (NP (DT the) (JJ next) (CD 40) (NNS years))))))
+    (VP
+      (VB reinforces)
+      (NP
+        (NP (DT the) (NN importance))
+        (PP
+          (IN of)
+          (NP
+            (NP (JJ natural) (NN contributions))
+            (PP
+              (TO to)
+              (NP
+                (NP (JJ sea-ice) (NN trends))
+                (PP
+                  (IN over)
+                  (NP (DT the) (JJ past) (JJ several) (NN decades))))))))))
+  (S (, ,) ('' '') (NP (PRP they)) (VP (VBD said)) (. .)))"
+"(S
+  (NP (JJ dr) (NNP Nathanial) (NNP Johnson))
+  (, ,)
+  (NP
+    (NP (DT another) (NN member))
+    (PP (IN of) (NP (DT the) (NN team))))
+  (, ,)
+  (VP
+    (VBD told)
+    (SBAR+S
+      (NP
+        (DT The)
+        (NNP Independent)
+        (NP (DT that))
+        (SBAR+S
+          (NP (PRP he))
+          (VP
+            (VBD hoped)
+            (SBAR+S
+              (NP (JJ climate) (NN science))
+              (VP
+                (VB deniers)
+                (MD would)
+                (RB not)
+                (VB seize)
+                (PP
+                  (IN on)
+                  (NP
+                    (NP (PRP$ their) (NN research))
+                    (PP (IN in) (NP (DT an) (NN attempt)))))
+                (S+VP
+                  (TO to)
+                  (VP
+                    (VBP suggest)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S+VP
+                        (VBZ is)
+                        (VBG happening)
+                        (PP (IN in) (NP (DT the) (NNP Arctic))))))))))))
+      (VP (VBZ is) (ADJP (RB purely) (JJ natural)))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NNS It))
+    (VP
+      (MD would)
+      (VB be)
+      (VB unfortunate)
+      (PP
+        (IN if)
+        (NP
+          (DT this)
+          (JJ gets)
+          (NN spun)
+          (PP (IN into) (NP (DT a) (NN way)))))))
+  (IN that)
+  (S
+    (ADVP (RB really))
+    (NP
+      (NP
+        (NP (NN sort))
+        (PP
+          (IN of)
+          (NP
+            (NP (JJ downplays) (DT the) (NN importance))
+            (PP (IN of) (NP (JJ anthropogenic) (NN forcing))))))
+      (PP (IN in) (NP (DT this) (NN sea) (NN ice))))
+    (VP (VBP decline)))
+  (, ,)
+  (S (NP (NNS )) (NP (PRP he)) (VP (VBD said)) (. .)))"
+"(S+ADJP
+  (ADJP
+    (JJ There)
+    (S+VP
+      (VBZ is)
+      (NP (JJ internal) (, ,) (JJ natural) (NN climate))))
+  (ADJP (JJ variability))
+  (SBAR
+    (WHNP (WDT that))
+    (S+VP
+      (MD can)
+      (VP
+        (VB lead)
+        (PP (TO to) (NP (DT these) (NN fluctuations)))
+        (SBAR
+          (IN about)
+          (S
+            (NP (DT the) (JJ long-term) (NN trend))
+            (, ,)
+            (CC but)
+            (NP
+              (JJ theres)
+              (NP (NN nothing))
+              (PP
+                (IN that)
+                (NP
+                  (ADJP (RB really) (JJ discounts))
+                  (DT the)
+                  (NN science)
+                  (PP
+                    (IN behind)
+                    (NP (DT the) (JJ anthropogenic) (NN sea))))))
+            (NP (NN ice) (NN decline))
+            (, ,)
+            (NP (NN nothing))
+            (SBAR
+              (WHNP (WDT that))
+              (S+VP
+                (ADVP (RB really))
+                (VP (VB invalidates) (NP (DT the) (NNS models)))))
+            (SBAR
+              (WHNP (WDT that))
+              (S+VP
+                (VBP are)
+                (VBG projecting)
+                (NP (DT this) (JJ long-term) (NN decline.))))
+            (NP (NNP Dr) (NNP Johnson))
+            (, ,)
+            (PP
+              (IN of)
+              (NP
+                (NP (NNP Princeton) (NNP University))
+                (PP (IN in) (NP (DT the) (NNP US)))))
+            (, ,)
+            (VP
+              (VBD added)
+              (SBAR+S
+                (NP (EX there))
+                (VP
+                  (VBD was)
+                  (SBAR+S
+                    (NP
+                      (NP (JJ some) (NN debate))
+                      (WHPP
+                        (IN about)
+                        (WHNP
+                          (WHADJP (WRB how) (JJ natural))
+                          (NP
+                            (NP (DT the) (NNS changes))
+                            (PP
+                              (IN in)
+                              (NP (JJ atmospheric) (NN circulation)))))))
+                    (VP
+                      (VBD were)
+                      (, ,)
+                      (S+VP
+                        (VBG saying)
+                        (S
+                          (NP (DT this))
+                          (VP
+                            (MD should)
+                            (VB be)
+                            (NP
+                              (NP (DT the) (NN subject))
+                              (PP
+                                (IN of)
+                                (NP (JJR more) (NN research))))))))))))
+            (. .)))))))"
+"(S+SBAR
+  (S
+    (NP (NNS We))
+    (VP
+      (VBP do)
+      (VB know)
+      (PP (IN that) (NP (JJ global) (NN warming)))))
+  (, ,)
+  (S
+    (NP (JJ anthropogenic) (NN forcing))
+    (, ,)
+    (VP
+      (MD will)
+      (VB have)
+      (S
+        (NP
+          (DT some)
+          (NP (NN effect))
+          (PP (IN on) (NP (DT the) (NN circulation))))
+        (, ,)
+        (NP (NNS ))
+        (NP (PRP he))
+        (VP (VBD said))))
+    (. .)))"
+"(SBAR+S
+  (NP (PRP he))
+  (VP
+    (VBD said)
+    (SBAR+S
+      (NP
+        (NP
+          (NP (DT the) (NN discovery))
+          (PP (IN of) (NP (DT the) (NN extent))))
+        (PP (IN of) (NP (DT the) (NN role))))
+      (VP
+        (VBN played)
+        (PP
+          (IN by)
+          (NP
+            (NN nature)
+            (SBAR
+              (IN in)
+              (S
+                (S+VP (VBG reducing) (NP (NN sea) (NN ice)))
+                (VP
+                  (VBD suggested)
+                  (SBAR+S
+                    (NP (EX there))
+                    (VP
+                      (VBD was)
+                      (VB potential)
+                      (PP
+                        (IN for)
+                        (NP
+                          (NP (DT a) (JJ recovery) (NN relative))
+                          (PP
+                            (TO to)
+                            (NP
+                              (DT the)
+                              (JJ long-term)
+                              (, ,)
+                              (JJ downward)
+                              (NN trend))))))))
+                (. .)))))))))"
+"(S+SBAR
+  (S
+    (NP (NNS But))
+    (NP (PRP I))
+    (VP
+      (VB think)
+      (NP
+        (DT the)
+        (JJ overall)
+        (NN impact)
+        (PP (IN of) (NP (JJ anthropogenic) (NN forcing))))))
+  (S
+    (, ,)
+    (NP (DT the) (JJ overall) (JJ downward) (NN trend))
+    (NP (PRP I))
+    (VP
+      (VBP think)
+      (MD will)
+      (NP (JJ likely) (NN dominate))
+      (CC and)
+      (VB prevent)
+      (NP
+        (NP (DT a) (JJ true) (NN recovery))
+        (PP (IN of) (NP (DT the) (NN sea) (NN ice))))))
+  (, ,)
+  (S
+    (NP (DT a) (JJ full) (NN recovery))
+    (, ,)
+    (NP (NNS ))
+    (NP (PRP he))
+    (VP (VBD added))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (NNS scientists))
+    (VP
+      (MD should)
+      (RB not)
+      (NP
+        (NP (JJ revisit) (NN predictions))
+        (PP (IN that) (NP (DT the) (NNP Arctic))))
+      (MD should)
+      (VB be)
+      (RB completely)
+      (ADJP (RB clear))))
+  (IN of)
+  (S
+    (NP (NN sea) (NN ice))
+    (, ,)
+    (NP (NP (NNS apart)) (PP (IN from) (NP (DT some))))
+    (VP (VBN trapped) (PP (IN within) (NP (JJ small) (NN inlets)))))
+  (, ,)
+  (S
+    (PP
+      (IN by)
+      (NP
+        (NP (DT the) (NN middle))
+        (PP (IN of) (NP (DT this) (NN century)))))
+    (, ,)
+    (NP (NNP Dr) (NNP Johnson))
+    (VP (VBD added))
+    (. .)))"
+"(NP+PP
+  (PP (IN in) (NP (DT an) (VBG accompanying) (NN article)))
+  (PP
+    (IN in)
+    (NP
+      (NAC
+        (NNP Nature)
+        (NNP Climate)
+        (NNP Change)
+        (, ,)
+        (NNP Neil)
+        (NNP Swart)
+        (, ,))
+      (PP (IN of) (NP (DT the) (JJ Canadian) (NN Centre)))
+      (SBAR
+        (IN for)
+        (S
+          (NP (NNP Climate) (NNP Modelling))
+          (NP (CC and) (NNP Analysis))
+          (, ,)
+          (VP
+            (VBD wrote)
+            (PP (IN that) (NP (DT the) (NNS findings)))
+            (MD would)
+            (VBP need)
+            (VB independent)
+            (NP (JJ observational) (NN corroboration)))
+          (. .))))))"
+"(NP+S
+  (NP (JJ The) (NNS results))
+  (VP
+    (VBP do)
+    (RB not)
+    (VB call)
+    (SBAR
+      (IN into)
+      (S
+        (NP
+          (NP (NN question))
+          (PP
+            (IN whether)
+            (NP
+              (ADJP
+                (JJ human-induced)
+                (S+VP
+                  (VBG warming)
+                  (VBZ has)
+                  (VP
+                    (VBN led)
+                    (PP
+                      (TO to)
+                      (NP (NNP Arctic) (JJ sea-ice) (NN decline))))))
+              (NN ))))
+        (NP
+          (DT a)
+          (JJ wide)
+          (NN range)
+          (PP (IN of) (NP (NN evidence))))
+        (VP
+          (VBZ shows)
+          (SBAR
+            (IN that)
+            (S
+              (NP (PRP it))
+              (VP
+                (VBZ has)
+                (, ,)
+                (VBZ )
+                (SBAR+S (NP (PRP he)) (VP (VBD said)))))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (NNS Rather))
+    (, ,)
+    (NP (DT the) (NN implication))
+    (VP
+      (VBZ is)
+      (PP (IN that) (NP (NNP Arctic) (NNP sea-ice)))
+      (VBZ is)
+      (ADJP
+        (RBR less)
+        (JJ sensitive)
+        (S+VP
+          (TO to)
+          (VP
+            (VB human-induced)
+            (VBG forcing)
+            (PP (IN than) (NP (QP (IN if) (CD one)) (NNS assumes))))))))
+  (IN that)
+  (S
+    (NP (DT all) (NN loss))
+    (VP
+      (VBN observed)
+      (S+VP
+        (TO to)
+        (VP
+          (NP (NN date))
+          (VBZ is)
+          (ADVP (RB anthropogenically))
+          (NP (NNP driven.) (NNP Commenting))
+          (PP (IN on) (NP (DT the) (NN research)))))))
+  (, ,)
+  (S
+    (NP (NNP Professor) (NNP Chris) (NNP Rapley))
+    (, ,)
+    (NP
+      (NP (DT a) (NN climatologist))
+      (PP (IN at) (NP (NNP University) (NNP College))))
+    (NP (NNP London))
+    (, ,)
+    (VP
+      (VBD said)
+      (SBAR+S
+        (NP (PRP it))
+        (VP
+          (VBD offered)
+          (NP (DT a) (NN reason))
+          (SBAR
+            (WHADVP (WRB why))
+            (S
+              (NP (JJ climate) (NNS models))
+              (VP
+                (VBD had)
+                (RB not)
+                (VBN predicted)
+                (NP (DT the) (NN speed))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (DT the) (NN decline))
+                    (PP (IN in) (NP (NNP Arctic) (NN sea) (NN ice)))))))))))
+    (. .)))"
+"(SINV
+  (VP (VBZ Over))
+  (S
+    (NP (DT the) (JJ last) (CD three) (NNS decades))
+    (NP (JJ satellite) (NNS instruments))
+    (VP
+      (VBP have)
+      (VBN measured)
+      (PP
+        (IN about)
+        (NP
+          (DT a)
+          (CD 13)
+          (PP
+            (IN per)
+            (NP (NN cent) (PP (IN per) (NP (NN decade) (NN loss)))))
+          (PP (IN of) (NP (NN summer) (JJ minimum) (NN sea)))))))
+  (NP
+    (NP (NN ice) (NN extent))
+    (PP (IN in) (NP (DT the) (NNP Arctic))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NNS models))
+    (VP
+      (VBP have)
+      (ADVP (RB consistently))
+      (VBN underestimated)
+      (NP (DT the) (NN loss))))
+  (, ,)
+  (S (NP (NNS )) (NP (PRP he)) (VP (VBD said)) (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ The)
+    (SBAR+S
+      (NP (JJ new) (NN paper))
+      (VP
+        (VBZ offers)
+        (NP
+          (NP (DT an) (NN explanation))
+          (PP (IN of) (NP (DT the) (NN discrepancy)))))))
+  (. .))"
+"(NP+S
+  (NP (DT the) (NNS authors))
+  (VP
+    (VB provide)
+    (NP
+      (NP (NN evidence))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT a) (NN process))
+          (SBAR
+            (WHPP (IN by) (WHNP (WDT which)))
+            (S
+              (NP
+                (NP (JJ natural) (NN variability))
+                (PP
+                  (IN of)
+                  (NP
+                    (DT the)
+                    (NNP Arctic)
+                    (JJ atmospheric)
+                    (NN circulation))))
+              (VP
+                (MD may)
+                (VBP have)
+                (VBD contributed)
+                (PP
+                  (IN as)
+                  (NP
+                    (QP (RB much) (IN as) (CD 30))
+                    (QP (TO to) (CD 50))))
+                (PP
+                  (IN per)
+                  (NP
+                    (NN cent)
+                    (PP (IN of) (NP (DT the) (NN decline))))))
+              (. .))))))))"
+"(UCP
+  (NN Even)
+  (ADVP
+    (RB so)
+    (NP (, ,) (DT the) (JJ systematic) (NN component))
+    (IN of))
+  (NN loss)
+  (ADJP
+    (JJ due)
+    (S+VP
+      (TO to)
+      (VP
+        (VB human-induced)
+        (VB climate)
+        (VB change)
+        (VBZ remains)
+        (VB robust)
+        (CC and)
+        (VB significant.)
+        (NP (NNP Dr) (NNP Twila) (NNP Moon)))))
+  (, ,)
+  (PP (IN of) (NP (NNP Bristol) (NNP University)))
+  (, ,)
+  (VP
+    (VBD said)
+    (SBAR+S
+      (NP (DT the) (JJ well-designed) (NN study))
+      (VP (VBN provided) (NP (DT the) (NN best)))))
+  (ADJP
+    (JJ detail)
+    (S+VP
+      (ADVP (RB yet))
+      (TO to)
+      (VP
+        (VB determine)
+        (SBAR
+          (WHADVP (WRB how) (RB much))
+          (S
+            (NP (NNP Arctic) (NNP sea))
+            (NP (NN ice) (NN decline))
+            (VP (VBZ is) (VBN caused) (PP (IN by) (NP (NNS humans)))))))))
+  (CC and)
+  (SBAR
+    (WHADVP (WRB how) (RB much))
+    (S
+      (VP (VBZ is) (NP (JJ natural) (JJ environmental) (NN change)))
+      (. .))))"
+"(S+SBAR
+  (S
+    (NP (NP (NNS Realising)) (PP (IN that) (NP (NNS humans))))
+    (VP
+      (VBP have)
+      (VBD caused)
+      (SBAR+S
+        (NP
+          (NP+QP (CD 50) (TO to) (CD 70))
+          (PP
+            (IN per)
+            (NP (NN cent) (PP (IN of) (NP (DT the) (NN decline))))))
+        (VP (VBZ is) (NP (ADJP (RB not) (JJ good)) (NN news))))))
+  (, ,)
+  (S (NP (NNS )) (NP (PRP she)) (VP (VBD said)) (. .)))"
+"(S+SBAR
+  (S
+    (NP
+      (NN Continuing)
+      (S+VP (TO to) (VP (VB put) (NP (JJ carbon) (NN dioxide)))))
+    (CC and)
+    (NP
+      (NP (JJ other) (NNS emissions))
+      (PP (IN into) (NP (DT the) (NN atmosphere))))
+    (VP
+      (VBZ is)
+      (VBG having)
+      (NP
+        (NP (DT a) (JJ direct) (JJ negative) (NN influence))
+        (PP (IN on) (NP (DT the) (NNP Arctic))))))
+  (, ,)
+  (S (VP (VBG including) (NP (NN sea) (NN ice))) (. .)))"
+"(NP+S
+  (NP (JJ This) (NN study))
+  (VP
+    (VBZ is)
+    (ADVP (RB yet))
+    (NP
+      (NP (JJR more) (NN evidence))
+      (PP
+        (IN that)
+        (NP (JJ serious) (CC and) (JJ detrimental) (NNS changes))))
+    (VBP are)
+    (VBG happening)
+    (ADVP (RB now))
+    (CC and)
+    (VBP are)
+    (VBN caused)
+    (PP (IN by) (NP (NP (PRP$ our) (NNS emissions)) (NN habits.)))))"

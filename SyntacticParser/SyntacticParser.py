@@ -25,7 +25,9 @@ class SyntacticParser:
         else:
             try:
                 return self.cky_parse()
-            except ValueError or TypeError:
+            except TypeError:
+                return Tree.fromstring("(NOT COVERED)")
+            except ValueError:
                 return Tree.fromstring("(NOT COVERED)")
 
 

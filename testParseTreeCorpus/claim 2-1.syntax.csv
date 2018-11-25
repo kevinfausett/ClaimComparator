@@ -1,0 +1,624 @@
+"(FRAG
+  (NP (JJ climate) (NN change))
+  (: :)
+  (S (NP (NNP How)) (VP (VBP do) (S (NP (PRP we)) (VP (VB know)))))
+  (. ?))"
+"(S
+  (NP (DT the) (NNP Earth) (POS 's))
+  (VP
+    (VB climate)
+    (VBZ has)
+    (VBN changed)
+    (PP (IN throughout) (NP (NN history))))
+  (. .))"
+"(FRAG+SBAR
+  (ADVP (RB just))
+  (IN in)
+  (S
+    (NP (DT the) (JJ last) (CD 650,000) (NNS years))
+    (NP (EX there))
+    (VP
+      (VBP have)
+      (VBN been)
+      (UCP
+        (ADJP (CD seven) (NN cycles))
+        (PP (IN of) (NP (JJ glacial) (NN advance)))
+        (CC and)
+        (NN retreat)
+        (, ,)
+        (PP
+          (IN with)
+          (NP
+            (NP (DT the) (JJ abrupt) (NN end))
+            (PP (IN of) (NP (DT the) (JJ last) (NN ice)))))
+        (NN age)
+        (PP
+          (IN about)
+          (NP
+            (NP
+              (NP (CD 7,000) (NNS years))
+              (PP
+                (IN ago)
+                (S+VP (VBG marking) (NP (DT the) (NN beginning)))))
+            (PP (IN of) (NP (DT the) (NN modern)))))
+        (NN climate)
+        (NN era)
+        (NN )
+        (CC and)
+        (PP (IN of) (NP (JJ human) (NN civilization)))))
+    (. .)))"
+"(NP+S
+  (NP
+    (NP (JJS most))
+    (PP (IN of) (NP (DT these) (JJ climate) (NNS changes))))
+  (VP
+    (VBP are)
+    (VBN attributed)
+    (S+VP
+      (TO to)
+      (VP
+        (RB very)
+        (NP
+          (NP (JJ small) (NN variations))
+          (PP (IN in) (NP (JJ Earths) (NN orbit))))
+        (SBAR
+          (IN that)
+          (S
+            (VP
+              (VB change)
+              (NP
+                (NP (DT the) (NN amount))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (JJ solar) (NN energy))
+                    (PRP$ our)
+                    (NN planet)
+                    (NN receives)))))
+            (. .)))))))"
+"(SQ+VP+VP
+  (NP (JJ scientific) (NN evidence))
+  (PP
+    (IN for)
+    (S+VP
+      (VBG warming)
+      (SBAR
+        (IN of)
+        (S
+          (NP (DT the) (JJ climate) (NN system))
+          (VP (VBZ is) (ADJP (JJ unequivocal)))
+          (. .))))))"
+"(S+SBAR
+  (S
+    (NP (DT the) (JJ current) (VBG warming) (NN trend))
+    (VP
+      (VBZ is)
+      (PP (IN of) (NP (JJ particular) (NN significance)))
+      (ADVP (IN because) (JJS most))))
+  (IN of)
+  (S
+    (NP (PRP it))
+    (VP
+      (VBZ is)
+      (ADVP (RB extremely))
+      (ADVP (RB likely))
+      (PRN
+        (-LRB- ()
+        (NP
+          (QP (JJR greater) (IN than) (CD 95))
+          (NN percent)
+          (NN probability))
+        (-RRB- )))
+      (S+VP
+        (TO to)
+        (VP
+          (VB be)
+          (NP
+            (NP (DT the) (NN result))
+            (PP (IN of) (NP (JJ human) (NN activity))))))))
+  (IN since)
+  (S
+    (NP (DT the) (JJ mid-20th) (NN century))
+    (VP (CC and) (VBG proceeding) (PP (IN at) (NP (DT a) (NN rate)))))
+  (S
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP
+        (VP
+          (VBZ is)
+          (VBN unprecedented)
+          (PP (IN over) (NP (NN decades))))
+        (TO to)
+        (VP
+          (VB millennia.1)
+          (NP (JJ Earth-orbiting) (NN satellites)))))
+    (CC and)
+    (NP (JJ other) (NN technological))
+    (VP
+      (VB advances)
+      (VBP have)
+      (VBN enabled)
+      (S+VP
+        (NP (NNS scientists))
+        (TO to)
+        (VP (VB see) (NP (DT the) (JJ big) (NN picture))))))
+  (, ,)
+  (S
+    (VP
+      (VBG collecting)
+      (NP
+        (NP
+          (JJ many)
+          (JJ different)
+          (NNS types)
+          (PP
+            (IN of)
+            (NP
+              (NP (NN information))
+              (PP
+                (IN about)
+                (NP
+                  (NP (PRP$ our) (NN planet))
+                  (CC and)
+                  (PRP$ its)
+                  (NN climate))))))
+        (PP (IN on) (NP (DT a) (JJ global) (NN scale)))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (NP (DT this) (NN body)) (PP (IN of) (NP (NNS data))))
+    (VP
+      (, ,)
+      (VBN collected)
+      (PP (IN over) (NP (JJ many) (NNS years)))))
+  (, ,)
+  (S
+    (VP
+      (VB reveals)
+      (NP
+        (NP (DT the) (NN signals))
+        (PP (IN of) (NP (DT a) (VBG changing) (NN climate)))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP
+      (NP (DT the) (JJ heat-trapping) (NN nature))
+      (PP (IN of) (NP (JJ carbon) (NN dioxide))))
+    (CC and)
+    (NP (JJ other) (NN gases))
+    (VP
+      (VBD was)
+      (VBN demonstrated)
+      (PP (IN in) (NP (DT the) (JJ mid-19th) (NN century.2)))))
+  (S
+    (NP
+      (NP
+        (NP (NNP Their) (NN ability))
+        (PP
+          (TO to)
+          (NP
+            (NP (JJ affect) (DT the) (NN transfer))
+            (PP (IN of) (NP (JJ infrared) (NN energy))))))
+      (PP (IN through) (NP (DT the) (NN atmosphere))))
+    (VP
+      (VBZ is)
+      (SBAR+S
+        (NP
+          (NP (DT the) (JJ scientific) (NN basis))
+          (PP (IN of) (NP (JJ many) (NNS instruments))))
+        (VP (VB flown) (PP (IN by) (NP (NN NASA))))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (EX there))
+    (VP
+      (VBZ is)
+      (NP
+        (NP
+          (NP (DT no) (NN question))
+          (PP (IN that) (NP (VBN increased) (NNS levels))))
+        (PP (IN of) (NP (JJ greenhouse) (NN gases))))))
+  (S
+    (VP
+      (MD must)
+      (VB cause)
+      (NP
+        (DT the)
+        (NP (NNP Earth))
+        (PP
+          (TO to)
+          (NP (NP (NNS warm)) (PP (IN in) (NP (NN response)))))))
+    (. .)))"
+"(NX
+  (NX
+    (NX (NN ice) (NN cores))
+    (NX (NN drawn))
+    (PP (IN from) (NP (NNP Greenland)))
+    (, ,)
+    (NNP Antarctica)
+    (, ,)
+    (CC and)
+    (NX+NX (JJ tropical) (JJ mountain) (JJ glaciers) (NN show))
+    (PP (IN that) (NP (DT the) (NN Earths))))
+  (NX+NX (JJ climate) (NN responds))
+  (PP
+    (TO to)
+    (NP
+      (NP (NNS changes))
+      (SBAR
+        (IN in)
+        (S (VP (VB greenhouse) (NP (NN gas) (NNS levels))) (. .))))))"
+"(S+SBAR
+  (S
+    (NP (JJ ancient) (NN evidence))
+    (VP
+      (MD can)
+      (ADVP (RB also))
+      (VB be)
+      (VBN found)
+      (PP (IN in) (NP (NN tree) (NN rings)))))
+  (, ,)
+  (S
+    (NP (JJ ocean) (NN sediments))
+    (, ,)
+    (NP (JJ coral) (NN reefs))
+    (, ,)
+    (CC and)
+    (VP (VB layers) (PP (IN of) (NP (JJ sedimentary) (NN rocks))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP
+      (NP
+        (DT this)
+        (JJ ancient)
+        (NX
+          (, ,)
+          (CC or)
+          (NX (NNS paleoclimate))
+          (, ,)
+          (NN evidence)
+          (NN reveals)))
+      (PP (IN that) (NP (JJ current) (NN warming))))
+    (VP
+      (VBZ is)
+      (VBG occurring)
+      (ADVP (RB roughly) (NP (JJ ten) (NNS times)) (JJR faster))))
+  (IN than)
+  (S
+    (NP
+      (NP (DT the) (JJ average) (NN rate))
+      (PP (IN of) (NP (JJ ice-age-recovery) (NN warming.3))))
+    (NP
+      (NP (DT The) (NN evidence))
+      (PP (IN for) (NP (JJ rapid) (NN climate))))
+    (VP
+      (VB change)
+      (VBZ is)
+      (VBG compelling)
+      (NP (: :) (NNP Global) (NN temperature) (NN rise))))
+  (S
+    (NP (DT The) (NN planet) (POS 's))
+    (NP (JJ average) (JJ surface) (NN temperature))
+    (VP
+      (VBZ has)
+      (VB risen)
+      (PP (IN about) (NP (CD 2.0) (NNS degrees)))))
+  (S
+    (PRN
+      (NP (NNP Fahrenheit))
+      (-LRB- ()
+      (NP (CD 1.1) (NNS degrees))
+      (NP (NNP Celsius))
+      (-RRB- )))
+    (PP (IN since) (NP (DT the) (JJ late) (JJ 19th) (NN century)))
+    (NP (NNP Warming) (NNP oceans))
+    (NP (DT The) (NN oceans))
+    (VP
+      (VBP have)
+      (VBN absorbed)
+      (PP (RB much) (IN of) (NP (DT this) (VBN increased) (NN heat)))))
+  (, ,)
+  (S
+    (PP (IN with) (NP (DT the) (JJ top) (CD 700) (NNS meters)))
+    (PRN
+      (-LRB- ()
+      (PP (IN about) (NP (CD 2,300) (NNS feet)))
+      (-RRB- )))
+    (VP
+      (PP
+        (IN of)
+        (NP
+          (ADJP
+            (JJ ocean)
+            (S+VP
+              (VBG showing)
+              (VBG warming)
+              (PP
+                (IN of)
+                (NP (QP (JJR more) (IN than) (CD 0.4)) (NNS degrees)))))
+          (NN Fahrenheit)))
+      (PP (IN since) (NP (CD 1969))))
+    (. .)))"
+"(S+VP
+  (VBG shrinking)
+  (S
+    (NP (NN ice) (NN sheets))
+    (NP
+      (DT The)
+      (NNP Greenland)
+      (CC and)
+      (NNP Antarctic)
+      (NN ice)
+      (NN sheets))
+    (VP (VBP have) (VBN decreased) (PP (IN in) (NP (NN mass))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (NP (NNS data)) (PP (IN from) (NP (NN NASA) (POS 's))))
+    (NP (NNP Gravity) (NNP Recovery))
+    (CC and)
+    (NP (NNP Climate) (NNP Experiment))
+    (NP (NN show) (NN Greenland))
+    (VP
+      (VBD lost)
+      (NP
+        (NP (DT an) (NN average))
+        (PP (IN of) (NP (QP (CD 281) (CD billion)) (NNS tons))))
+      (PP
+        (IN of)
+        (NP
+          (NN ice)
+          (PP
+            (IN per)
+            (NP
+              (NN year)
+              (QP (IN between) (CD 1993) (CC and) (CD 2016))))))))
+  (, ,)
+  (S
+    (PP (IN while) (NP (NNP Antarctica)))
+    (VP
+      (VBN lost)
+      (PP
+        (IN about)
+        (NP
+          (NP (QP (CD 119) (CD billion)) (NNS tons))
+          (PP
+            (IN during)
+            (NP (DT the) (JJ same) (NN time) (NN period))))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP
+      (NP (DT the) (NN rate))
+      (PP (IN of) (NP (NNP Antarctica) (NN ice))))
+    (NP (JJ mass) (NN loss))
+    (VP
+      (VBZ has)
+      (VBN tripled)
+      (PP (IN in) (NP (DT the) (JJ last) (NN decade.7)))))
+  (S
+    (NP
+      (NP (NNP Image) (: :) (NNP Flowing) (NNP meltwater))
+      (PP (IN from) (NP (DT the) (NNP Greenland) (NN ice))))
+    (NP (NNP sheet) (NNP Glaciers))
+    (VP
+      (VBP are)
+      (VBG retreating)
+      (NP
+        (NP
+          (ADJP
+            (RB almost)
+            (JJ everywhere)
+            (PP (IN around) (NP (DT the) (NN world))))
+          (NN ))
+        (PP
+          (VBG including)
+          (IN in)
+          (NP
+            (DT the)
+            (NAC
+              (NNP Alps)
+              (, ,)
+              (NNP Himalayas)
+              (, ,)
+              (NNP Andes)
+              (, ,)
+              (NNP Rockies)
+              (, ,))
+            (NP (NNP Alaska))
+            (CC and)
+            (NP (NNP Africa))))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP
+      (NP
+        (NP (JJ satellite) (JJ observations) (NN reveal))
+        (PP (IN that) (NP (DT the) (NN amount))))
+      (PP (IN of) (NP (NN spring) (NN snow))))
+    (VP
+      (VB cover)
+      (PP (IN in) (NP (DT the) (NNP Northern) (NNP Hemisphere)))
+      (VBZ has)
+      (VBN decreased)
+      (PP (IN over) (NP (DT the) (JJ past) (CD five) (NNS decades)))))
+  (S
+    (CC and)
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP
+        (NP (DT the) (NN snow))
+        (VBZ is)
+        (VBG melting)
+        (NP (JJR earlier) (NNP Global) (NN sea) (NN level))))
+    (VP
+      (VBD rose)
+      (PP (IN about) (NP (CD 8) (NNS inches)))
+      (PP (IN in) (NP (DT the) (JJ last) (NN century))))
+    (. .)))"
+"(S
+  (NP
+    (NP (DT the) (NN rate))
+    (PP (IN in) (NP (DT the) (JJ last) (CD two) (NNS decades))))
+  (, ,)
+  (ADVP (RB however))
+  (, ,)
+  (VP
+    (VBZ is)
+    (ADJP (RB nearly) (JJ double))
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP
+        (VP
+          (PP (IN of) (NP (DT the) (JJ last) (NN century)))
+          (CC and)
+          (VBZ is)
+          (VBG accelerating)
+          (S
+            (ADVP (RB slightly))
+            (NP (DT every) (NN year))
+            (NP (NNP Both) (DT the) (NN extent))
+            (CC and)
+            (NP
+              (ADJP
+                (JJ thickness)
+                (PP (IN of) (NP (NNP Arctic) (NNP sea))))
+              (NN ice))
+            (VP
+              (VBZ has)
+              (VBD declined)
+              (ADVP (RB rapidly))
+              (PP
+                (IN over)
+                (NP
+                  (DT the)
+                  (JJ last)
+                  (JJ several)
+                  (NNP decades)
+                  (NNP Glaciers)))
+              (VBP are)
+              (VBG retreating)
+              (NP
+                (ADJP
+                  (RB almost)
+                  (JJ everywhere)
+                  (PP (IN around) (NP (DT the) (NN world))))
+                (NN )))))
+        (VBG including)
+        (PP
+          (IN in)
+          (NP
+            (DT the)
+            (NAC
+              (NNP Alps)
+              (, ,)
+              (NNP Himalayas)
+              (, ,)
+              (NNP Andes)
+              (, ,)
+              (NNP Rockies)
+              (, ,))
+            (NP (NNP Alaska))
+            (CC and)
+            (NP (NNP Africa)))))))
+  (. .))"
+"(NP+S
+  (NP
+    (NP
+      (NP (DT the) (NN number))
+      (PP
+        (IN of)
+        (NP (NN record) (JJ high) (NN temperature) (NNS events))))
+    (PP (IN in) (NP (DT the) (NNP United) (NNPS States))))
+  (VP
+    (VBZ has)
+    (VBN been)
+    (VBG increasing)
+    (, ,)
+    (SBAR
+      (IN while)
+      (S
+        (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NN record))))
+        (NP (JJ low) (NN temperature) (NNS events))
+        (VP
+          (VBZ has)
+          (VBN been)
+          (VBG decreasing)
+          (, ,)
+          (PP (IN since) (NP (CD 1950))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NNP U.S.))
+    (VP
+      (VBZ has)
+      (ADVP (RB also))
+      (VBD witnessed)
+      (SBAR+S
+        (NP
+          (NP (VBG increasing) (NNS numbers))
+          (PP (IN of) (NP (JJ intense) (NN rainfall))))
+        (VP
+          (VB events.12)
+          (NP
+            (NP (NNP Since) (DT the) (NN beginning))
+            (PP
+              (IN of)
+              (NP (DT the) (NNP Industrial) (NNP Revolution))))))))
+  (, ,)
+  (S
+    (NP
+      (NP (DT the) (NN acidity))
+      (PP (IN of) (NP (JJ surface) (NN ocean))))
+    (VP
+      (VB waters)
+      (VBZ has)
+      (VBD increased)
+      (SBAR
+        (IN by)
+        (S
+          (PP (IN about) (NP (CD 30) (NN percent)))
+          (NP (DT This))
+          (VP
+            (VB increase)
+            (VBZ is)
+            (SBAR+S
+              (NP
+                (NP (DT the) (NN result))
+                (PP (IN of) (NP (NNS humans))))
+              (VP
+                (VBG emitting)
+                (S+ADJP
+                  (ADJP (RBR more) (JJ carbon))
+                  (ADJP
+                    (JJ dioxide)
+                    (PP (IN into) (NP (DT the) (NN atmosphere))))
+                  (CC and)
+                  (ADJP (RB hence) (JJR more)))
+                (S+VP
+                  (VBG being)
+                  (VBN absorbed)
+                  (PP (IN into) (NP (DT the) (NN oceans))))))))))
+    (. .)))"
+"(NP+S
+  (NP
+    (NP (DT the) (NN amount))
+    (PP (IN of) (NP (JJ carbon) (NN dioxide))))
+  (VP
+    (VP
+      (VBN absorbed)
+      (PP
+        (IN by)
+        (NP
+          (DT the)
+          (JJ upper)
+          (NN layer)
+          (PP (IN of) (NP (DT the) (NN oceans))))))
+    (VBZ is)
+    (VBG increasing)
+    (PP
+      (IN by)
+      (NP
+        (NP (QP (IN about) (CD 2) (CD billion)) (NNS tons))
+        (PP (IN per) (NP (NN year.15,16)))))))"

@@ -54,3 +54,5 @@ def syntactic_parse_all_test_files(grammar=PCFGTrainer().train()):
 # text = "Against this backdrop, a rise in violent crime has left some voters yearning for order and security, which Bolsonaro — an ex-military officer — promised to deliver. But his embrace of “law and order” carries alarming undertones, as he has expressed a fondness for the country’s past military dictatorship. His anti-democratic views are just one element of his disturbing rhetoric, though; the president-elect also freely spews misogynistic, anti-LGBTQ, and racist statements."
 # demo(text, grammar=PCFGTrainer().train())
 syntactic_parse_all_test_files()
+# 2.5, 3.1, 3.6, 3.7, 3.9, 3.10, and 3.13 failed
+# use 3.15 in debug; it fails on the second sentence

@@ -1,0 +1,1047 @@
+"(S+SBAR
+  (IN since)
+  (S
+    (NP (NNP LeBron) (NNP James))
+    (VP
+      (VBD carried)
+      (SBAR+S
+        (NP (DT the) (NNP Cleveland) (NNP Cavaliers))
+        (VP
+          (NP (JJ past) (DT the) (NNP Boston) (NNP Celtics))
+          (PP
+            (TO to)
+            (NP
+              (NP (NN advance))
+              (PP
+                (TO to)
+                (NP (DT the) (CD 2018) (NNP NBA) (NNP Finals)))))))))
+  (, ,)
+  (S
+    (S
+      (NP (DT a) (NN debate))
+      (VP
+        (VBZ has)
+        (VBN raged)
+        (PP (IN across) (NP (DT the) (NN internet)))))
+    (: :)
+    (SBARQ
+      (WHNP (WP who))
+      (SQ
+        (VBZ is)
+        (NP
+          (JJR better)
+          (, ,)
+          (NNP James)
+          (CC or)
+          (NNP Michael)
+          (NNP Jordan)))
+      (. ?))))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NN issue))
+    (VP (VBZ has) (ADJP (RB not) (VBN escaped))))
+  (S
+    (NP
+      (NP (DT the) (NN notice))
+      (PP (IN of) (NP (DT the) (NN Blazers))))
+    (NP (NNP Edge) (NNP Mailbag))
+    (, ,)
+    (ADVP (RB so))
+    (VP (VB lets) (VB settle) (NP (PRP it))))
+  (, ,)
+  (S
+    (NP (NNP Settling) (DT the) (NN LeBron))
+    (NP (NNP James) (NNP vs))
+    (NP (NNP Michael) (NNP Jordan))
+    (NP (NNP Question) (NNP Who))
+    (VP
+      (VBD was)
+      (NP (DT the) (JJS greatest))
+      (PP (IN of) (NP (DT all) (NN time))))
+    (. ?)))"
+"(FRAG
+  (NP (NNP depends))
+  (WHNP (WDT what) (NP (JJ greatest) (NNS means)))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (JJ dave)
+    (, ,)
+    (JJ LeBron)
+    (CC or)
+    (JJ MJ)
+    (PP (IN for) (NP (NN GOAT))))
+  (. ?))"
+"(S
+  (VP
+    (VB Youve)
+    (VBN seen)
+    (NP (PRP them))
+    (NP (DT both) (NN play)))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (JJ jordan)
+    (S+VP
+      (VBD kept)
+      (NP (PRP us))
+      (PP (IN from) (NP (DT a) (NN championship)))))
+  (. .))"
+"(NP+SBAR+WHNP+S+VP
+  (ADVP (RB LeBron))
+  (VP
+    (VBZ has)
+    (VBD kicked)
+    (SBAR+S
+      (NP (PRP us))
+      (VP
+        (PP (IN for) (NP (NNS years)))
+        (SBAR
+          (WHADVP (WRB when))
+          (S (VP (VB were) (PRT (IN down))) (. .)))))))"
+"(SBARQ
+  (WHNP (WP who))
+  (SQ
+    (VBZ is)
+    (NP
+      (NP (ADVP (RBR better) (RB ultimately)) (, ,))
+      (PP (IN in) (NP (PRP$ your) (NN opinion)))))
+  (. ?))"
+"(NP+S
+  (NP (JJ lawrence) (PRP$ My) (JJ first) (NN question))
+  (VP
+    (VBZ is)
+    (SBAR
+      (IN whether)
+      (S
+        (NP
+          (NP (DT the) (NNP Greatest))
+          (PP (IN of) (NP (DT All) (NNP Time) (NN debate))))
+        (VP
+          (VBZ has)
+          (S+VP
+            (TO to)
+            (VP
+              (VB be)
+              (VBN limited)
+              (PP (TO to) (NP (DT those) (CD two))))))
+        (. .)))))"
+"(S
+  (NP (NNP wilt) (NNP Chamberlain))
+  (VP
+    (MD might)
+    (VBP want)
+    (S+VP (TO to) (VP (VB get) (NP (DT a) (NN word)) (PP (IN in)))))
+  (. .))"
+"(S
+  (NP (NN bill) (NN Russell))
+  (VP
+    (MD could)
+    (VB vote)
+    (PP (IN with) (NP (PRP$ his) (JJ championship) (NN rings))))
+  (. .))"
+"(RRC
+  (ADJP (JJ kareem))
+  (ADJP (JJ Abdul-Jabbar))
+  (ADVP (RB still))
+  (VP
+    (VBZ holds)
+    (NP (DT the) (NN record))
+    (SBAR
+      (IN for)
+      (S
+        (NP (JJS most) (NNS points))
+        (VP (VBN scored) (PP (IN in) (NP (DT a) (NN career))))
+        (. .)))))"
+"(SBAR+S
+  (NP (PRP we))
+  (VP
+    (NP (JJ dont) (NN identify))
+    (SBAR
+      (IN with)
+      (S
+        (VP
+          (VBZ centers)
+          (PP
+            (IN as)
+            (NP
+              (NP (JJ much))
+              (PP
+                (IN as)
+                (NP
+                  (NP (JJ wings) (, ,) (CC but) (NNS plenty))
+                  (PP (IN of) (NP (VBG dominating) (NNS figures)))))))
+          (VBP have)
+          (VB come)
+          (PP (IN from) (NP (DT the) (NN near-seven-foot)))
+          (VB ranks)
+          (VP (ADVP+RB too)))
+        (. .)))))"
+"(PRN+SBAR
+  (IN for)
+  (S
+    (NP
+      (NP (DT the) (NN sake))
+      (PP (IN of) (NP (JJ argumentand) (NN its))))
+    (NP (DT a) (JJ solid) (NN onelets))
+    (VP
+      (VB limit)
+      (NP
+        (NP (DT the) (NN field))
+        (PP (TO to) (NP (RB just) (NNP Jordan) (CC and) (NNP James)))))
+    (. .)))"
+"(FRAG
+  (FRAG
+    (NP (DT the) (NN debate))
+    (ADVP (RB usually))
+    (ADJP
+      (JJ derails)
+      (PP (IN into) (NP (DT a) (JJ few) (NN ditches)))))
+  (: :)
+  (S
+    (NP (NNP Jordan))
+    (VP
+      (VBD won)
+      (SBAR+S
+        (NP
+          (NP (CD six) (NNS championships))
+          (CC and)
+          (NNP James)
+          (, ,)
+          (ADVP (RB so) (RB far)))
+        (VP (, ,) (ADVP (RB only) (NP (CD three)))))))
+  (. .))"
+"(PRN+SBAR
+  (IN that)
+  (S
+    (VP
+      (VB ends)
+      (NP (NP (DT the) (NN discussion)) (PP (IN for) (NP (DT some)))))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB then))
+  (ADVP (RB again))
+  (S
+    (, ,)
+    (NP (JJ Jordans) (NNS teams))
+    (VP (VBD were) (ADJP (JJR stronger))))
+  (S
+    (, ,)
+    (NP (DT both))
+    (ADVP (RB empirically))
+    (CC and)
+    (VP
+      (PP
+        (IN in)
+        (NP
+          (NP (NNS relation))
+          (PP
+            (TO to)
+            (NP
+              (NP (DT the) (NN rest))
+              (PP (IN of) (NP (DT the) (NN league)))))))
+      (PP (IN in) (NP (PRP$ their) (JJ respective) (NN eras))))
+    (. .)))"
+"(S+ADJP
+  (ADJP (NP (DT the) (JJ NBA) (NNS features)) (RB far) (JJR better))
+  (ADJP (NN athletes) (VBG playing))
+  (ADJP (RBR more) (JJ precise))
+  (ADJP (JJ schemes))
+  (SBAR
+    (ADVP (RB now))
+    (IN than)
+    (S
+      (NP (PRP it))
+      (VP (VBD did) (PP (IN in) (NP (JJ Jordans) (NN time))))
+      (. .))))"
+"(PRN+SBAR
+  (IN on)
+  (S
+    (NP (DT the) (JJ other) (NN hand))
+    (, ,)
+    (NP (JJ Jordan-era) (NN defenders))
+    (VP
+      (VBD were)
+      (VBN allowed)
+      (PP
+        (TO to)
+        (NP
+          (NP (NP (JJ lay) (NNS hands)) (CC and) (NNS bodies))
+          (PP
+            (IN on)
+            (NP
+              (NP (NNS people))
+              (PP
+                (IN in)
+                (NP
+                  (NP (NNS ways))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S+VP
+                      (MD would)
+                      (VP
+                        (VB draw)
+                        (VB fouls)
+                        (NP (CC and) (JJ ejections) (NN nowadays))))))))))))
+    (. .)))"
+"(SBAR
+  (WHADVP (WRB when))
+  (S
+    (, ,)
+    (NP (NP (NNS Back)) (PP (IN in) (NP (PRP$ my) (NN day))))
+    (: ...)
+    (NP (JJ ) (NN meets))
+    (, ,)
+    (VP
+      (VB Everything)
+      (NP
+        (ADJP
+          (JJ old)
+          (S+VP
+            (VBZ is)
+            (VP
+              (, ,)
+              (PP
+                (IN by)
+                (NP
+                  (NN definition)
+                  (, ,)
+                  (JJ inferior)
+                  (, ,)
+                  (JJ )
+                  (NN nobody))))))
+        (NN wins)))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (NP
+      (NP
+        (NP (NNS people))
+        (VP
+          (VBP are)
+          (VBG arguing)
+          (PP
+            (IN as)
+            (NP
+              (NP (JJ much))
+              (PP
+                (IN about)
+                (NP
+                  (NP (JJ generational) (NN pride))
+                  (CC and)
+                  (NNS identity)))))))
+      (PP (IN as) (NP (DT the) (JJ actual) (NNS players))))
+    (VP (VBN involved)))
+  (. .))"
+"(S+VP
+  (VBG disentangling)
+  (NP
+    (NP (DT the) (NN discussion))
+    (PP
+      (IN from)
+      (NP
+        (NP (NNS lenses))
+        (SBAR
+          (IN of)
+          (S
+            (VP
+              (VB nostalgia)
+              (CC and)
+              (VB innovation)
+              (VBZ is)
+              (NP (DT all) (CC but) (NNS impossible)))
+            (. .)))))))"
+"(S+ADJP
+  (ADJP
+    (JJ Im)
+    (RBR less)
+    (JJ interested)
+    (PP (IN in) (S+VP (VBG rehashing) (NP (DT those)))))
+  (ADJP (JJ arguments))
+  (SBAR
+    (IN than)
+    (S
+      (VP
+        (VBG pointing)
+        (PRT (RP out))
+        (SBAR
+          (IN that)
+          (S
+            (NP (PRP they))
+            (VP
+              (VB dont)
+              (VB reveal)
+              (NP (DT a) (JJ clear) (NN answer))))))
+      (. .))))"
+"(S
+  (CC nor)
+  (VP
+    (VBP are)
+    (SBAR+S
+      (NP (PRP we))
+      (VP
+        (ADJP (JJ likely))
+        (S+VP (TO to) (VP (VB find) (NP (CD one)))))))
+  (. .))"
+(SBARQ (SQ (VBZ Thats) (NP (DT half) (DT the) (NN fun))) (. .))
+"(SQ+FRAG
+  (ADJP
+    (ADJP (DT the) (JJS best))
+    (S+VP
+      (PRT (RP place))
+      (TO to)
+      (VP
+        (VB start)
+        (MD may)
+        (VB be)
+        (NP
+          (NP (DT the) (NN commonalities))
+          (PP (IN between) (NP (DT the) (NNS players)))))))
+  (. .))"
+"(S
+  (NP (DT both) (NN possess))
+  (ADVP (RB otherworldly))
+  (VP
+    (VB talent)
+    (VBN bolstered)
+    (PP (IN by) (NP (JJ top-of-the-line) (NN athleticism))))
+  (. .))"
+"(SBAR+SINV
+  (VBD were)
+  (NP (PRP we))
+  (VP
+    (PP (TO to) (NP (JJ construct) (NN ideal)))
+    (S+VP
+      (VBG shooting)
+      (S
+        (NP (NNS guards))
+        (CC and)
+        (NP (JJ small) (NN forwards))
+        (, ,)
+        (NP (PRP we))
+        (VP
+          (MD could)
+          (ADVP (RB hardly))
+          (VB devise)
+          (ADVP (RBR better)))
+        (. .)))))"
+"(UCP
+  (NN Theyre)
+  (NP
+    (NP (DT both) (JJ brilliant) (NNS students))
+    (PP (IN of) (NP (DT the) (NN game))))
+  (, ,)
+  (NN elevating)
+  (ADVP (RB not) (RB just))
+  (NP (PRP$ their) (JJ own) (NN play))
+  (, ,)
+  (CC but)
+  (SBAR
+    (IN that)
+    (S
+      (PP (IN of) (NP (DT the) (NNS players)))
+      (VP (VBG surrounding) (NP (PRP them)))
+      (. .))))"
+"(SBAR+S+VP
+  (VP (ADVP (DT each)) (VBZ has) (NP (DT the) (NN ability)))
+  (TO to)
+  (VP
+    (VB take)
+    (PRT (RP over))
+    (SBAR
+      (IN at)
+      (S
+        (VP
+          (MD will)
+          (, ,)
+          (S+VP
+            (VBG bending)
+            (NP
+              (NP (DT the) (NN court))
+              (PP (IN with) (NP (PRP$ their) (NN gravity))))))
+        (. .)))))"
+"(S
+  (NP (DT neither))
+  (VP
+    (MD can)
+    (VB be)
+    (VBN stopped)
+    (PP (ADVP (RB effectively)) (IN for) (ADJP (RB long))))
+  (. .))"
+"(SBARQ
+  (SQ
+    (VBZ jordan)
+    (VBD was)
+    (NP
+      (DT the)
+      (JJ ultimate)
+      (NN weapon)
+      (PP (IN in) (NP (PRP$ his) (NN day)))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (JJ Hed)
+    (JJ stab)
+    (PP
+      (IN at)
+      (NP
+        (NP
+          (NP (NNS opponents))
+          (PP
+            (ADVP (RB incessantly))
+            (IN on)
+            (NP (DT both) (NN ends))))
+        (PP (IN of) (NP (DT the) (NN floor))))))
+  (. .))"
+"(NP+SBAR+S
+  (S
+    (VP (VBN teamed) (PP (IN with) (NP (NNP Scottie) (NNP Pippen))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VBN formed)
+      (NP
+        (DT the)
+        (ADJP (RBS most) (JJ proficient))
+        (JJ defensive)
+        (NN duo))))
+  (S
+    (NP (DT the) (NN league))
+    (VP (VBZ has) (ADVP (RB ever)) (VBN seen))
+    (. .)))"
+"(NP+S
+  (NP
+    (NP (DT the) (NN over/under))
+    (PP (IN on) (NP (PRP$ his) (NN point))))
+  (VP
+    (VBP total)
+    (MD might)
+    (ADVP (RB as) (RB well))
+    (VBP have)
+    (VB read)
+    (UCP
+      (, ,)
+      (NN As)
+      (JJ many)
+      (SBAR
+        (IN as)
+        (S
+          (NP (PRP he))
+          (VP
+            (VBZ wants)
+            (S+VP
+              (TO to)
+              (VP
+                (VBP score)
+                (SBAR+S
+                  (NP (NNP tonight.) (NNP He))
+                  (VP
+                    (VBD was)
+                    (NP (DT the) (NN center))
+                    (PP (IN of) (NP (DT the) (NN basketball))))))))))
+      (NN universe)
+      (CC and)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBD was)
+          (PRT (RP out))
+          (S+VP
+            (TO to)
+            (VP
+              (VB prove)
+              (NP (PRP it))
+              (NP (JJS most) (DT every) (NN night)))))
+        (. .)))))"
+"(UCP
+  (ADJP (JJ james) (S+VP (VBZ is) (NP (JJR more))))
+  (PP (IN like) (NP (DT a) (NN volcano)))
+  (: :)
+  (JJ large)
+  (CC and)
+  (NN ominous)
+  (, ,)
+  (VP (JJ feared))
+  (ADVP
+    (RB not)
+    (RB just)
+    (PP (IN for) (NP (PRP$ his) (JJ direct) (NN blows))))
+  (CC but)
+  (SBAR
+    (IN because)
+    (S
+      (PP (IN of) (NP (DT the) (NN way)))
+      (NP (PRP he))
+      (VP
+        (VBZ changes)
+        (NP
+          (NP (DT the) (NN terrain))
+          (PP (IN around) (NP (PRP him)))))
+      (. .))))"
+"(S+ADJP
+  (ADJP (JJ Hes) (RB far) (JJR more))
+  (ADJP (JJ likely) (S+VP (TO to) (VP (VB hit))))
+  (ADJP (JJ teammates))
+  (SBAR
+    (IN with)
+    (S
+      (NP
+        (NP (NNS passes))
+        (PP
+          (IN in)
+          (NP
+            (NP (JJ critical) (NN situations))
+            (PP (IN than) (NP (NNP Jordan))))))
+      (VP (VBD was))
+      (. .))))"
+"(S
+  (NP (DT this))
+  (VP
+    (VBZ is)
+    (VB ironic)
+    (PP
+      (IN as)
+      (NP (ADJP (JJ hes) (RB even) (JJR more)) (NN unstoppable)))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (NP (PRP he))
+        (VP
+          (VBZ sets)
+          (NP (NP (PRP$ his) (NN mind)) (PP (TO to) (NP (PRP it))))))))
+  (. .))"
+"(NP+VP
+  (NP (NN Hes))
+  (NP (NN bigger))
+  (, ,)
+  (NP
+    (JJR stronger)
+    (: ...)
+    (S
+      (NP (PRP you))
+      (VP
+        (MD might)
+        (ADVP (RB as) (RB well))
+        (VB defend)
+        (VBG shifting)
+        (NP (JJ tectonic) (NN plates)))
+      (. .))))"
+"(NP+SBAR+S
+  (S
+    (NP (JJ modern) (NN NBA))
+    (NP (NNS players))
+    (VP
+      (CC and)
+      (VB coaches)
+      (MD would)
+      (VB be)
+      (ADJP
+        (JJ able)
+        (S+VP
+          (TO to)
+          (VP
+            (VB give)
+            (NP
+              (NNP Jordan)
+              (DT a)
+              (JJ rougher)
+              (NN time)
+              (PP (IN than) (NP (PRP$ his) (NN contemporaries)))))))))
+  (S (VP (VBD did)) (. .)))"
+"(S
+  (NP (DT the) (NN league))
+  (VP
+    (VBZ has)
+    (VBN caught)
+    (PRT (RP up))
+    (UCP
+      (PP
+        (TO to)
+        (NP
+          (NP (JJ Michaels) (NN level))
+          (PP (IN of) (NP (NN athleticism)))))
+      (, ,)
+      (NN training)
+      (, ,)
+      (CC and)
+      (JJ preparation)))
+  (. .))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP (DT this) (NN newer))
+    (, ,)
+    (NP
+      (ADJP
+        (RBR faster)
+        (, ,)
+        (JJ taller)
+        (, ,)
+        (ADJP (JJR stronger))
+        (, ,)
+        (CC and)
+        (RBR more)
+        (JJ technical))
+      (NN era))
+    (NP (, ,) (NNP James))
+    (ADVP (RB still))
+    (VP (VBZ stands) (ADJP (JJ apart)))
+    (. .)))"
+"(S
+  (NP
+    (NP (NNP Fast-forward) (NNP Jordan))
+    (PP (TO to) (NP (CD 2018))))
+  (CC and)
+  (VP
+    (VB hes)
+    (ADVP (RB still))
+    (NP (DT a) (JJ clear) (JJ MVP) (NN front-runner)))
+  (. .))"
+"(SBARQ
+  (SQ
+    (NP (PRP he))
+    (VP
+      (ADVP (RB still))
+      (VBG vying)
+      (PP (IN for) (NP (NN championships)))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (CC but)
+    (JJ hes)
+    (S+VP
+      (VP (VBD got) (NP (JJ catch-up) (NN work)))
+      (TO to)
+      (VP
+        (VBP do)
+        (NP
+          (NP (QP (CC and) (JJR more)) (NNS hands))
+          (PP (IN in) (NP (PRP$ his) (NN face))))
+        (PP (IN while) (S+VP (VBG doing) (ADVP (IN so)))))))
+  (. .))"
+"(S
+  (NP (NNP transport) (NNP James))
+  (ADVP (RB back))
+  (PP (TO to) (NP (DT the) (NN 1990s)))
+  (CC and)
+  (NP (PRP he))
+  (VP (VB breaks) (NP (DT the) (JJ entire) (NN universe)))
+  (. .))"
+"(FRAG+SBAR
+  (ADVP (RB even))
+  (ADVP (RB nowplaying))
+  (IN on)
+  (S
+    (NP (JJ super) (NNS teams))
+    (CC and)
+    (NP (JJ garage-sale) (NNS teams))
+    (VP
+      (VB alikeLeBron)
+      (VBZ has)
+      (VBN made)
+      (NP
+        (NP (NP (DT the) (NN NBA)) (NNP Finals) (DT every) (NN year))
+        (DT this)
+        (NN decade)))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (NP (PRP he))
+    (VP
+      (MD would)
+      (VBP have)
+      (VBN done)
+      (PP
+        (IN that)
+        (NP
+          (CC and)
+          (NP (JJR more))
+          (PP (IN in) (NP (JJ Jordans) (NN time)))))))
+  (. .))"
+"(S
+  (VP
+    (VB let)
+    (NP
+      (NP
+        (NP (DT the) (CD two) (NN face))
+        (DT each)
+        (JJ other)
+        (NN one-on-one))
+      (PP
+        (IN in)
+        (NP
+          (NP (PRP$ their) (NN primes))
+          (CC and)
+          (NNP James)
+          (NNP beats)
+          (NNP Jordan)))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (JJ Hes)
+    (RB too)
+    (JJ big)
+    (S+VP
+      (, ,)
+      (S+ADJP
+        (ADJP (RB just) (RB as) (JJ fast))
+        (, ,)
+        (CC and)
+        (ADJP (RB just) (RB as) (VBN skilled)))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NN space))
+    (NP (NNP Jam))
+    (VP (VB be) (VP (VBN damned)))
+    (: ...))
+  (IN if)
+  (S
+    (NP (PRP you))
+    (VP
+      (VBP have)
+      (S+VP
+        (TO to)
+        (VP
+          (VB pick)
+          (NP
+            (NP (DT a) (JJ single) (NN player))
+            (SBAR+S+VP
+              (TO to)
+              (VP
+                (VB go)
+                (VB one-on-one)
+                (PP
+                  (IN against)
+                  (NP
+                    (NP
+                      (NP (DT an) (NN alien))
+                      (PP (IN with) (NP (DT the) (NN fate))))
+                    (PP
+                      (IN of)
+                      (NP
+                        (NP (NNS humankind))
+                        (PP (IN in) (NP (DT the) (NN balance))))))))))))))
+  (, ,)
+  (S (NP (PRP you)) (VP (VB pick) (NP (NN LeBron))) (. .)))"
+"(PRN+SBAR
+  (IN for)
+  (S
+    (NP (DT those) (NNS reasons))
+    (, ,)
+    (VP
+      (VB Im)
+      (S+VP
+        (VBG going)
+        (TO to)
+        (VP
+          (VBP say)
+          (PP (IN that) (NP (NNP LeBron) (NNP James)))
+          (VBZ is)
+          (NP
+            (DT the)
+            (JJS greatest)
+            (NN player)
+            (PP (IN of) (NP (DT all) (NN time)))))))
+    (. .)))"
+(LST (LS BUT) (: ...))
+"(NP+S
+  (NP
+    (NP (NN anyone))
+    (SBAR
+      (WHNP (WP who))
+      (S+VP (VBD saw) (NP (NNP Jordan) (NNP playor)))))
+  (VP
+    (VB read)
+    (VBZ accounts)
+    (SBAR
+      (IN of)
+      (S
+        (NP (PRP$ his) (NN career) (NN afterwardsknows))
+        (NP (DT that) (NNP Michael))
+        (VP
+          (VBD had)
+          (NP (DT a) (JJ competitive) (NN fire))
+          (SBAR
+            (WHNP (WDT that))
+            (S+VP
+              (VBZ has)
+              (VP
+                (ADVP (RB never))
+                (VBN been)
+                (VBN equaled)
+                (PP (IN in) (NP (DT this) (NN league)))))))
+        (. .)))))"
+"(NP+VP
+  (NP (NN james))
+  (NP (NN claps))
+  (NP (NN talcum))
+  (VB powder)
+  (PP
+    (IN into)
+    (NP
+      (NP (DT the) (NN air))
+      (SBAR
+        (IN at)
+        (S
+          (NP (DT the) (JJ scorers) (NN table))
+          (: ;)
+          (NP (NNP Jordan) (NN ground))
+          (NP
+            (NP (PRP$ his) (NN opponents))
+            (PP
+              (IN into)
+              (NP
+                (NP (NNS dust))
+                (PP (IN on) (NP (DT the) (NN floor))))))
+          (, ,)
+          (ADVP (RB then))
+          (VP
+            (VBN used)
+            (NP (PRP it))
+            (PP
+              (TO to)
+              (NP (NN season) (PRP$ his) (JJ T-Bone) (NN steaks))))
+          (. .))))))"
+"(PRN+SBAR
+  (IN if)
+  (S
+    (NP (NNP Michael) (CC and) (NNS LeBron))
+    (VP
+      (VBP are)
+      (ADVP (RB ever))
+      (VBG hurtling)
+      (VB towards)
+      (NP
+        (DT each)
+        (ADJP
+          (JJ other)
+          (PP
+            (IN on)
+            (NP
+              (NP (DT the) (NN highway))
+              (PP (IN in) (NP (DT a) (NN perverse))))))
+        (NN game)
+        (PP
+          (IN of)
+          (NP
+            (JJ chicken)
+            (, ,)
+            (NP (NNS bet))
+            (PP (IN on) (NP (NNP Michael) (. .)))))))))"
+"(NP+SBAR+WHNP+S+VP
+  (ADVP (RB once))
+  (VP
+    (VBN engaged)
+    (S
+      (, ,)
+      (NP (PRP he))
+      (VP (MD will) (RB not) (VP (VB lose)))
+      (. .))))"
+"(S+SBAR
+  (S
+    (NP (NNS james))
+    (VP
+      (MD may)
+      (VB be)
+      (NP
+        (NP (DT the) (JJS best) (NN player))
+        (PP (IN of) (NP (DT all) (NN time))))))
+  (, ,)
+  (S
+    (NP (CC but) (NNP Jordan))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (DT the) (JJS greatest) (NN winner))
+        (PP (IN of) (NP (DT all) (NN time)))))
+    (. .)))"
+"(PP+PP
+  (IN for)
+  (NP
+    (JJ many)
+    (, ,)
+    (SBAR
+      (IN that)
+      (S
+        (VP
+          (VB attribute)
+          (MD will)
+          (VB tip)
+          (NP
+            (NP (NP (DT the) (NN scales)) (NNP towards) (NNP Jordan))
+            (PP (IN in) (NP (DT the) (JJ GOAT) (NN debate)))))
+        (. .)))))"
+"(SBAR+S
+  (NP (PRP I))
+  (VP
+    (VB dont)
+    (VBP think)
+    (SBAR+S
+      (NP (PRP it))
+      (VP
+        (MD would)
+        (VB make)
+        (NP
+          (NP (DT a) (NN difference))
+          (PP
+            (IN in)
+            (NP
+              (PP
+                (IN that)
+                (NP (JJ hypothetical) (JJ one-on-one) (NN game)))
+              (SBAR
+                (IN between)
+                (S
+                  (NP (PRP them))
+                  (, ,)
+                  (CC but)
+                  (PP
+                    (IN in)
+                    (NP
+                      (NP (DT a) (JJ hypothetical) (NN discussion))
+                      (WHPP
+                        (IN of)
+                        (WHNP (WDT what) (NN greatest)))))
+                  (VP (VBZ means) (NP (, ,) (PRP it) (NN might)))
+                  (. .))))))))))"
+"(PP+PP
+  (IN if)
+  (NP
+    (JJ thats)
+    (PRP$ your)
+    (VP
+      (VB take)
+      (ADJP (, ,) (JJ Im) (JJ good) (PP (IN with) (NP (PRP it)))))
+    (. .)))"
+"(S
+  (NP (JJ Lets) (NN face))
+  (NP (PRP it))
+  (, ,)
+  (NP (DT the) (NNP Trail) (NNP Blazers))
+  (PRN (-LRB- () (CC or) (NP (DT any) (NN team)) (-RRB- )))
+  (VP
+    (MD would)
+    (NP (NN mortgage) (DT the) (JJ entire) (NN franchise))
+    (S+VP
+      (TO to)
+      (VP
+        (VBP have)
+        (SBAR+S
+          (NP (DT either) (NN suit))
+          (VP
+            (PRT (RP up))
+            (PP
+              (IN for)
+              (NP
+                (NP (DT a) (JJ significant) (NN length))
+                (PP (IN of) (NP (NN time))))))))))
+  (. .))"
+"(NP+S
+  (NP (DT the) (NN NBA))
+  (VP
+    (VBZ is)
+    (ADJP (RBR more) (JJ remarkable))
+    (SBAR
+      (IN because)
+      (S (NP (DT both) (NNS players)) (VP (VBD existed)) (. .)))))"

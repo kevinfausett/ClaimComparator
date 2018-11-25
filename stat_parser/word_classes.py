@@ -2,6 +2,8 @@ import re
 
 
 CAP = re.compile('^[A-Z][a-z]+$')
+
+
 def is_cap_word(word):
     return CAP.match(word) is not None
 
@@ -19,5 +21,5 @@ def word_class(word):
     for tag, p in PATTERNS.items():
         if p.match(word) is not None:
             return tag
-    
+
     return '_RARE_'

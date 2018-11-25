@@ -1,0 +1,1232 @@
+"(NX
+  (NX
+    (NX+NX
+      (JJ Far-right)
+      (JJ candidate)
+      (JJ Jair)
+      (JJ Bolsonaro)
+      (JJ wins)
+      (JJ presidential)
+      (NN election))
+    (PP (IN in) (NP (NNP Brazil))))
+  (NP (NNP Jubilant) (NNP supporters))
+  (SBAR
+    (IN of)
+    (S
+      (NP (NNP Brazil) (POS 's))
+      (NP (JJ president-elect) (NNP Jair) (NNP Bolsonaro))
+      (VP
+        (VBD took)
+        (SBAR+S
+          (NP
+            (NP (DT the) (NNS streets))
+            (PP
+              (IN of)
+              (NP
+                (NP
+                  (NP (NNP Rio) (NNP de) (NNP Janeiro))
+                  (PP (IN on) (NP (NNP Sunday))))
+                (PP
+                  (IN after)
+                  (NP (DT the) (JJ far-right) (NN congressman))))))
+          (VP
+            (VBD was)
+            (VBD declared)
+            (SBAR+S
+              (NP
+                (NP (DT the) (NN winner))
+                (PP (IN of) (NP (DT the) (NN country) (POS 's))))
+              (VP
+                (NP (JJ presidential) (NN election))
+                (PP (IN by) (NP (DT a) (JJ wide) (NN margin))))))))
+      (. .))))"
+"(S+SBAR
+  (S
+    (NP (NN bolsonaro) (POS 's))
+    (VP
+      (VB victory)
+      (NP
+        (NP (JJ caps) (NNS ones))
+        (PP
+          (IN of)
+          (NP
+            (DT the)
+            (ADJP
+              (ADJP (RBS most) (JJ polarizing))
+              (CC and)
+              (JJ violent)
+              (JJ political)
+              (JJ campaigns)
+              (PP (IN in) (NP (NNP Brazil) (POS 's))))
+            (NN history))))))
+  (, ,)
+  (S
+    (NP (JJ amid) (DT a) (JJ prolonged) (NN recession))
+    (, ,)
+    (VP
+      (VBG rising)
+      (NP
+        (NP (NN crime) (NNS rates))
+        (CC and)
+        (JJ widespread)
+        (JJ corruption)
+        (NN scandals)))
+    (. .)))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP (DT a) (JJ victory) (NN speech))
+    (NP (NNP Sunday) (, ,) (NP (NNP Bolsonaro)))
+    (VP
+      (VBD said)
+      (SBAR+S
+        (NP (PRP he))
+        (VP
+          (VBD was)
+          (NP
+            (DT a)
+            (`` ``)
+            (NP (NNS defender))
+            (PP (IN of) (NP (NN freedom) ('' ''))))
+          (SBAR
+            (SBAR
+              (WHNP (WP who))
+              (S+VP
+                (MD would)
+                (VP
+                  (VB run)
+                  (NP
+                    (NP (DT a) (NN government))
+                    (PP (IN that) (NP (JJ protected) (NN citizens)))))))
+            (WHNP (WP who))
+            (S
+              (`` ``)
+              (VP (VB follow) (NP (PRP$ their) (NNS duties)))
+              (CC and)
+              (NP (JJ respect) (DT the) (NNS laws))
+              (. .)
+              ('' ''))))))))"
+"(S+SBAR
+  (`` ``)
+  (S
+    (NP (DT The) (NNS laws))
+    (VP (VBP are) (PP (IN for) (NP (NN everyone)))))
+  (, ,)
+  (S
+    (NP (DT this))
+    (VP
+      (VBZ is)
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (S
+            (NP (PRP it))
+            (VP
+              (MD will)
+              (VB be)
+              (PP (IN during) (NP (PRP$ our) (NN constitutional)))))
+          (CC and)
+          (NP (JJ democratic) (NN government))
+          (, ,)
+          ('' '')
+          (NP (PRP he))
+          (VP (VBD said)))))
+    (. .)))"
+"(SQ+VP+VP
+  (VBD bolsonaro)
+  (VBD was)
+  (VBD declared)
+  (NP (DT the) (NN winner))
+  (PP
+    (IN by)
+    (NP
+      (DT the)
+      (NNP Supreme)
+      (NNP Electoral)
+      (NNP Tribunal)
+      (SBAR
+        (IN after)
+        (S
+          (NP
+            (NP (CD 94) (NN %))
+            (PP (IN of) (NP (DT the) (NN votes))))
+          (VP
+            (VBD were)
+            (VBN counted)
+            (, ,)
+            (ADVP (RB easily))
+            (VBG defeating)
+            (NP
+              (NP (PRP$ his) (JJ leftist) (NN ex-Sao))
+              (NNP Paulo)
+              (NN mayor)
+              (NNP Fernando)
+              (NNP Haddad)))
+          (. .))))))"
+"(S+SBAR
+  (S
+    (NP (DT the) (JJ electoral) (NN tribunal))
+    (VP
+      (VBD released)
+      (SBAR+S
+        (NP (JJ early) (NNS results))
+        (VP
+          (VBG showing)
+          (NP
+            (NNP Bolsonaro)
+            (ADJP
+              (JJ leading)
+              (PP
+                (IN with)
+                (NP
+                  (NP (CD 55.54) (NN %))
+                  (PP
+                    (IN of)
+                    (NP
+                      (NP (NNS votes))
+                      (PP (TO to) (NP (NNP Haddad) (POS 's))))))))
+            (CD 44.46)
+            (NN %))))))
+  (, ,)
+  (S
+    (ADVP (NP (DT a) (NN difference)) (JJR larger))
+    (PP
+      (IN than)
+      (NP (NP (DT the) (NN amount)) (PP (IN of) (NP (NN votes)))))
+    (VP (VBN left) (S+VP (TO to) (VP (VB be) (VP (VBN counted)))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (CC but)
+    (PP (IN while) (NP (NNP Bolsonaro) (POS 's)))
+    (NP (NNS supporters))
+    (VP (VBD were) (VBG rejoicing) (PP (IN on) (NP (NNP Sunday)))))
+  (, ,)
+  (S
+    (NP
+      (NP (JJ opponents) (JJ voiced) (NNS concerns))
+      (PP (IN that) (NP (PRP$ his) (NN victory))))
+    (VP
+      (MD could)
+      (VB threaten)
+      (NP
+        (NP
+          (NP (JJ human) (NNS rights))
+          (CC and)
+          (JJ ecological)
+          (NN preservation)
+          (PP (IN in) (NP (DT the) (NN world) (POS 's))))
+        (JJ fourth)
+        (JJS largest)
+        (NN democracy)))
+    (. .)))"
+"(S
+  (VP
+    (VBG speaking)
+    (NP
+      (ADJP
+        (JJR earlier)
+        (SBAR
+          (IN in)
+          (S
+            (NP (DT the) (NN day))
+            (, ,)
+            (NP (NNP Haddad))
+            (VP
+              (VBD said)
+              (SBAR+S
+                (NP (NNP Brazil) (POS 's))
+                (VP
+                  (VB democracy)
+                  (VBD was)
+                  (SBAR+S
+                    (`` ``)
+                    (VP
+                      (PP (IN at) (NP (NN stake) ('' '')))
+                      (PP (IN in) (NP (NNP Sunday) (POS 's)))))))))))
+      (NN vote)))
+  (. .))"
+"(S+SBAR
+  (`` ``)
+  (S
+    (NP (PRP I))
+    (VP
+      (VBP believe)
+      (NP (NN today))
+      (VBZ is)
+      (NP
+        (DT a)
+        (JJ great)
+        (NN day)
+        (PP (IN for) (NP (DT the) (NN country))))
+      (SBAR
+        (WHNP (WDT which))
+        (S+VP
+          (VBZ has)
+          (VP (VBN arrived) (PP (IN at) (NP (DT a) (NN crossroads))))))))
+  (, ,)
+  (S ('' '') (NP (PRP he)) (VP (VBD said)) (. .)))"
+"(S+ADJP
+  (ADJP (JJ troubled) (PP (IN over) (NP (NNP Bolsonaro) (POS 's))))
+  (ADJP (JJ promises) (S+VP (TO to) (VP (VB open))))
+  (ADJP (RB up) (JJ tracks) (PP (IN of) (NP (DT the) (NNP Amazon))))
+  (JJ rainforest)
+  (SBAR+S+VP
+    (TO to)
+    (VP
+      (NP (NN development) (, ,) (JJ environmental) (NNS groups))
+      (VBD warned)
+      (SBAR+S
+        (NP (PRP$ his) (NN election))
+        (VP
+          (MD would)
+          (VB be)
+          (S
+            (NP (DT a) (`` ``) (JJ profound) (NN setback))
+            (. .)
+            ('' '')))))))"
+"(S+SBAR
+  (`` ``)
+  (S
+    (NP (NNP His) (NNP reckless))
+    (VP
+      (VBZ plans)
+      (S+VP
+        (TO to)
+        (VP
+          (VB industrialize)
+          (NP
+            (NP
+              (NP (DT the) (NNP Amazon))
+              (PP
+                (IN in)
+                (NP
+                  (NP (NNS concert))
+                  (PP
+                    (IN with)
+                    (NP
+                      (JJ Brazilian)
+                      (NX
+                        (NX
+                          (NX
+                            (CC and)
+                            (JJ international)
+                            (NN agribusiness))
+                          (CC and)
+                          (NP
+                            (NP (VBG mining) (NN sectors))
+                            (VP
+                              (MD will)
+                              (VB bring)
+                              (NP (JJ untold) (NN destruction))))
+                          (PP
+                            (TO to)
+                            (NP (DT the) (NN planet) (POS 's)))
+                          (JJS largest)
+                          (NX (NNS rainforest))
+                          (CC and)
+                          (NP (DT the) (NN communities))
+                          (SBAR
+                            (WHNP (WP who))
+                            (S+VP (VB call) (NP (PRP it)))))
+                        (NN home)
+                        (, ,)
+                        (CC and)
+                        (NN spell)
+                        (NN disaster)))))))
+            (PP (IN for) (NP (DT the) (JJ global) (NN climate))))))))
+  (, ,)
+  (S
+    ('' '')
+    (NP (NNP Amazon) (NNP Watch))
+    (NP (NN program) (NN director))
+    (NP (NNP Christian) (NNP Poirier))
+    (VP
+      (VBD said)
+      (PP (IN in) (NP (DT a) (NN statement)))
+      (PP (TO to) (NP (NNP CNN))))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB politically))
+  (S
+    (VP
+      (VBD motivated)
+      (SBAR+S
+        (NP (NNP violence) (NNP Bolsonaro))
+        (VP
+          (VBD won)
+          (SBAR+S
+            (NP
+              (NP
+                (NP (DT the) (JJ first) (NN round))
+                (PP (IN of) (NP (DT the) (NNS elections))))
+              (PP (IN in) (NP (NNP October))))
+            (VP
+              (VB amid)
+              (NP
+                (NP (DT a) (NN field))
+                (PP (IN of) (NP (CD 13) (NNS candidates)))))))))
+    (, ,)
+    (CC but)
+    (NP (PRP he))
+    (VP
+      (VBD fell)
+      (ADJP (JJ short) (PP (IN of) (NP (DT the) (CD 50) (NN %))))))
+  (S
+    (VP
+      (VBN needed)
+      (S+VP
+        (TO to)
+        (VP
+          (VB win)
+          (VB outright)
+          (CC and)
+          (VB avoid)
+          (NP
+            (DT a)
+            (ADJP
+              (JJ runoff)
+              (PP
+                (IN against)
+                (NP
+                  (NNP Haddad)
+                  (, ,)
+                  (PP (IN from) (NP (DT the) (NNP Workers) (POS '))))))
+            (NN Party)))))
+    (. .)))"
+"(SINV
+  (`` ``)
+  (S
+    (NP (DT This))
+    (VP
+      (VBZ has)
+      (VBN been)
+      (NP (DT an) (JJ unprecedented) (NN election))))
+  (, ,)
+  ('' '')
+  (VP (VBD said))
+  (NP (NNP Marco) (NNP Antonio) (NNP Teixeira))
+  (, ,)
+  (NP
+    (NP (DT a) (JJ political) (JJ science) (NN professor))
+    (PP
+      (IN at)
+      (NP (DT the) (NNP Getulio) (NNP Vargas) (NNP Foundation))))
+  (. .))"
+"(SINV
+  (`` ``)
+  (S
+    (NP (DT The) (NN rhetoric))
+    (VP
+      (VP
+        (VBN used)
+        (PP
+          (IN by)
+          (NP
+            (NP (DT both) (NNS candidates))
+            (PP (IN throughout) (NP (DT the) (NN campaign))))))
+      (VBZ has)
+      (VBN been)
+      (ADVP (RB extremely))))
+  (VP (VBZ aggressive))
+  (. .)
+  ('' ''))"
+"(PRN+SBAR
+  (IN that)
+  (S
+    (VP
+      (VB hostility)
+      (VBZ has)
+      (VBN carried)
+      (PRT (RP over))
+      (PP (IN into) (NP (DT the) (NNS streets))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP
+      (NP
+        (NP (NNS dozens))
+        (PP
+          (IN of)
+          (NP (ADJP (RB politically) (VBN motivated)) (NN acts))))
+      (PP (IN of) (NP (NN violence))))
+    (VP
+      (VBP have)
+      (VBN been)
+      (VBN registered)
+      (PP (IN by) (NP (NNS voters)))))
+  (, ,)
+  (S (VP (VB journalist) (NP (CC and) (NNS politicians))) (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB bolsonaro))
+  (S
+    (, ,)
+    (NP (NP (CD 63)) (, ,))
+    (VP
+      (VBD was)
+      (VBN stabbed)
+      (PP (IN in) (NP (DT the) (NN stomach)))))
+  (S
+    (NP
+      (NP
+        (NP (JJ last) (NN month))
+        (PP
+          (IN during)
+          (NP
+            (NP (DT a) (NN rally))
+            (PP (IN in) (NP (DT the) (NN city))))))
+      (PP (IN of) (NP (NNP Juiz) (NNP de) (NNP Fora))))
+    (VP (, ,) (PP (IN in) (NP (NNP Minas) (NNP Gerais) (NN state))))
+    (. .)))"
+"(SBAR
+  (WHADVP (WRB when))
+  (S
+    (S
+      (NP (PRP he))
+      (VP
+        (VBD went)
+        (S+VP
+          (TO to)
+          (VP
+            (VB cast)
+            (NP
+              (NP (PRP$ his) (NN ballot))
+              (PP (IN on) (NP (NNP Sunday))))))))
+    (, ,)
+    (NP (DT the) (JJ congressman) (NN wore))
+    (NP (NN body) (NN armor))
+    (CC and)
+    (VP
+      (VBN arrived)
+      (PP (IN by) (NP (DT the) (NN back) (NN entrance))))
+    (. .)))"
+"(NP+S
+  (NP (DT the) (NN stabbing))
+  (VP
+    (VBD took)
+    (SBAR+S
+      (NP (PRP him))
+      (VP
+        (PRT (RP off))
+        (NP
+          (NP (DT the) (NN campaign) (NN trail))
+          (PP
+            (IN for)
+            (NP
+              (NNS weeks)
+              (SBAR
+                (IN as)
+                (S (NP (PRP he)) (VP (VBD recovered)) (. .))))))))))"
+"(NP+SBAR+S
+  (S
+    (CC but)
+    (NP (PRP it))
+    (VP
+      (VBN strengthened)
+      (NP (PRP$ his) (NN position))
+      (PP (IN among) (NP (NNP Brazilians)))))
+  (S (VP (VBG looking) (PP (IN for) (NP (DT a) (NN change)))) (. .)))"
+"(S+SBAR
+  (S
+    (NP (NN bolsonaro) (POS 's))
+    (VP
+      (VBN increased)
+      (VB visibility)
+      (VBD prompted)
+      (SBAR+S
+        (NP (DT a) (JJ social) (NNS media))
+        (VP (VB backlash) (VBN known) (PP (IN as) (NP (NN #elenao)))))))
+  (, ,)
+  (S
+    (CC or)
+    (VP
+      (VB #nothim)
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S+VP
+          (VBD gained)
+          (VP
+            (VB support)
+            (PP (IN throughout) (NP (DT the) (NN country)))
+            (ADVP (CC and) (RB internationally))))))
+    (. .)))"
+"(PRN+SBAR
+  (IN during)
+  (S
+    (NP (PRP$ his) (NNP Brazil) (NNP tour))
+    (, ,)
+    (NP (NNP Pink) (NNP Floyd))
+    (NP (JJ co-founder) (NNP Roger) (NNP Waters))
+    (VP
+      (VBD exhibited)
+      (SBAR+S
+        (NP
+          (NP (DT the) (NN slogan))
+          (PP
+            (IN on)
+            (NP
+              (NP (NN stage))
+              (PP (IN in) (NP (JJ neon) (NN lights))))))
+        (VP
+          (CC and)
+          (VBN chanted)
+          (S+NP
+            (`` ``)
+            (JJ ele)
+            (NP (NN nao) ('' ''))
+            (PP (IN with) (NP (DT the) (NN crowd)))))))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ protesters)
+    (S+VP
+      (VP
+        (VBP have)
+        (ADVP (RB also))
+        (VBN taken)
+        (NP (DT the) (NN chant)))
+      (TO to)
+      (VP
+        (NP (DT the) (NNS streets))
+        (PP
+          (IN during)
+          (NP
+            (NP
+              (DT a)
+              (JJ recent)
+              (`` ``)
+              (NNP Women)
+              (NNP Against)
+              (NNP Bolsonaro))
+            (NN march)
+            ('' '')
+            (PP (IN in) (NP (NNP Sao) (NNP Paulo))))))))
+  (. .))"
+"(S+SBAR
+  (`` ``)
+  (S
+    (NP (NNP Bolsonaro))
+    (VP (VBZ has) (VBD opened) (NP (DT a) (NNP Pandora) (NN box))))
+  (, ,)
+  (S
+    ('' '')
+    (NP (JJ protest) (NN organizer))
+    (NP (NNP Luka) (NNP Franca))
+    (VP (VBD said))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (`` ``)
+    (NP (NNP He) (POS 's))
+    (VP
+      (VBN given)
+      (NP (DT a) (NN voice))
+      (PP (TO to) (NP (DT an) (NN ultra)))))
+  (S
+    (NP (NN right) (NN population))
+    (SBAR
+      (WHNP (WP who))
+      (S+VP
+        (VBP want)
+        (TO to)
+        (VP (VBP voice) (NP (PRP$ their) (NN prejudice)))))
+    (CC and)
+    (NP (JJ annihilate) (NN anyone))
+    (SBAR (WHNP (WP who)) (S+VP (VBZ is) (ADJP (JJ different))))
+    (. .)
+    ('' '')))"
+"(NP+SBAR+S
+  (ADVP (RB ugly))
+  (S
+    (NP (NNP rhetoric) (NNP Bolsonaro))
+    (VP
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S+VP
+          (VBZ has)
+          (VP
+            (VBN been)
+            (VBN compared)
+            (PP (TO to) (NP (NNP US) (NNP President))))))))
+  (S
+    (NP (NNP Donald) (NNP Trump))
+    (CC and)
+    (NP (NNPS Philippines) (NNP President))
+    (NP (NNP Rodrigo) (NNP Duterte))
+    (, ,)
+    (VP
+      (VBZ has)
+      (VBN stirred)
+      (VB controversy)
+      (PP
+        (IN by)
+        (NP
+          (VBG making)
+          (NX
+            (NX (NNS misogynistic))
+            (, ,)
+            (NX (NNS racist))
+            (CC and)
+            (NN homophobic)
+            (NN remarks)))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (PRP he))
+    (VP (ADVP (RB once)) (VBD told) (NP (DT a) (NN congresswoman))))
+  (IN that)
+  (S
+    (NP (PRP she))
+    (VP
+      (VBD did)
+      (ADJP
+        (RB not)
+        (JJ deserve)
+        (S+VP (TO to) (VP (VB be) (VP (VBN raped)))))))
+  (IN because)
+  (S
+    (NP (PRP she))
+    (VP (VBD was) (ADVP (`` ``) (RB very) (RB ugly))))
+  (, ,)
+  (S
+    ('' '')
+    (NP (NNP Brazil) (POS 's))
+    (NP (NNP TV) (NNP Globo))
+    (VP (VBD reported))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (PRP he))
+    (VP
+      (ADVP (RB also))
+      (VBD said)
+      (SBAR+S
+        (ADVP (RB publicly))
+        (NP (PRP he))
+        (VP
+          (MD 'd)
+          (VB prefer)
+          (S+VP (TO to) (VP (VB see) (NP (PRP$ his) (NN son))))))))
+  (S
+    (`` ``)
+    (VP
+      (VP (VB die))
+      (PP
+        (IN in)
+        (NP
+          (NP
+            (NP (DT an) (NN accident) ('' ''))
+            (PP (IN than) (NP (DT a) (NN member))))
+          (PP (IN of) (NP (PRP$ his) (NN family)))))
+      (VB be)
+      (NP (NN homosexual)))
+    (. .)))"
+"(S+SBAR
+  (`` ``)
+  (S
+    (NP (DT This))
+    (NP (JJ negative) (NN discourse))
+    (NP (PRP he))
+    (VP
+      (VBZ 's)
+      (S+VP (VBG spreading) (VBZ is) (VBG killing) (NP (NNS people)))))
+  (, ,)
+  (S
+    ('' '')
+    (NP (NNP Felipe) (NNP Lago))
+    (, ,)
+    (NP (DT a) (NN 29-year-old))
+    (NP (JJ fashion) (NN producer))
+    (VP (VBD told) (NP (NNP CNN)))
+    (. .)))"
+"(S+SBAR
+  (`` ``)
+  (IN If)
+  (S (NP (PRP he)) (VP (VBP wins)))
+  (, ,)
+  (S
+    (SBAR
+      (WHNP (WP who))
+      (S+VP
+        (VBZ knows)
+        (SBAR
+          (WHNP (WP what))
+          (S+VP
+            (MD will)
+            (VP (VB happen) (PP (TO to) (NP (PRP us))))))))
+    (. ?)
+    ('' '')))"
+"(SINV
+  (S
+    (NP (NNS lago))
+    (VP
+      (VBD created)
+      (SBAR+S
+        (NP (DT an) (NNP Instagram))
+        (VP (VBP account) (VP (VBG called))))))
+  (`` ``)
+  (VP (VBZ elenaovaoinosmatar))
+  (, ,)
+  ('' '')
+  (S
+    (CC or)
+    (`` ``)
+    (NP (PRP he))
+    (VP (MD wo) (RB n't) (VB kill) (NP (PRP us))))
+  ('' '')
+  (S
+    (PP (IN in) (NP (NNP English)))
+    (, ,)
+    (ADVP (RB shortly))
+    (VP
+      (PP
+        (IN after)
+        (S+VP
+          (VBG being)
+          (ADVP (RB verbally))
+          (VP
+            (VBN assaulted)
+            (CC and)
+            (VBN threatened)
+            (PP (IN by) (NP (DT a) (NN group))))))
+      (PP (IN of) (NP (NNP Bolsonaro)))))
+  (NP (NP (NNS supporters)) (PP (IN for) (NP (VBG being) (NN gay))))
+  (. .))"
+"(S+SBAR
+  (`` ``)
+  (S
+    (NP (NNP Although))
+    (NP (PRP I))
+    (VP
+      (VBD was)
+      (VBD scared)
+      (SBAR+S
+        (, ,)
+        (NP (PRP I))
+        (VP
+          (VBD decided)
+          (S+VP
+            (TO to)
+            (VP
+              (VB post)
+              (SBAR
+                (WHNP (WP what))
+                (S+VP
+                  (VBD happened)
+                  (TO to)
+                  (VP (NP (PRP me)) (PP (IN on) (NP (NNP Facebook))))))))))))
+  (, ,)
+  (S ('' '') (NP (NNP Lago)) (VP (VBD said)) (. .)))"
+"(SBARQ+SQ
+  (`` ``)
+  (NP (PRP I))
+  (VP
+    (VBD got)
+    (SBAR+S
+      (NP
+        (NP (DT a) (NN lot))
+        (PP
+          (IN of)
+          (NP
+            (NP (NNS responses))
+            (SBAR
+              (IN from)
+              (S
+                (NP (NNS friends))
+                (CC and)
+                (NP (NNS others))
+                (VP (VBG saying) (NP (DT the) (JJ same) (NN thing))))))))
+      (VP
+        (VBD happened)
+        (S (PP (TO to) (NP (PRP them))) (. .) ('' ''))))))"
+"(NP+S
+  (NP (PRP$ his) (NNP Instagram) (NN account))
+  (VP
+    (VBZ has)
+    (SBAR+S
+      (NP (QP (JJR more) (IN than) (CD 100,000)) (NNS followers))
+      (VP
+        (CC and)
+        (VBZ includes)
+        (VB videos)
+        (PP
+          (IN of)
+          (NP
+            (NP (NNS others))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP
+                  (VBP say)
+                  (SBAR+S
+                    (NP (PRP they))
+                    (VP
+                      (VBN experienced)
+                      (NP (JJ similar) (NN assaults)))))
+                (. .)))))))))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP
+      (PRP$ their)
+      (JJ final)
+      (NNS days)
+      (PP (IN on) (NP (DT the) (NN campaign) (NN trail))))
+    (, ,)
+    (NP (DT both) (NNP Bolsonaro) (CC and) (NNP Haddad))
+    (VP
+      (VBD asked)
+      (SBAR+S
+        (NP (PRP$ their) (NN supporters))
+        (VP
+          (RB not)
+          (TO to)
+          (VB engage)
+          (PP (IN in) (NP (NN violence))))))
+    (. .)))"
+"(S+VP
+  (VBG keeping)
+  (SBAR
+    (IN out)
+    (S
+      (NP (DT the) (NNP Workers) (POS '))
+      (NP (NNP Party) (NNP For))
+      (NP (DT some) (NNP Brazilians))
+      (, ,)
+      (PP (IN like) (NP (NN teacher) (NNP Alexandre) (NNP Vastella)))
+      (, ,)
+      (S+VP
+        (VBG voting)
+        (VP
+          (PP (IN for) (NP (NNP Bolsonaro)))
+          (VBD was)
+          (ADVP (RBR more) (RB about)))
+        (VBG keeping)
+        (NP (DT the) (NNP Workers) (POS ')))
+      (PRN (NP (NNP Party)) (-LRB- () (NP (NNP PT)) (-RRB- )))
+      (VP (PRT (RP out)) (PP (IN of) (NP (NN office))))
+      (. .))))"
+"(S+SBAR
+  (`` ``)
+  (S
+    (NP (PRP I))
+    (VP
+      (VBP want)
+      (ADJP
+        (JJ Bolsonaro)
+        (S+VP
+          (TO to)
+          (VP
+            (VB be)
+            (NP
+              (NNP President)
+              (, ,)
+              (SBAR
+                (RB not)
+                (IN because)
+                (S
+                  (NP (PRP he))
+                  (VP (VBZ 's) (NP (DT the) (JJ ideal) (NN person)))))))))))
+  (, ,)
+  (S
+    (CC but)
+    (SBAR
+      (IN because)
+      (S
+        (NP (PRP we))
+        (VP
+          (MD ca)
+          (RB n't)
+          (VB risk)
+          (VBG letting)
+          (NP (DT the) (NN PT)))))
+    (ADVP (RB back))
+    (PP (IN in) (NP (NN power)))
+    (, ,)
+    ('' '')
+    (NP (NNP Vastella))
+    (VP (VBD told) (NP (NNP CNN)))
+    (. .)))"
+"(SINV
+  (`` ``)
+  (S
+    (NP
+      (NNP Sure)
+      (, ,)
+      (NP (DT all))
+      (PP (IN of) (NP (DT the) (JJ major) (NNS parties))))
+    (VP
+      (VBP are)
+      (SBAR+S
+        (NP (JJ corrupt) (CC but) (DT the) (NN PT))
+        (VP
+          (VBD created)
+          (NP (DT an) (NN infrastructure))
+          (PP (IN of) (NP (NN corruption)))))))
+  (. .)
+  ('' ''))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NNP Workers) (POS '))
+    (NP (NNP Party))
+    (VP
+      (VBD governed)
+      (SBAR+S
+        (NP (NNP Brazil))
+        (VP
+          (PP
+            (IN for)
+            (NP (QP (JJR more) (IN than) (CD 13)) (NNS years)))
+          (PP
+            (IN under)
+            (NP
+              (NAC
+                (NNP President)
+                (NNP Luiz)
+                (NNP Inacio)
+                (NNP Lula)
+                (NNP da)
+                (NNP Silva)
+                (, ,))
+              (PP (IN from) (NP (CD 2003)))
+              (PP (TO to) (NP (CD 2011)))))))))
+  (, ,)
+  (S
+    (CC and)
+    (NP (PRP$ his) (NN successor))
+    (NP (NNP Dilma) (NNP Rousseff))
+    (, ,)
+    (VP (PP (IN from) (NP (CD 2011))) (PP (TO to) (NP (CD 2016))))
+    (. .)))"
+"(VP+VP
+  (VB lula)
+  (, ,)
+  (SBAR
+    (IN as)
+    (S
+      (S
+        (NP (PRP he))
+        (VP (VBZ is) (ADJP (RB popularly) (VBN known))))
+      (, ,)
+      (NP
+        (NP (JJ left) (NN office))
+        (PP (IN with) (NP (DT a) (CD 83) (NN %))))
+      (NP (NN approval) (NN rating))
+      (, ,)
+      (PP (IN after) (NP (PRP$ his) (NNS policies)))
+      (VP
+        (VBD helped)
+        (SBAR+S
+          (NP
+            (JJ lift)
+            (NP (NNS millions))
+            (PP (IN of) (NP (NNP Brazilians))))
+          (VP (PRT (RP out)) (PP (IN of) (NP (NN poverty))))))
+      (. .))))"
+"(SINV
+  (S
+    (NP (JJ many) (NNS politicians))
+    (, ,)
+    (NP (VBG including) (NN Lula))
+    (VP
+      (, ,)
+      (VBD were)
+      (VBN caught)
+      (PP (IN in) (NP (DT a) (NN wide-ranging)))))
+  (, ,)
+  (VP (VBZ 4-year))
+  (S
+    (NP (JJ anti-graft) (NN probe))
+    (VP
+      (VBN known)
+      (PP (IN as) (NP (`` ``) (NNP Operation) (NNP Car)))))
+  (VP (VBZ Wash.))
+  ('' '')
+  (S
+    (NP (NNP He))
+    (VP
+      (VBD was)
+      (VBN arrested)
+      (PP
+        (IN in)
+        (NP
+          (NP
+            (NNP April)
+            (CC and)
+            (VBN given)
+            (DT a)
+            (JJ 12-year)
+            (NN sentence))
+          (PP (IN for) (NP (NN corruption)))))))
+  (NP (CC and) (NN money) (NN laundering))
+  (. .))"
+"(PRN+SBAR
+  (IN despite)
+  (S
+    (NP (DT the) (NN arrest))
+    (, ,)
+    (NP (NNP Lula))
+    (VP
+      (VBD was)
+      (VBG running)
+      (PP (IN for) (NP (DT a) (JJ third) (NN term)))
+      (CC and)
+      (VBG leading)
+      (PP (IN in) (NP (DT the) (NN polls)))
+      (SBAR
+        (IN until)
+        (S
+          (NP (PRP he))
+          (VP
+            (VBD was)
+            (VBN barred)
+            (PP
+              (IN from)
+              (S+VP
+                (VBG running)
+                (PP
+                  (IN by)
+                  (NP
+                    (DT the)
+                    (NN country)
+                    (POS 's)
+                    (JJ top)
+                    (JJ electoral)
+                    (NN court)
+                    (PP (IN in) (NP (NNP September)))))))))))
+    (. .)))"
+"(S
+  (NP (PRP$ his) (VBG running) (NN mate))
+  (, ,)
+  (NP (NNP Haddad))
+  (, ,)
+  (VP
+    (VBD replaced)
+    (SBAR+S
+      (NP (PRP him))
+      (VP
+        (PP (IN on) (NP (DT the) (NN ballot)))
+        (CC and)
+        (VBD became)
+        (SBAR+S
+          (NP (PRP$ his) (NN party) (POS 's))
+          (VP (VB default) (NP (NN candidate)))))))
+  (. .))"
+"(S+VP
+  (VBG voting)
+  (VBZ is)
+  (VP
+    (VB compulsory)
+    (SBAR
+      (IN in)
+      (S
+        (NP (NNP Brazil))
+        (, ,)
+        (CC but)
+        (NP (DT some) (JJ undecided) (NNS voters))
+        (, ,)
+        (PP (IN like) (NP (NNP Sao) (NNP Paulo)))
+        (NP (JJ resident) (NNP Mauricio) (NNP Soares))
+        (, ,)
+        (VP
+          (VBD had)
+          (VBN chosen)
+          (S+VP
+            (TO to)
+            (VP (VB vote) (VB null) (NP (CC or) (NNS blank)))))
+        (. .)))))"
+"(NP+S
+  (NP
+    (`` ``)
+    (DT The)
+    (NN decision)
+    (PP (IN of) (NP (VBG voting) (NN null))))
+  (VP
+    (VBD came)
+    (PP (IN after) (NP (DT a) (NN lot)))
+    (SBAR
+      (IN of)
+      (S
+        (VP
+          (VBD thought)
+          (SBAR+S
+            (CC and)
+            (S
+              (NP (PRP I))
+              (NP
+                (NP (JJ am) (NN firm))
+                (PP (IN in) (NP (PRP$ my) (NN decision))))
+              (, ,)
+              ('' '')
+              (NP (NNP Soares))
+              (VP (VBD told) (NP (NNP CNN))))))
+        (. .)))))"
+"(SBARQ+SQ
+  (`` ``)
+  (NP (PRP I))
+  (VP (VB am) (S (VP (RB not) (VP (VB neutral))) (. .))))"
+"(SBAR+S
+  (NP (PRP I))
+  (VP
+    (VB am)
+    (VBG positioning)
+    (VB myself)
+    (SBAR
+      (IN against)
+      (S (NP (DT both) (NNS candidates)) (. .) ('' '')))))"
+"(S
+  (NP (NNS teixeira))
+  (, ,)
+  (NP (DT the) (NN professor))
+  (, ,)
+  (VP
+    (VBD said)
+    (SBAR+S
+      (NP (DT the) (NN winner))
+      (VP
+        (MD must)
+        (NP (NN bridge) (DT the) (NN divide))
+        (VBN caused)
+        (PP (IN by) (NP (DT the) (NN campaign))))))
+  (. .))"
+"(S+SBAR
+  (`` ``)
+  (IN If)
+  (S
+    (NP (DT the) (JJ next) (NN president))
+    (VP
+      (RB only)
+      (VB governs)
+      (PP (IN for) (NP (PRP$ his) (NN supporters)))))
+  (, ,)
+  (S
+    (NP (DT the) (NN divisiveness))
+    (NP (PRP we))
+    (VP (VBP 're) (VBG living) (NP (NN will) (VB remain)))
+    (. .)))"
+"(S+SBAR
+  (IN if)
+  (S
+    (NP (PRP he))
+    (VP
+      (VB chooses)
+      (S+VP
+        (TO to)
+        (VP
+          (VB govern)
+          (PP (IN for) (NP (DT the) (JJ whole) (NN country)))))))
+  (S
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ is) (NP (DT a) (JJR greater) (NN chance))))
+  (S
+    (NP (DT these) (NN conflicts))
+    (VP
+      (MD will)
+      (VB be)
+      (VBD minimized)
+      (ADJP (CC or) (JJ disappear))))
+  (, ,)
+  (S ('' '') (NP (NNP Teixeira)) (VP (VBD said)) (. .)))"
