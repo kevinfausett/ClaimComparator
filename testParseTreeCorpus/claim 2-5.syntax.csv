@@ -1,0 +1,2282 @@
+"(SBARQ
+  (SQ (VBZ climate) (NP (NNP Change) (NNP Is) (NNP Complex)))
+  (. .))"
+"(SBARQ
+  (SQ
+    (VBZ Weve)
+    (NP
+      (NP (NNP Got) (NNP Answers))
+      (PP (TO to) (NP (NNP Your) (NNP Questions)))))
+  (. .))"
+(LST (LS 1) (. .))
+(SBARQ (SQ (NP (NNS climate)) (VP (VB change))) (. ?))
+(SQ+FRAG (ADJP (JJ global) (JJ warming)) (. ?))
+"(SBARQ
+  (WHNP (WP what))
+  (SQ (VBP do) (NP (PRP we)) (VP (VB call) (NP (PRP it))))
+  (. ?))"
+"(S+SBAR
+  (S (NP (DT both)) (VP (VBP are) (ADJP (JJ accurate))))
+  (, ,)
+  (S
+    (CC but)
+    (NP (PRP they))
+    (VP (VB mean) (NP (JJ different) (NNS things)))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (NP (PRP you))
+    (VP
+      (MD can)
+      (VBP think)
+      (PP
+        (IN of)
+        (NP
+          (NP (JJ global) (NN warming))
+          (PP (IN as) (NP (CD one) (NN type)))))
+      (PP (IN of) (NP (JJ climate) (NN change)))))
+  (. .))"
+"(SINV
+  (S
+    (NP (DT the) (JJR broader) (NN term))
+    (VP
+      (VBZ covers)
+      (VBZ changes)
+      (VB beyond)
+      (NP (JJ warmer) (NN temperatures))))
+  (, ,)
+  (NP
+    (ADJP (JJ such) (PP (IN as) (NP (VBG shifting) (NN rainfall))))
+    (NN patterns))
+  (. .))"
+"(NP+S
+  (NP (NN president) (NN Trump))
+  (VP
+    (VBZ has)
+    (VBD claimed)
+    (SBAR
+      (IN that)
+      (S
+        (NP (NNS scientists))
+        (VP
+          (VBN stopped)
+          (S+VP
+            (VBG referring)
+            (TO to)
+            (VP
+              (ADJP
+                (JJ global)
+                (S+VP
+                  (VBG warming)
+                  (CC and)
+                  (VBD started)
+                  (VBG calling)
+                  (SBAR+S
+                    (NP (PRP it))
+                    (VP
+                      (NP (JJ climate) (NN change))
+                      (PP (IN because) (NP (JJ the) (NN weather)))))))
+              (VBZ has)
+              (VBN been)
+              (PP
+                (IN so)
+                (NP (NP (NNS cold)) (PP (IN in) (NP (NN winter))))))))
+        (. .)))))"
+"(S
+  (CC but)
+  (NP (DT the) (NN claim))
+  (VP (VBZ is) (ADJP (JJ false)))
+  (. .))"
+"(SBARQ
+  (SQ
+    (NP (NNS scientists))
+    (VP
+      (VBP have)
+      (VBN used)
+      (NP (DT both) (NP (NNS terms)) (PP (IN for) (NP (NN decades))))))
+  (. .))"
+(LST (LS 2) (. .))
+"(SBARQ
+  (WHADVP (WRB how) (RB much))
+  (SQ
+    (VBZ is)
+    (NP (DT the) (NNP Earth))
+    (VP (VBG heating) (PRT (RP up))))
+  (. ?))"
+"(NP+S
+  (NP (CD two) (NNS degrees))
+  (VP
+    (VBZ is)
+    (ADJP (RBR more) (JJ significant))
+    (SBAR (IN than) (S (NP (PRP it)) (VP (VBZ sounds)) (. .)))))"
+"(PRN+SBAR
+  (IN as)
+  (S
+    (PP (IN of) (NP (JJ early) (CD 2017)))
+    (, ,)
+    (NP (DT the) (NNP Earth))
+    (VP
+      (VBD had)
+      (VBN warmed)
+      (PP
+        (IN by)
+        (NP
+          (NP
+            (NP (QP (RB roughly) (CD 2)) (NNS degrees))
+            (PRN
+              (NP (NNP Fahrenheit))
+              (-LRB- ()
+              (NP (QP (JJR more) (IN than) (CD 1)) (NN degree))
+              (NP (NNP Celsius))
+              (-RRB- ))))
+          (PP
+            (IN since)
+            (NP
+              (CD 1880)
+              (, ,)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (VP
+                    (VBZ records)
+                    (VBD began)
+                    (PP (IN at) (NP (DT a) (JJ global) (NN scale))))
+                  (. .))))))))))"
+"(S+SBAR
+  (S (NP (DT the) (NN number)) (VP (MD may) (VP (VB sound))))
+  (S
+    (NP
+      (NP
+        (JJ low)
+        (, ,)
+        (CC but)
+        (PP (IN as) (NP (DT an) (NN average)))
+        (PP (IN over) (NP (DT the) (NN surface))))
+      (PP (IN of) (NP (DT an) (JJ entire) (NN planet))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is) (ADJP (RB actually) (JJ high))))
+  (, ,)
+  (S
+    (SBAR
+      (WHNP (WDT which))
+      (S+VP
+        (ADJP (JJ explains))
+        (SBAR
+          (WHADVP (WRB why))
+          (S
+            (NP
+              (NP (JJ much))
+              (PP (IN of) (NP (DT the) (NN worlds))))
+            (VP
+              (VB land)
+              (NP
+                (NN ice)
+                (S+VP
+                  (VBZ is)
+                  (VBG starting)
+                  (TO to)
+                  (VP (VB melt) (NP (CC and) (DT the) (NN oceans))))))))))
+    (VP
+      (VBP are)
+      (VBG rising)
+      (PP (IN at) (NP (DT an) (VBG accelerating) (NN pace))))
+    (. .)))"
+"(S+SBAR
+  (IN if)
+  (S
+    (NP (JJ greenhouse) (NN gas))
+    (NP (NNS emissions))
+    (VP
+      (VB continue)
+      (VBD unchecked)
+      (SBAR+S (, ,) (NP (NNS scientists)) (VP (VBP say)))))
+  (, ,)
+  (S
+    (NP (DT the) (JJ global) (NN warming))
+    (VP
+      (MD could)
+      (ADVP (RB ultimately))
+      (VBN exceed)
+      (NP
+        (NP (CD 8) (NNS degrees))
+        (NNP Fahrenheit)
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S+VP
+            (VP
+              (MD would)
+              (VB undermine)
+              (NP (DT the) (JJ planets) (NN capacity)))
+            (TO to)
+            (VP
+              (VB support)
+              (NP (DT a) (JJ large) (JJ human) (NN population)))))))
+    (. .)))"
+(LST (LS 3) (. .))
+"(UCP
+  (SBAR
+    (WHNP (WP what))
+    (S+VP (VBZ is) (NP (DT the) (NN greenhouse))))
+  (NN effect)
+  (, ,)
+  (CC and)
+  (SBAR
+    (WHADVP (WRB how))
+    (S
+      (VP
+        (VBZ does)
+        (SBAR+S
+          (NP (PRP it))
+          (VP (VB cause) (NP (JJ global) (NN warming)))))
+      (. ?))))"
+"(SQ+FRAG
+  (ADJP
+    (ADJP (JJ Weve) (VBN known) (PP (IN about) (NP (PRP it))))
+    (PP
+      (IN for)
+      (NP (NP (JJR more)) (PP (IN than) (NP (DT a) (NN century))))))
+  (. .))"
+(ADVP (RB really) (. .))
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP (DT the) (JJ 19th) (NN century))
+    (, ,)
+    (NP (NNS scientists))
+    (VP
+      (VBN discovered)
+      (PP
+        (IN that)
+        (NP
+          (NP (JJ certain) (NN gases))
+          (PP (IN in) (NP (DT the) (NN air) (NN trap))))))
+    (CC and)
+    (VP
+      (VB slow)
+      (ADJP (RB down) (JJ heat))
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (MD would)
+          (VP
+            (NP (JJ otherwise) (NN escape))
+            (PP (TO to) (NP (NN space)))))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (JJ carbon) (NN dioxide))
+    (VP (VBZ is) (NP (DT a) (JJ major) (NN player))))
+  (S
+    (PRN
+      (: ;)
+      (PP
+        (IN without)
+        (NP
+          (DT any)
+          (PP (IN of) (NP (PRP it)))
+          (PP (IN in) (NP (DT the) (NN air)))))
+      (, ,))
+    (NP (DT the) (NNP Earth))
+    (VP (MD would) (VB be) (NP (DT a) (JJ frozen) (NN wasteland)))
+    (. .)))"
+"(NP+S
+  (NP
+    (DT the)
+    (JJ first)
+    (NN prediction)
+    (PP (IN that) (NP (DT the) (NN planet))))
+  (VP
+    (MD would)
+    (VB warm)
+    (SBAR
+      (IN as)
+      (S
+        (NP (NNS humans))
+        (VP
+          (VBD released)
+          (SBAR+S
+            (NP (NP (JJR more)) (PP (IN of) (NP (DT the) (NN gas))))
+            (VP (VBD was) (VBN made) (PP (IN in) (NP (CD 1896))))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NN gas))
+    (VP
+      (VBZ has)
+      (VBN increased)
+      (NP
+        (NP (CD 43) (NN percent))
+        (PP (IN above) (NP (DT the) (JJ pre-industrial) (NN level))))
+      (ADVP (RB so) (RB far))))
+  (, ,)
+  (S
+    (CC and)
+    (NP (DT the) (NNP Earth))
+    (VP
+      (VBZ has)
+      (VBN warmed)
+      (PP
+        (IN by)
+        (NP
+          (RB roughly)
+          (DT the)
+          (NN amount)
+          (PP
+            (IN that)
+            (NP
+              (NP (NNS scientists))
+              (VP
+                (VBN predicted)
+                (NP+SBAR+S (NP (PRP it)) (VP (MD would)))))))))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ interested)
+    (PP
+      (IN in)
+      (NP+S+VP
+        (VBG keeping)
+        (PRT (RP up))
+        (PP (IN with) (NP (JJ climate) (NN change))))))
+  (. ?))"
+"(S
+  (VP
+    (VB sign)
+    (PRT (RP up))
+    (S+VP
+      (TO to)
+      (VP
+        (VB receive)
+        (NP
+          (PRP$ our)
+          (JJ in-depth)
+          (NN journalism)
+          (PP (IN about) (NP (JJ climate) (NN change)))
+          (PP (IN around) (NP (DT the) (NN world)))))))
+  (. .))"
+"(NP+SBAR+S
+  (S
+    (NP (JJ email) (NN address))
+    (NP (NNP Sign) (NNP Up))
+    (NP (PRP You))
+    (VP (MD can) (VB opt) (PRT (RP out))))
+  (S
+    (CC or)
+    (VP (VB contact) (SBAR+S (NP (PRP us)) (VP (VBP anytime))))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (VBZ privacy)
+    (NP
+      (NP (NNP Policy) (NNP |) (NNP Terms))
+      (PP (IN of) (NP (NNP Service) (CD 4)))))
+  (. .))"
+"(SBARQ
+  (WHADVP (WRB how))
+  (SQ
+    (VBP do)
+    (NP (PRP we))
+    (VP
+      (VBP know)
+      (SBAR+S
+        (NP (NNS humans))
+        (VP
+          (VBP are)
+          (ADJP
+            (JJ responsible)
+            (PP
+              (IN for)
+              (NP
+                (NP (DT the) (NN increase))
+                (PP (IN in) (NP (JJ carbon) (NN dioxide))))))))))
+  (. ?))"
+"(S
+  (NP (DT this) (NN one))
+  (VP (VBZ is) (VBN nailed) (PRT (RP down)))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (JJ hard) (NN evidence))
+    (, ,)
+    (NP
+      (NP (VBG including) (NN studies))
+      (PP (IN that) (NP (NN use))))
+    (VP
+      (VB radioactivity)
+      (S+VP
+        (TO to)
+        (VP
+          (VB distinguish)
+          (NP
+            (NP (JJ industrial) (NNS emissions))
+            (PP (IN from) (NP (JJ natural) (NNS emissions))))))))
+  (, ,)
+  (S
+    (VP
+      (VBZ shows)
+      (PP (IN that) (NP (DT the) (JJ extra) (NN gas)))
+      (VBZ is)
+      (VBG coming)
+      (PP (IN from) (NP (JJ human) (NN activity))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ carbon) (JJ dioxide) (NNS levels))
+    (VP
+      (VBD rose)
+      (CC and)
+      (VBD fell)
+      (ADVP (RB naturally))
+      (PP (IN in) (NP (DT the) (JJ long-ago) (NN past)))))
+  (, ,)
+  (S
+    (CC but)
+    (NP (DT those) (NNS changes))
+    (VP
+      (VBD took)
+      (NP (NP (NNS thousands)) (PP (IN of) (NP (NNS years)))))
+    (. .)))"
+"(NP+VP
+  (NP (NN geologists))
+  (VB say)
+  (PP
+    (IN that)
+    (NP
+      (NP (NNS humans))
+      (VP
+        (VBP are)
+        (ADVP (RB now))
+        (VBG pumping)
+        (NP
+          (NP (DT the) (NN gas))
+          (SBAR
+            (IN into)
+            (S
+              (NP (DT the) (NN air))
+              (NP
+                (ADJP (RB much) (JJR faster) (IN than))
+                (NN nature))
+              (VP (VBZ has) (ADVP (RB ever)) (VBN done))
+              (. .))))))))"
+(LST (LS 5) (. .))
+"(SBARQ
+  (SQ
+    (MD could)
+    (NP (JJ natural) (NNS factors))
+    (VP
+      (VB be)
+      (NP
+        (NP (DT the) (NN cause))
+        (PP (IN of) (NP (DT the) (NN warming))))))
+  (. ?))"
+(LST (LS nope) (. .))
+"(PRN+SBAR
+  (IN in)
+  (S
+    (PRN (NN theory) (, ,))
+    (NP (PRP they))
+    (VP (MD could) (VP (VB be)))
+    (. .)))"
+"(S+SBAR
+  (IN if)
+  (S
+    (NP (DT the) (NN sun))
+    (VP
+      (VBD were)
+      (S+VP
+        (TO to)
+        (VP
+          (VB start)
+          (VBG putting)
+          (PRT (RP out))
+          (NP (JJR more) (NNS radiation))))))
+  (, ,)
+  (S
+    (PP (IN for) (NP (NN instance)))
+    (VP
+      (, ,)
+      (SBAR
+        (WHNP (WDT that))
+        (S+VP
+          (MD would)
+          (VP
+            (ADVP (RB definitely))
+            (VB warm)
+            (NP (DT the) (NNP Earth))))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (CC but)
+    (NP (NNS scientists))
+    (VP
+      (VBP have)
+      (VBN looked)
+      (ADVP (RB carefully))
+      (PP (IN at) (NP (DT the) (JJ natural) (NNS factors)))
+      (VBN known)
+      (PP
+        (TO to)
+        (NP (NN influence) (JJ planetary) (NN temperature)))))
+  (S
+    (CC and)
+    (VP
+      (VBD found)
+      (SBAR
+        (IN that)
+        (S
+          (NP (PRP they))
+          (VP
+            (VBP are)
+            (RB not)
+            (VBG changing)
+            (RB nearly)
+            (ADJP (RB enough))))))
+    (. .)))"
+"(NP+S
+  (NP (DT the) (NN warming))
+  (VP
+    (VBZ is)
+    (ADVP (RB extremely))
+    (VB rapid)
+    (SBAR
+      (IN on)
+      (S
+        (NP (DT the) (NN geologic))
+        (NP (NN time) (NN scale))
+        (, ,)
+        (CC and)
+        (NP (DT no) (JJ other) (NN factor))
+        (VP
+          (MD can)
+          (VBZ explain)
+          (SBAR+S
+            (NP (PRP it))
+            (VP
+              (ADVP (RB as) (RB well))
+              (PP
+                (IN as)
+                (NP
+                  (NP (JJ human) (NNS emissions))
+                  (PP (IN of) (NP (JJ greenhouse) (NN gases))))))))
+        (. .)))))"
+(NOT COVERED)
+"(SBARQ
+  (WHADVP (WRB why))
+  (SQ
+    (VBP do)
+    (NP (NNS people))
+    (VP
+      (VB deny)
+      (NP
+        (NP (DT the) (NN science))
+        (PP (IN of) (NP (JJ climate) (NN change))))))
+  (. ?))"
+"(NP+ADVP
+  (RB mostly)
+  (PP (IN because) (NP (PP (IN of) (NP (NN ideology))) (. .))))"
+"(FRAG+SBAR
+  (ADVP (RB instead))
+  (IN of)
+  (S
+    (PP (VBG negotiating) (IN over) (NP (JJ climate) (NN change)))
+    (NP (NNS policies))
+    (CC and)
+    (S+VP (VBG trying) (TO to) (VP (VB make) (NP (PRP them))))
+    (NP (JJR more) (NNS market-oriented))
+    (, ,)
+    (NP (DT some) (JJ political) (NN conservatives))
+    (VP
+      (VBP have)
+      (VBN taken)
+      (NP (DT the) (NN approach))
+      (PP
+        (IN of)
+        (NP+S+VP
+          (VBG blocking)
+          (NP (PRP them))
+          (PP
+            (IN by)
+            (S+VP
+              (VBG trying)
+              (TO to)
+              (VP (VB undermine) (NP (DT the) (NN science))))))))
+    (. .)))"
+"(UCP
+  (NN president)
+  (NNP Trump)
+  (VP
+    (VBZ has)
+    (ADVP (RB sometimes))
+    (VBD claimed)
+    (SBAR
+      (IN that)
+      (S
+        (NP (NNS scientists))
+        (VP
+          (VBP are)
+          (VBN engaged)
+          (PP (IN in) (NP (DT a) (NN worldwide)))))))
+  (ADJP
+    (JJ hoax)
+    (S+VP (TO to) (VP (VB fool) (NP (DT the) (NN public)))))
+  (, ,)
+  (CC or)
+  (SBAR
+    (IN that)
+    (S
+      (NP (JJ global) (NN warming))
+      (VP
+        (VBD was)
+        (VBD invented)
+        (PP (IN by) (NP (NNP China)))
+        (S+VP
+          (TO to)
+          (VP (VB disable) (NP (JJ American) (NN industry)))))
+      (. .))))"
+"(NP+SBAR+S
+  (S
+    (NP (DT the) (NN climate))
+    (NP (JJ denialists) (NN arguments))
+    (VP
+      (VBP have)
+      (VB become)
+      (RB so)
+      (VBN strained)
+      (PP (IN that) (NP (JJ even) (NN oil)))))
+  (S
+    (CC and)
+    (NP (JJ coal) (NNS companies))
+    (VP
+      (VBP have)
+      (VBD distanced)
+      (SBAR+S
+        (NP (PRP themselves))
+        (VP
+          (ADVP (RB publicly))
+          (, ,)
+          (SBAR
+            (IN though)
+            (S
+              (NP (DT some))
+              (VP
+                (ADVP (RB still))
+                (VB help)
+                (S+VP
+                  (TO to)
+                  (VP
+                    (VB finance)
+                    (NP
+                      (NP (DT the) (NN campaigns))
+                      (PP
+                        (IN of)
+                        (NP
+                          (NP (NNS politicians))
+                          (SBAR
+                            (WHNP (WP who))
+                            (S+VP
+                              (VBZ espouse)
+                              (NP (JJ such) (NNS views)))))))))))))))
+    (. .)))"
+"(S+NP
+  (NP (NN part) (CD 2))
+  (SBAR (WHNP (WP What)) (S (VP (MD could) (VP (VB happen))) (. ?))))"
+(LST (LS 1) (. .))
+"(SBARQ
+  (WHNP (WHADJP (WRB how) (JJ much)) (NN trouble))
+  (SQ (VBP are) (NP (PRP we)) (PP (IN in)))
+  (. ?))"
+(SINV (NP (JJ big) (NN trouble)) (. .))
+"(S+SBAR
+  (IN over)
+  (S
+    (NP (DT the) (VBG coming) (CD 25) (CC or) (CD 30) (NNS years))
+    (, ,)
+    (NP (NNS scientists))
+    (VP (VBP say)))
+  (, ,)
+  (S
+    (NP (DT the) (NN climate))
+    (VP
+      (VBZ is)
+      (ADJP
+        (JJ likely)
+        (S+VP
+          (TO to)
+          (VP
+            (ADVP (RB gradually))
+            (VB warm)
+            (, ,)
+            (PP
+              (IN with)
+              (NP (ADJP (RBR more) (JJ extreme)) (NN weather)))))))
+    (. .)))"
+"(S
+  (NP (JJ coral) (NN reefs))
+  (CC and)
+  (NP (JJ other) (NN sensitive))
+  (VP
+    (VB habitats)
+    (VBP are)
+    (ADVP (RB already))
+    (VBG starting)
+    (S+VP (TO to) (VP (VB die))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (JJR longer) (NN term))
+    (, ,)
+    (SBAR
+      (IN if)
+      (S (NP (NNS emissions)) (VP (VB rise) (VP (VBN unchecked)))))
+    (, ,)
+    (NP (NNS scientists))
+    (NP (NN fear) (NN climate))
+    (VP (VB effects) (ADJP (RB so) (JJ severe))))
+  (IN that)
+  (S
+    (NP (PRP they))
+    (VP
+      (MD might)
+      (VB destabilize)
+      (VB governments)
+      (, ,)
+      (VB produce)
+      (VB waves)
+      (PP (IN of) (NP (NN refugees)))))
+  (, ,)
+  (S
+    (NP (JJ precipitate) (DT the) (NN sixth))
+    (NP
+      (NP
+        (NP (JJ mass) (NN extinction))
+        (PP (IN of) (NP (NNS plants) (CC and) (NNS animals))))
+      (PP (IN in) (NP (DT the) (JJ Earths) (NN history))))
+    (, ,)
+    (CC and)
+    (NP (JJ melt) (DT the) (NN polar))
+    (NP (NN ice) (NN caps))
+    (, ,)
+    (VP
+      (VBG causing)
+      (NP
+        (DT the)
+        (ADJP
+          (ADJP (JJ seas) (S+VP (TO to) (VP (VB rise))))
+          (JJ high)
+          (JJ enough)
+          (S+VP
+            (TO to)
+            (VP
+              (VB flood)
+              (NP
+                (NP (JJS most))
+                (PP (IN of) (NP (DT the) (JJ worlds) (NN coastal)))))))
+        (NNS cities)))
+    (. .)))"
+"(NP+S
+  (NP
+    (DT the)
+    (NP (NNS emissions))
+    (SBAR
+      (WHNP (WDT that))
+      (S+VP (VB create) (NP (DT those) (NNS risks)))))
+  (VP
+    (VBP are)
+    (S+VP
+      (VBG happening)
+      (S
+        (ADVP (RB now))
+        (, ,)
+        (VP
+          (VBG raising)
+          (VB deep)
+          (NP
+            (NP (JJ moral) (NNS questions))
+            (PP (IN for) (NP (PRP$ our) (NN generation)))))
+        (. .)))))"
+(LST (LS 2) (. .))
+"(SBARQ
+  (WHADVP (WRB how) (RB much))
+  (SQ
+    (MD should)
+    (NP (PRP I))
+    (VP
+      (VBP worry)
+      (PP (IN about) (NP (JJ climate) (NN change)))
+      (VBG affecting)
+      (NP (PRP me))
+      (ADVP (RB directly))))
+  (. ?))"
+"(SBARQ
+  (SQ
+    (VBP are)
+    (NP (PRP you))
+    (VP
+      (VB rich)
+      (RB enough)
+      (TO to)
+      (VB shield)
+      (NP (PRP$ your) (NN descendants))))
+  (. ?))"
+"(NP+S
+  (NP (DT the) (JJ simple) (NN reality))
+  (VP
+    (VBZ is)
+    (SBAR
+      (IN that)
+      (S
+        (NP (NNS people))
+        (VP
+          (VBP are)
+          (ADVP (RB already))
+          (VBG feeling)
+          (NP
+            (NP (DT the) (NN effects))
+            (, ,)
+            (SBAR
+              (IN whether)
+              (S
+                (NP (PRP they))
+                (VP (VB know) (NP (PRP it)) (ADVP (CC or) (RB not)))))))
+        (. .)))))"
+"(S+SBAR
+  (IN because)
+  (IN of)
+  (S (NP (NN sea) (NN level)) (VP (VBP rise)))
+  (S
+    (, ,)
+    (PP (IN for) (NP (NN instance)))
+    (, ,)
+    (NP
+      (NP (DT some) (CD 83,000) (JJR more) (NNS residents))
+      (PP (IN of) (NP (NNP New) (NNP York))))
+    (CC and)
+    (NP (NNP New) (NNP Jersey))
+    (VP
+      (VBD were)
+      (VBN flooded)
+      (PP
+        (IN during)
+        (NP
+          (NP (NNP Hurricane) (NNP Sandy))
+          (PP
+            (IN than)
+            (S+VP
+              (MD would)
+              (VP
+                (VBP have)
+                (VBN been)
+                (NP (DT the) (NN case))
+                (PP (IN in) (NP (DT a) (JJ stable) (NN climate))))))))))
+  (, ,)
+  (S
+    (NP (NNS scientists))
+    (VP (VBP have) (VP (VBN calculated)))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ tens)
+    (PP
+      (IN of)
+      (NP
+        (NP (NNS thousands))
+        (PP
+          (IN of)
+          (NP
+            (NP (NNS people))
+            (VP
+              (VBP are)
+              (ADVP (RB already))
+              (VBG dying)
+              (PP (IN in) (NP (JJ heat) (NN waves)))
+              (VBN made)
+              (VB worse)
+              (PP (IN by) (NP (JJ global) (NN warming)))))))))
+  (. .))"
+"(NP+S
+  (NP (DT the) (NN refugee))
+  (VP
+    (VBZ flows)
+    (SBAR
+      (IN that)
+      (S
+        (VP
+          (VBP have)
+          (VBN destabilized)
+          (VB politics)
+          (PP (IN around) (NP (DT the) (NN world)))
+          (VBP have)
+          (VBN been)
+          (VBN traced)
+          (PP
+            (IN in)
+            (NP
+              (NP (NN part))
+              (PP (TO to) (NP (JJ climate) (NN change))))))
+        (. .)))))"
+"(VP+VP
+  (PP (IN of) (NP (NN course)))
+  (, ,)
+  (SBAR
+    (IN as)
+    (S
+      (PP
+        (IN with)
+        (NP
+          (RB almost)
+          (DT all)
+          (JJ other)
+          (JJ social)
+          (NNS problems)))
+      (, ,)
+      (NP (JJ poor) (NNS people))
+      (VP
+        (MD will)
+        (VB be)
+        (VBD hit)
+        (ADJP (JJ first) (CC and) (JJ hardest)))
+      (. .))))"
+(LST (LS 3) (. .))
+"(SBARQ
+  (WHADVP (WRB how) (RB much))
+  (SQ (MD will) (NP (DT the) (NN seas)) (VP (VB rise)))
+  (. ?))"
+"(S
+  (NP (DT the) (JJ real) (NN question))
+  (VP (VBZ is) (WHADJP (WRB how) (JJ fast)))
+  (. .))"
+"(NP+S
+  (NP (DT the) (NN ocean))
+  (VP
+    (VBZ has)
+    (VBN accelerated)
+    (CC and)
+    (VBZ is)
+    (ADVP (RB now))
+    (VBG rising)
+    (PP (IN at) (NP (DT a) (NN rate)))
+    (SBAR
+      (IN of)
+      (S
+        (PP
+          (IN about)
+          (NP
+            (NP (DT a) (NN foot))
+            (PP
+              (IN per)
+              (NP (NN century) (, ,) (VBG forcing) (NN governments)))))
+        (CC and)
+        (NP (NN property) (NN owners))
+        (S+VP
+          (TO to)
+          (VP
+            (VB spend)
+            (VB tens)
+            (PP
+              (IN of)
+              (NP
+                (NP (NNS billions))
+                (PP (IN of) (NP (NNS dollars)))))))
+        (VP (VBG fighting) (NP (JJ coastal) (NN erosion)))
+        (. .)))))"
+"(UCP
+  (CC but)
+  (SBAR
+    (IN if)
+    (S
+      (NP (DT that) (NN rate))
+      (VP
+        (VBD continued)
+        (SBAR+S
+          (, ,)
+          (NP (PRP it))
+          (VP
+            (MD would)
+            (ADVP (RB probably))
+            (VB be)
+            (VB manageable)
+            (S (, ,) (NP (NNS experts)) (VP (VBP say))))))
+      (. .))))"
+"(NP+S
+  (NP (DT the) (NN risk))
+  (VP
+    (VBZ is)
+    (SBAR
+      (IN that)
+      (S
+        (NP (DT the) (NN rate))
+        (VP (MD will) (VB increase) (ADJP (RB still) (JJR more)))
+        (. .)))))"
+"(NP+S
+  (NP
+    (NP (NNS scientists))
+    (SBAR
+      (WHNP (WP who))
+      (S+VP (VBP study) (NP (DT the) (JJ Earths) (NN history)))))
+  (VP
+    (VBP say)
+    (VB waters)
+    (MD could)
+    (VB rise)
+    (PP
+      (IN by)
+      (NP
+        (NP (DT a) (NN foot))
+        (PP
+          (IN per)
+          (NP
+            (NN decade)
+            (SBAR
+              (IN in)
+              (S
+                (NP (DT a) (JJ worst-case) (NN scenario))
+                (, ,)
+                (VP
+                  (PP (IN though) (NP (DT that) (NN looks)))
+                  (ADVP (RB unlikely)))
+                (. .)))))))))"
+"(NP+S
+  (NP (JJ many) (NNS experts))
+  (VP
+    (VBP believe)
+    (SBAR
+      (IN that)
+      (S
+        (ADVP (RB even))
+        (SBAR
+          (IN if)
+          (S
+            (NP (NNS emissions))
+            (VP
+              (VBD stopped)
+              (SBAR+S
+                (NP
+                  (NP (NN tomorrow))
+                  (, ,)
+                  (CD 15)
+                  (CC or)
+                  (CD 20)
+                  (NNS feet)
+                  (PP (IN of) (NP (NN sea) (NN level))))
+                (VP
+                  (VB rise)
+                  (VBZ is)
+                  (ADVP (RB already))
+                  (VB inevitable)
+                  (, ,)
+                  (ADVP
+                    (RB enough)
+                    (PP
+                      (TO to)
+                      (NP
+                        (NP (JJ flood) (JJ many) (NNS cities))
+                        (PP
+                          (IN unless)
+                          (NP
+                            (NP (NNS trillions))
+                            (PP (IN of) (NP (NNS dollars)))))))))))))
+        (VP (VBP are) (VBD spent) (VBG protecting) (NP (PRP them)))
+        (. .)))))"
+"(SBARQ
+  (WHADVP (WRB how) (RB long))
+  (SQ
+    (NP (PRP it))
+    (VP (MD will) (VB take) (VBZ is) (ADJP (JJ unclear))))
+  (. .))"
+"(UCP
+  (CC but)
+  (SBAR
+    (IN if)
+    (S
+      (NP (NNS emissions))
+      (VP
+        (VB continue)
+        (VB apace)
+        (S
+          (, ,)
+          (NP (DT the) (NN ultimate))
+          (VP
+            (VB rise)
+            (MD could)
+            (VB be)
+            (NP (CD 80) (CC or) (CD 100) (NNS feet)))
+          (. .))))))"
+(LST (LS 4) (. .))
+"(SBARQ
+  (SQ
+    (VBZ is)
+    (NP (JJ recent) (NN crazy))
+    (VP
+      (VB weather)
+      (VBN tied)
+      (PP (TO to) (NP (JJ climate) (NN change)))))
+  (. ?))"
+"(SINV
+  (NP (NP (DT some)) (SBAR (IN of) (S (NP (PRP it)) (VP (VBZ is)))))
+  (. .))"
+"(SBARQ
+  (SQ
+    (NP (NNS scientists))
+    (VP
+      (VBP have)
+      (VBD published)
+      (SBAR+S
+        (NP
+          (NP (JJ strong) (NN evidence))
+          (PP (IN that) (NP (DT the) (VBG warming) (NN climate))))
+        (VP
+          (VBZ is)
+          (VBG making)
+          (VB heat)
+          (ADJP
+            (JJ waves)
+            (RBR more)
+            (JJ frequent)
+            (CC and)
+            (JJ intense))))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (PRP it))
+    (VP
+      (VBZ is)
+      (ADVP (RB also))
+      (VBG causing)
+      (NP (JJ heavier) (NN rainstorms))))
+  (, ,)
+  (S
+    (CC and)
+    (VP
+      (VB coastal)
+      (S+VP
+        (VBG flooding)
+        (VBZ is)
+        (VBG getting)
+        (NP
+          (NP (NNS worse))
+          (PP
+            (IN as)
+            (NP
+              (NP (DT the) (JJ oceans) (NN rise))
+              (PP
+                (IN because)
+                (IN of)
+                (NP (JJ human) (NNS emissions))))))))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ global)
+    (S+VP
+      (VBG warming)
+      (VBZ has)
+      (VP
+        (VBN intensified)
+        (VB droughts)
+        (SBAR
+          (IN in)
+          (S
+            (NP
+              (NP (NNS regions))
+              (PP (IN like) (NP (DT the) (NNP Middle) (NNP East))))
+            (, ,)
+            (CC and)
+            (NP (PRP it))
+            (VP
+              (MD may)
+              (VBP have)
+              (VBN strengthened)
+              (NP (DT a) (JJ recent) (NN drought))
+              (PP (IN in) (NP (NNP California)))))))))
+  (. .))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP (JJ many) (JJ other) (NNS cases))
+    (, ,)
+    (PP (IN though) (NP (JJ ) (NN hurricanes)))
+    (, ,)
+    (PP (IN for) (NP (NN example)))
+    (NP
+      (NP
+        (NP (JJ ) (DT the) (NN linkage))
+        (PP (TO to) (NP (JJ global) (NN warming))))
+      (PP (IN for) (NP (JJ particular) (NN trends))))
+    (VP (VBZ is) (VB uncertain) (CC or) (VBN disputed))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (NNS scientists))
+    (VP
+      (VBP are)
+      (ADVP (RB gradually))
+      (VBG improving)
+      (NP
+        (NP (PRP$ their) (NN understanding))
+        (PP
+          (IN as)
+          (NP
+            (NP (NN computer) (NN analyses))
+            (PP (IN of) (NP (DT the) (NN climate))))))))
+  (S (VP (VB grow) (ADJP (RBR more) (JJ powerful))) (. .)))"
+"(SBARQ
+  (NP (NN part) (CD 3))
+  (WHNP (WP What))
+  (SQ (MD can) (NP (PRP we)) (VP (VB do)))
+  (. ?))"
+(LST (LS 1) (. .))
+"(SBARQ
+  (SQ
+    (VBP are)
+    (NP (EX there))
+    (NP
+      (NP (DT any) (JJ realistic) (NN solutions))
+      (PP (TO to) (NP (DT the) (NN problem)))))
+  (. ?))"
+"(UCP
+  (NN yes)
+  (, ,)
+  (CC but)
+  (S
+    (VP
+      (VB change)
+      (VBZ is)
+      (VBG happening)
+      (ADVP (RB too) (RB slowly)))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (NNS society))
+    (VP
+      (VBZ has)
+      (VBN put)
+      (PP
+        (IN off)
+        (NP
+          (NP (NN action))
+          (PP
+            (IN for)
+            (NP
+              (CONJP (RB so) (RB long) (IN that))
+              (DT the)
+              (NNS risks)))))))
+  (S
+    (VP
+      (VBP are)
+      (ADVP (RB now))
+      (VB severe)
+      (S (, ,) (NP (NNS scientists)) (VP (VBP say))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (CC but)
+    (ADVP (RB as) (RB long) (RB as))
+    (NP (EX there))
+    (VP
+      (VBP are)
+      (ADVP (RB still))
+      (VBN unburned)
+      (NP (JJ fossil) (NN fuels))
+      (PP (IN in) (NP (DT the) (NN ground)))))
+  (, ,)
+  (S
+    (NP (PRP it))
+    (VP
+      (VBZ is)
+      (ADJP (RB not) (RB too) (JJ late) (S+VP (TO to) (VP (VB act)))))
+    (. .)))"
+"(NP+S
+  (NP (DT the) (NN warming))
+  (VP
+    (MD will)
+    (VB slow)
+    (PP
+      (TO to)
+      (NP (DT a) (ADJP (RB potentially) (JJ manageable)) (NN pace)))
+    (SBAR
+      (RB only)
+      (WHADVP (WRB when))
+      (S
+        (NP (JJ human) (NNS emissions))
+        (VP (VBP are) (VBN reduced) (PP (TO to) (NP (NNS zero))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (DT the) (JJ good) (NN news))
+    (VP
+      (VBZ is)
+      (SBAR
+        (IN that)
+        (S
+          (NP (PRP they))
+          (VP
+            (VBP are)
+            (ADVP (RB now))
+            (VBG falling)
+            (PP
+              (IN in)
+              (NP
+                (NP
+                  (NP (JJ many) (NNS countries))
+                  (PP (IN as) (NP (DT a) (NN result))))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (NNS programs))
+                    (PP
+                      (IN like)
+                      (NP
+                        (NP (JJ fuel-economy) (NNS standards))
+                        (PP (IN for) (NP (NNS cars))))))))))))))
+  (, ,)
+  (S
+    (NP (JJ stricter) (NN building))
+    (NP (JJ codes) (CC and) (NNS emissions))
+    (VP (VB limits) (PP (IN for) (NP (NN power) (NNS plants))))
+    (. .)))"
+"(SBARQ
+  (WHNP (CC but) (NNS experts))
+  (SQ
+    (VBP say)
+    (NP (DT the) (NN energy))
+    (VP
+      (VB transition)
+      (VBZ needs)
+      (S+VP
+        (TO to)
+        (VP
+          (VB speed)
+          (PRT (RP up))
+          (PP
+            (ADVP (RB drastically))
+            (TO to)
+            (NP
+              (NP
+                (NP (NN head))
+                (PP (IN off) (NP (DT the) (JJS worst) (NN effects))))
+              (PP (IN of) (NP (JJ climate) (NN change)))))))))
+  (. .))"
+(LST (LS 2) (. .))
+"(SBARQ
+  (WHNP (WP what))
+  (SQ (VBZ is) (NP (DT the) (NNP Paris) (NNP Agreement)))
+  (. ?))"
+"(S
+  (ADVP (RB virtually))
+  (NP (DT every) (NN country))
+  (VP
+    (VBN agreed)
+    (S+VP (TO to) (VP (VB limit) (NP (JJ future) (NNS emissions)))))
+  (. .))"
+"(S
+  (NP (DT the) (JJ landmark) (NN deal))
+  (VP
+    (VBD was)
+    (VBN reached)
+    (PP (IN outside) (NP (NNP Paris)))
+    (PP (IN in) (NP (NNP December) (CD 2015))))
+  (. .))"
+"(NP+S
+  (NP (DT the) (NN reductions))
+  (VP
+    (VBP are)
+    (VB voluntary)
+    (S
+      (CC and)
+      (NP (DT the) (NN pledges))
+      (VP
+        (VBP do)
+        (RB not)
+        (VBP do)
+        (RB enough)
+        (PP (TO to) (NP (NN head)))
+        (PP (IN off) (NP (JJ severe) (NN effects))))
+      (. .))))"
+"(S
+  (CC but)
+  (NP (DT the) (NN agreement))
+  (VP
+    (VBZ is)
+    (VBN supposed)
+    (S+VP
+      (TO to)
+      (VP
+        (VB be)
+        (VBD reviewed)
+        (SBAR+S
+          (NP (DT every) (JJ few) (NNS years))
+          (VP
+            (RB so)
+            (PP (IN that) (NP (NNS countries) (NN ramp)))
+            (PP (IN up) (NP (PRP$ their) (NNS commitments))))))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (NN president) (NN Trump))
+    (VP (VBN announced) (PP (IN in) (NP (CD 2017)))))
+  (IN that)
+  (S
+    (NP (PRP he))
+    (VP
+      (MD would)
+      (VB pull)
+      (NP (DT the) (NNP United) (NNPS States))
+      (PRT (RP out))
+      (PP (IN of) (NP (DT the) (NN deal)))))
+  (, ,)
+  (S
+    (PP
+      (IN though)
+      (NP
+        (SBAR
+          (WHNP (WDT that))
+          (S+VP (MD will) (VP (VB take) (NP (NNS years)))))
+        (, ,)))
+    (CC and)
+    (NP (JJ other) (NNS countries))
+    (VP
+      (VBP have)
+      (VBD said)
+      (SBAR+S
+        (NP (PRP they))
+        (VP
+          (MD would)
+          (VB go)
+          (NP
+            (NP (JJ forward) (NN regardless))
+            (PP (IN of) (NP (JJ American) (NN intentions)))))))
+    (. .)))"
+(LST (LS 3) (. .))
+"(SBARQ
+  (SQ
+    (VBZ does)
+    (NP (JJ clean) (NN energy))
+    (VP (VB help) (CC or) (VB hurt) (NP (DT the) (NN economy))))
+  (. ?))"
+"(S
+  (NP
+    (NP (NN job) (NN growth))
+    (PP (IN in) (NP (JJ renewable) (NN energy))))
+  (VP (VBZ is) (ADJP (JJ strong)))
+  (. .))"
+"(S
+  (NP
+    (NP (DT the) (NN energy) (NNS sources))
+    (PP (IN with) (NP (DT the) (JJS lowest) (NNS emissions))))
+  (VP
+    (VBP include)
+    (NP
+      (JJ wind)
+      (NX
+        (NX (NNS turbines))
+        (, ,)
+        (NX (NNS solar))
+        (NX (NNS panels))
+        (, ,)
+        (NX (NNS hydroelectric))
+        (NX (NNS dams))
+        (CC and)
+        (JJ nuclear)
+        (NN power)
+        (NNS stations))))
+  (. .))"
+"(NP+SBAR+S
+  (S
+    (NP (NN power) (NNS plants))
+    (VP (VBG burning) (NP (JJ natural) (NN gas))))
+  (S
+    (ADVP (RB also))
+    (VP
+      (VB produce)
+      (NP
+        (NP (JJR fewer) (NNS emissions))
+        (PP (IN than) (NP (DT those) (VBG burning) (NN coal)))))
+    (. .)))"
+"(S+VP
+  (VBG converting)
+  (TO to)
+  (VP
+    (NP (DT these) (JJ cleaner) (NNS sources))
+    (MD may)
+    (VB be)
+    (S
+      (NP
+        (NP (JJ somewhat) (NN costlier))
+        (PP (IN in) (NP (DT the) (JJ short) (NN term))))
+      (, ,)
+      (CC but)
+      (NP (PRP they))
+      (VP
+        (MD could)
+        (ADVP (RB ultimately))
+        (VB pay)
+        (SBAR
+          (IN for)
+          (S
+            (NP (PRP themselves))
+            (PP
+              (IN by)
+              (S+VP
+                (VBG heading)
+                (PRT (RP off))
+                (NP (JJ climate) (NNS damages))))
+            (CC and)
+            (S+VP (VBG reducing) (NP (NN health) (NNS problems)))
+            (VP
+              (VBN associated)
+              (PP (IN with) (NP (JJ dirty) (NN air))))
+            (. .)))))))"
+"(NP+SBAR+S
+  (S
+    (CC and)
+    (NP (NP (NN expansion)) (PP (IN of) (NP (DT the) (NN market))))
+    (VP (VBZ is) (VBG driving) (PRT (IN down))))
+  (S
+    (NP
+      (DT the)
+      (NP (NNS costs))
+      (PP (IN of) (NP (JJ renewable) (NN energy))))
+    (ADVP
+      (ADVP (RB so) (RB fast))
+      (SBAR
+        (IN that)
+        (S
+          (NP (PRP it))
+          (VP
+            (MD may)
+            (ADVP (RB ultimately))
+            (VB beat)
+            (NP
+              (NP (JJ dirty) (NN energy))
+              (PP (IN on) (NP (NN price))))))))
+    (ADVP (RB alone))
+    (VP
+      (VBZ )
+      (SBAR+S
+        (NP (PRP it))
+        (VP
+          (ADVP (RB already))
+          (VBZ does)
+          (PP (IN in) (NP (DT some) (NNS areas))))))
+    (. .)))"
+"(NP+S
+  (NP
+    (NP (DT the) (NN transition))
+    (PP (TO to) (NP (JJ cleaner) (NN energy))))
+  (VP
+    (ADVP (RB certainly))
+    (VBZ produces)
+    (VB losers)
+    (, ,)
+    (SBAR
+      (IN like)
+      (S
+        (NP (JJ coal) (NNS companies))
+        (, ,)
+        (CC but)
+        (NP (PRP it))
+        (ADVP (RB also))
+        (VP (VB creates) (NP (NNS jobs)))
+        (. .)))))"
+"(S
+  (NP
+    (DT the)
+    (JJ solar)
+    (NN industry)
+    (PP (IN in) (NP (DT the) (NNP United) (NNPS States))))
+  (ADVP (RB now))
+  (VP
+    (VB employs)
+    (NP
+      (NP (JJR more))
+      (PP
+        (IN than)
+        (NP
+          (NP
+            (NP (NNS twice))
+            (PP (IN as) (NP (JJ many) (NNS people))))
+          (PP (IN as) (NP (JJ coal) (NN mining)))))))
+  (. .))"
+(LST (LS 4) (. .))
+"(SBAR
+  (WHNP (WP what))
+  (S
+    (VP
+      (RB about)
+      (VBG fracking)
+      (NP (CC or) (JJ clean) (NN coal)))
+    (. ?)))"
+"(S
+  (NP (DT both))
+  (VP
+    (MD could)
+    (VB help)
+    (VB clean)
+    (PRT (RP up))
+    (NP (DT the) (NN energy) (NN system)))
+  (. .))"
+"(S+ADJP
+  (ADJP (NN hydraulic) (VBG fracturing))
+  (, ,)
+  (ADJP (CC or) (JJ fracking))
+  (, ,)
+  (ADJP
+    (JJ )
+    (S+VP
+      (VBZ is)
+      (VP
+        (NP (CD one))
+        (PP
+          (IN of)
+          (NP (NP (DT a) (NN set)) (PP (IN of) (NP (NN drilling))))))))
+  (ADJP (JJ technologies))
+  (SBAR
+    (IN that)
+    (S
+      (VP
+        (VBZ has)
+        (VBD helped)
+        (VB produce)
+        (NP
+          (NP (DT a) (JJ new) (NN abundance))
+          (PP
+            (IN of)
+            (NP
+              (NP
+                (NP (JJ natural) (NN gas))
+                (PP (IN in) (NP (DT the) (NNP United) (NNPS States))))
+              (CC and)
+              (DT some)
+              (JJ other)
+              (NNS countries)))))
+      (. .))))"
+"(S
+  (NP (VBG burning) (NN gas))
+  (ADVP (RB instead))
+  (PP
+    (IN of)
+    (NP (NP (NNS coal)) (PP (IN in) (NP (NN power) (NNS plants)))))
+  (NP
+    (NP (JJ reduces) (NNS emissions))
+    (PP (IN in) (NP (DT the) (JJ short) (NN run))))
+  (, ,)
+  (PP (IN though) (NP (NN gas)))
+  (VP
+    (VBZ is)
+    (ADVP (RB still))
+    (NP (DT a) (JJ fossil) (NN fuel))
+    (CC and)
+    (MD will)
+    (VBP have)
+    (S+VP
+      (TO to)
+      (VP
+        (VB be)
+        (VBN phased)
+        (PRT (RP out))
+        (PP (IN in) (NP (DT the) (JJ long) (NN run))))))
+  (. .))"
+"(S
+  (NP (DT the) (NN fracking))
+  (NP (PRP itself))
+  (VP
+    (MD can)
+    (ADVP (RB also))
+    (VB create)
+    (NP (JJ local) (NN pollution)))
+  (. .))"
+"(NP+S
+  (NP (JJ Clean) (NN coal))
+  (VP
+    (VBZ is)
+    (NP (DT an) (NN approach))
+    (SBAR
+      (WHPP (IN in) (WHNP (WDT which)))
+      (S
+        (NP
+          (DT the)
+          (NP (NNS emissions))
+          (PP
+            (IN from)
+            (NP (JJ coal-burning) (NN power) (NNS plants))))
+        (VP
+          (MD would)
+          (VB be)
+          (VBN captured)
+          (NP (CC and) (JJ pumped) (NN underground)))
+        (. .)))))"
+"(NP+SBAR+S
+  (S
+    (NP (PRP it))
+    (VP
+      (VBZ has)
+      (ADVP (RB yet))
+      (S+VP
+        (TO to)
+        (VP (VB be) (VB proven) (S+VP (TO to) (VP (VB work)))))))
+  (S
+    (ADVP (RB economically))
+    (, ,)
+    (CC but)
+    (NP (DT some) (NNS experts))
+    (VP
+      (VBP think)
+      (SBAR+S
+        (NP (PRP it))
+        (VP
+          (MD could)
+          (ADVP (RB eventually))
+          (VB play)
+          (NP (DT a) (JJ major) (NN role)))))
+    (. .)))"
+(LST (LS 5) (. .))
+"(SQ+FRAG
+  (ADJP
+    (JJ Whats)
+    (DT the)
+    (JJS latest)
+    (PP (IN with) (NP (JJ electric) (NNS cars))))
+  (. ?))"
+"(S+SBAR
+  (S
+    (NP (NNS sales))
+    (VP (VBP are) (ADVP (RB still)) (ADJP (JJ small) (JJ overall))))
+  (, ,)
+  (S
+    (CC but)
+    (NP (PRP they))
+    (VP (VBP are) (VBG rising) (ADVP (RB fast)))
+    (. .)))"
+"(S
+  (NP (DT the) (NNS cars))
+  (NP
+    (NP (JJ draw) (NN power))
+    (PP
+      (IN at)
+      (NP
+        (NP (NN night))
+        (PP (IN from) (NP (DT the) (JJ electric) (NN grid))))))
+  (CC and)
+  (VP
+    (VB give)
+    (PP
+      (IN off)
+      (NP
+        (NP (DT no) (NN pollution))
+        (PP (IN during) (NP (DT the) (NN day)))))
+    (SBAR
+      (IN as)
+      (S
+        (NP (PRP they))
+        (VP (VB move) (PP (IN around) (NP (NN town)))))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (PRP they))
+    (VP (VBP are) (ADJP (RB inherently) (RBR more) (JJ efficient))))
+  (IN than)
+  (S
+    (NP (JJ gasoline) (NNS cars))
+    (VP (CC and) (MD would) (VB represent) (NP (DT an) (NN advance))))
+  (S
+    (ADVP (RB even))
+    (VP
+      (PP (IN if) (NP (DT the) (NN power)))
+      (VBD were)
+      (VBN generated)
+      (PP (IN by) (NP (VBG burning) (NN coal)))))
+  (, ,)
+  (S
+    (CC but)
+    (NP (PRP they))
+    (VP
+      (MD will)
+      (VB be)
+      (ADJP (RB far) (RBR more) (JJ important))
+      (SBAR
+        (IN as)
+        (S
+          (NP (DT the) (JJ electric) (NN grid))
+          (NP (PRP itself))
+          (VP
+            (VBZ becomes)
+            (VB greener)
+            (PP (IN through) (NP (JJ renewable) (NN power))))
+          (. .))))))"
+"(NP+S
+  (NP (DT the) (NNS cars))
+  (VP
+    (VBP are)
+    (VBG improving)
+    (ADJP (RB so) (JJ fast))
+    (SBAR
+      (IN that)
+      (S
+        (NP (DT some) (NNS countries))
+        (VP
+          (VBP are)
+          (ADVP (RB already))
+          (VBG talking)
+          (PP
+            (IN about)
+            (S+VP
+              (VBG banning)
+              (NP
+                (NP
+                  (NP (DT the) (NN sale))
+                  (PP (IN of) (NP (JJ gasoline) (NNS cars))))
+                (PP (IN after) (NP (CD 2030)))))))
+        (. .)))))"
+(NOT COVERED)
+"(SBARQ
+  (WHNP (WP what))
+  (SQ
+    (VBP are)
+    (VBZ carbon)
+    (NP
+      (JJ taxes)
+      (, ,)
+      (JJ carbon)
+      (NN trading)
+      (CC and)
+      (JJ carbon)
+      (NN offsets)))
+  (. ?))"
+"(FRAG+SBAR
+  (ADVP (RB Its))
+  (ADVP (RB just))
+  (ADVP (RB jargon))
+  (IN for)
+  (S
+    (VP
+      (VBG putting)
+      (NP (NP (DT a) (NN price)) (PP (IN on) (NP (NN pollution)))))
+    (. .)))"
+"(NP+SBAR+S
+  (S
+    (NP (DT the) (JJ greenhouse) (NN gases))
+    (VP
+      (VBG being)
+      (VBN released)
+      (PP (IN by) (NP (JJ human) (NN activity)))))
+  (S
+    (VP
+      (VBP are)
+      (ADJP
+        (ADJP (RB often) (VBN called))
+        (ADVP (NP (JJ carbon) (NN emissions)) (IN for))
+        (JJ short)))
+    (. .)))"
+"(SBAR
+  (WHNP (WDT that))
+  (S+VP
+    (VBZ is)
+    (VP
+      (PP (IN because) (NP (CD two)))
+      (SBAR
+        (IN of)
+        (S
+          (NP (DT the) (ADJP (RBS most) (JJ important)) (NN gases))
+          (, ,)
+          (NP (JJ carbon) (NN dioxide))
+          (NP (CC and) (NNS methane))
+          (, ,)
+          (VP (VBP contain) (ADJP (JJ carbon)))
+          (. .))))))"
+(NOT COVERED)
+"(UCP
+  (SBAR
+    (WHADVP (WRB when))
+    (S
+      (NP (PRP you))
+      (VP (VB hear) (PP (IN about) (NP (JJ carbon) (NN taxes))))))
+  (, ,)
+  (NN carbon)
+  (NN trading)
+  (CC and)
+  (SBAR
+    (IN so)
+    (S
+      (SBAR
+        (IN on)
+        (S
+          (, ,)
+          (NP (DT these))
+          (VP
+            (VBP are)
+            (ADVP (RB just))
+            (NP
+              (NP (JJ shorthand) (NN descriptions))
+              (PP
+                (IN of)
+                (NP
+                  (NN methods)
+                  (S+VP (TO to) (VP (VB put) (NP (DT a) (NN price)))))))
+            (PP (IN on) (NP (NNS emissions))))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (NNS economists))
+          (VP
+            (VBP say)
+            (VBZ is)
+            (NP (CD one))
+            (PP
+              (IN of)
+              (NP
+                (DT the)
+                (ADJP (RBS most) (JJ important))
+                (NN steps))))))
+      (VP
+        (VB society)
+        (MD could)
+        (VB take)
+        (S+VP (TO to) (VP (VB limit) (NP (PRP them)))))
+      (. .))))"
+(NOT COVERED)
+"(S
+  (NP (JJ climate) (NN change))
+  (VP (VBZ seems) (ADJP (RB so) (JJ overwhelming)))
+  (. .))"
+"(SBARQ
+  (WHNP (WP what))
+  (SQ
+    (MD can)
+    (NP (PRP I))
+    (VP
+      (ADVP (RB personally))
+      (VBP do)
+      (PP (IN about) (NP (PRP it)))))
+  (. ?))"
+"(S
+  (VP
+    (VB start)
+    (PP
+      (IN by)
+      (S+VP
+        (VBG sharing)
+        (NP
+          (NP (NP (DT this)) (PP (IN with) (NP (CD 50))))
+          (PP (IN of) (NP (PRP$ your) (NNS friends)))))))
+  (. .))"
+"(NP+SBAR+S
+  (S (NP (NNS experts)) (VP (VBP say)))
+  (S
+    (NP (DT the) (NN problem))
+    (VP
+      (MD can)
+      (RB only)
+      (VB be)
+      (VBN solved)
+      (PP
+        (IN by)
+        (NP (JJ large-scale) (, ,) (JJ collective) (NN action))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ entire) (NNS states))
+    (NP (CC and) (NNS nations))
+    (VP
+      (VBP have)
+      (S+VP
+        (TO to)
+        (VP
+          (VB decide)
+          (S+VP
+            (TO to)
+            (VP
+              (VB clean)
+              (PRT (RP up))
+              (NP (PRP$ their) (NN energy) (NNS systems))))))))
+  (, ,)
+  (S
+    (VP
+      (VBG using)
+      (NP
+        (DT every)
+        (ADJP
+          (JJ tool)
+          (JJ available)
+          (S+VP
+            (CC and)
+            (VBG moving)
+            (RB as)
+            (VP (ADVP (RB quickly)) (PP (IN as) (NP (PRP they))))))
+        (NN can)))
+    (. .)))"
+"(NP+SBAR+S
+  (ADVP (RB so))
+  (S
+    (NP (DT the) (ADJP (RBS most) (JJ important)) (NN thing))
+    (NP (PRP you))
+    (VP
+      (MD can)
+      (VBP do)
+      (VBZ is)
+      (S+VP
+        (TO to)
+        (VP
+          (VB exercise)
+          (NP
+            (NP (PRP$ your) (NNS rights))
+            (PP (IN as) (NP (DT a) (NN citizen))))))))
+  (S
+    (, ,)
+    (VP
+      (VBG speaking)
+      (PRT (RP up))
+      (NP (CC and) (VBG demanding) (NN change)))
+    (. .)))"
+"(SBARQ
+  (SQ
+    (NP (PRP you))
+    (VP
+      (MD can)
+      (ADVP (RB also))
+      (VB take)
+      (VB direct)
+      (NP
+        (NP (JJ personal) (NN action))
+        (SBAR+S+VP
+          (TO to)
+          (VP
+            (VB reduce)
+            (NP
+              (PRP$ your)
+              (ADJP
+                (JJ carbon)
+                (JJ footprint)
+                (PP (IN in) (NP (JJ simple) (NNS ways)))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S+VP (MD will) (VP (VB save) (NP (PRP you))))))
+              (NN money)))))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (PRP you))
+    (VP
+      (MD can)
+      (NP (JJ plug) (NN leaks))
+      (PP
+        (IN in)
+        (NP
+          (PRP$ your)
+          (NN home)
+          (NN insulation)
+          (PP (TO to) (NP (JJ save) (NN power)))))))
+  (, ,)
+  (S
+    (NP (JJ install) (DT a) (JJ smart) (NN thermostat))
+    (, ,)
+    (NP
+      (NP (NNS switch))
+      (PP
+        (TO to)
+        (NP (ADJP (RBR more) (JJ efficient)) (JJ light) (NN bulbs))))
+    (, ,)
+    (VP
+      (VB turn)
+      (PRT (RP off))
+      (UCP
+        (VP (JJ unused))
+        (NN lights)
+        (, ,)
+        (VP
+          (VB drive)
+          (NP
+            (NP (JJR fewer) (NNS miles))
+            (PP (IN by) (NP (VBG consolidating) (NN trips)))))
+        (CC or)
+        (S+VP (VBG taking) (NP (JJ public) (NN transit)))))
+    (, ,)
+    (NP (JJ waste) (JJR less) (NN food))
+    (, ,)
+    (CC and)
+    (VP (VB eat) (ADJP (RBR less) (JJ meat)))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (VBG taking)
+    (QP (CD one) (CC or) (CD two))
+    (JJR fewer)
+    (JJ plane)
+    (JJ rides)
+    (PP
+      (IN per)
+      (NP
+        (NN year)
+        (S+VP
+          (MD can)
+          (VP
+            (VB save)
+            (ADJP
+              (ADVP
+                (RB as)
+                (RB much)
+                (PP
+                  (IN in)
+                  (NP
+                    (NP (NNS emissions))
+                    (PP
+                      (IN as)
+                      (NP (DT all) (DT the) (JJ other) (NNS actions))))))
+              (VBN combined)))))))
+  (. .))"
+"(S+SBAR
+  (IN if)
+  (S
+    (NP (PRP you))
+    (VP
+      (VBP want)
+      (S+VP
+        (TO to)
+        (VP
+          (VB be)
+          (PP (IN at) (NP (DT the) (VBG cutting) (NN edge)))))))
+  (, ,)
+  (S
+    (S
+      (NP (PRP you))
+      (VP
+        (MD can)
+        (VB look)
+        (PP (IN at) (S+VP (VBG buying) (NP (DT an) (NN electric))))))
+    (CC or)
+    (NP (JJ hybrid) (NN car))
+    (CC or)
+    (VP
+      (VBG putting)
+      (NP
+        (NP (JJ solar) (NN panels))
+        (PP (IN on) (NP (PRP$ your) (NN roof)))))
+    (. .)))"
+"(S+SBAR
+  (IN if)
+  (S
+    (NP (PRP$ your) (NN state))
+    (VP
+      (VBZ has)
+      (NP (DT a) (JJ competitive) (NN electricity) (NN market))))
+  (, ,)
+  (S
+    (NP (PRP you))
+    (VP
+      (MD may)
+      (VB be)
+      (ADJP
+        (JJ able)
+        (S+VP
+          (TO to)
+          (VP
+            (VB buy)
+            (NP (NP (CD 100) (NN percent)) (JJ green) (NN power))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (JJ leading) (NNS corporations))
+    (VP
+      (, ,)
+      (S+VP
+        (VBG including)
+        (NP
+          (NP (JJ large) (NNS manufacturers))
+          (PP (IN like) (NP (NN carmakers)))))))
+  (, ,)
+  (S
+    (VP
+      (VBP are)
+      (S+VP
+        (VBG starting)
+        (TO to)
+        (VP
+          (VB demand)
+          (NP
+            (NP (JJ clean) (NN energy))
+            (PP (IN for) (NP (PRP$ their) (NNS operations)))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (PRP you))
+    (VP
+      (MD can)
+      (VB pay)
+      (NP
+        (NP (NN attention))
+        (PP (TO to) (NP (NN company) (NNS policies))))))
+  (S
+    (, ,)
+    (NP (NN support))
+    (NP (DT the) (NNS companies))
+    (VP (VBG taking) (NP (DT the) (NN lead))))
+  (, ,)
+  (S
+    (CC and)
+    (VP
+      (VB let)
+      (NP
+        (DT the)
+        (NP (NNS others))
+        (VP
+          (VBP know)
+          (SBAR+S
+            (NP (PRP you))
+            (VP
+              (VBP expect)
+              (SBAR+S
+                (NP (PRP them))
+                (VP (TO to) (VB do) (ADVP (RBR better)))))))))
+    (. .)))"
+"(SINV
+  (S
+    (NP (DT these) (JJ personal) (NN steps))
+    (VP
+      (MD may)
+      (VB be)
+      (ADJP
+        (JJ small)
+        (PP
+          (IN in)
+          (NP
+            (NP (DT the) (NN scheme))
+            (PP (IN of) (NP (NNS things))))))))
+  (, ,)
+  (S
+    (CC but)
+    (NP (PRP they))
+    (VP
+      (MD can)
+      (VB raise)
+      (NP
+        (PRP$ your)
+        (JJ own)
+        (NN consciousness)
+        (PP (IN about) (NP (DT the) (NN problem))))))
+  (VP (VBZ ))
+  (NP
+    (CC and)
+    (DT the)
+    (NN awareness)
+    (PP
+      (IN of)
+      (NP (DT the) (NP (NNS people)) (PP (IN around) (NP (PRP you))))))
+  (. .))"
+"(NP+SBAR+S
+  (S
+    (PP (IN in) (NP (NN fact)))
+    (, ,)
+    (S+VP
+      (VBG discussing)
+      (NP
+        (NP (DT this) (NN issue))
+        (PP (IN with) (NP (PRP$ your) (NNS friends)))))
+    (NP (CC and) (NN family))
+    (VP
+      (VBZ is)
+      (NP (CD one))
+      (PP
+        (IN of)
+        (NP (DT the) (ADJP (RBS most) (JJ meaningful)) (NNS things)))))
+  (S (NP (PRP you)) (VP (MD can) (VP (VB do))) (. .)))"

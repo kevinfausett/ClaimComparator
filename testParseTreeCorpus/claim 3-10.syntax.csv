@@ -1,0 +1,1053 @@
+"(NP+SBAR+S
+  (S
+    (NP (NNP LeBron) (NNP James))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (DT the) (JJS greatest) (NN player))
+        (PP (IN of) (NP (JJ all-time) (NN Hes))))))
+  (S (VP (VBN done) (NP (PRP it)) (ADVP (RB again))) (. .)))"
+"(S
+  (NP (NNP LeBron) (NNP James))
+  (, ,)
+  (NP (NP (DT the) (NNP King)) (PP (IN in) (NP (DT the) (NNP East))))
+  (, ,)
+  (VP
+    (VBD played)
+    (SBAR+S
+      (NP (CD 48) (NNS minutes))
+      (VP
+        (NP (JJ en) (NN route))
+        (PP
+          (TO to)
+          (NP
+            (PRP$ his)
+            (NX
+              (NX+NX
+                (JJ eighth)
+                (JJ straight)
+                (JJ NBA)
+                (JJ Finals)
+                (NN appearance))
+              (PP
+                (IN after)
+                (S+VP
+                  (VBG beating)
+                  (NP
+                    (NP
+                      (NP (DT the) (NNP Boston) (NNP Celtics))
+                      (PP (IN in) (NP (NNP Game) (CD 7))))
+                    (PP
+                      (IN at)
+                      (NP
+                        (NP (NNP TD) (NNP Garden))
+                        (PP
+                          (IN on)
+                          (NP (NNP Sunday) (, ,) (CD 87-79))))))))))))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (JJ bow)
+    (S+VP
+      (PRT (RP down))
+      (TO to)
+      (VP
+        (NP (DT the) (JJS greatest) (NN player))
+        (PP (IN of) (NP (NN all-time))))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (JJ much)
+    (S+VP
+      (VP
+        (VBZ has)
+        (VBN been)
+        (VBN made)
+        (PP
+          (IN of)
+          (NP
+            (JJ LeBrons)
+            (NP (NN place))
+            (PP
+              (IN in)
+              (NP
+                (NP (NN history))
+                (PP (IN as) (NP (PRP$ his) (NN legacy))))))))
+      (VBZ has)
+      (VBD began)
+      (TO to)
+      (VP
+        (VB galvanize)
+        (PP
+          (IN toward)
+          (NP
+            (NP (DT the) (NN end))
+            (PP (IN of) (NP (PRP$ his) (NN career))))))))
+  (. .))"
+"(S
+  (NP (DT the) (NN conversation))
+  (VP
+    (VBZ has)
+    (VBN raged)
+    (PP
+      (IN on)
+      (NP
+        (ADJP (RB about) (JJ LeBron))
+        (NX
+          (NX (NNS vs.))
+          (NNP Michael)
+          (NNP Jordan)
+          (, ,)
+          (CC or)
+          (NNP Wilt)
+          (NNP Chamberlain)
+          (, ,)
+          (CC or)
+          (NNP Kareem)
+          (NNP Abdul-Jabbar)))))
+  (. .))"
+"(RRC
+  (ADJP (JJ preference))
+  (ADJP (JJ varies))
+  (ADVP (RB greatly))
+  (VP
+    (PP (IN between) (NP (NN fans)))
+    (, ,)
+    (SBAR
+      (IN while)
+      (S
+        (NP (DT some))
+        (ADVP (RB still))
+        (NP (JJ pick) (DT the) (JJ centrist) (NN route))
+        (CC and)
+        (VP
+          (VBP say)
+          (VB theres)
+          (NP
+            (NP (DT no) (JJ simple) (NN way))
+            (PP
+              (TO to)
+              (NP (NP (NNS compare)) (PP (IN across) (NP (NN eras)))))))
+        (. .)))))"
+"(RRC+VP
+  (VBN Theres)
+  (VBN been)
+  (VBN mathematical)
+  (S+VP
+    (VBZ attempts)
+    (TO to)
+    (VP
+      (VB rank)
+      (S
+        (NP (DT the) (CD two))
+        (, ,)
+        (CC and)
+        (ADVP (RB even))
+        (NP (JJ MJs) (JJ old) (NN teammates))
+        (VP
+          (VBP have)
+          (VBD said)
+          (VB LeBron)
+          (VBZ is)
+          (NP (DT a) (ADJP (RBR more) (JJ complete)) (NN player)))
+        (. .)))))"
+"(PRN+SBAR
+  (IN on)
+  (S
+    (NP
+      (NAC
+        (NNP Sunday)
+        (, ,)
+        (NNP James)
+        (NNP bounced)
+        (CC yet)
+        (DT another)
+        (NNP Eastern)
+        (NNP Conference)
+        (NNP Finals)
+        (NNP opponent)
+        (, ,))
+      (NN carrying))
+    (NP
+      (NP (PRP$ his) (NN teammates))
+      (PP (IN on) (NP (PRP$ his) (NN shoulders))))
+    (CC and)
+    (VP
+      (VBG playing)
+      (PP (IN without) (NP (JJ All-Star) (NNP Kevin) (NNP Love))))
+    (. .)))"
+"(SINV
+  (S
+    (NP (EX there))
+    (VP
+      (VBD was)
+      (ADVP (RB never))
+      (NP (DT a) (NN doubt))
+      (PP (IN for) (NP (JJ many) (NN watching)))))
+  (NP
+    (NP (JJ Sundays) (NN matchup))
+    (PP (IN in) (NP (NNP Massachusetts))))
+  (. .))"
+"(PRN+SBAR
+  (IN before)
+  (S
+    (NP (DT the) (JJ final) (NN buzzer))
+    (, ,)
+    (VP
+      (VB LeBron)
+      (VBD had)
+      (VBD won)
+      (NP
+        (CD 23)
+        (JJ straight)
+        (NNP Eastern)
+        (NNP Conference)
+        (JJ playoff)
+        (NN series)))
+    (. .)))"
+"(NP+S
+  (NP (PRP$ his) (NN determination))
+  (VP
+    (VBD was)
+    (VB absolute)
+    (S
+      (, ,)
+      (CC and)
+      (NP (DT the) (NNS cards))
+      (VP
+        (VBD were)
+        (ADVP (RB always))
+        (VBN stacked)
+        (PP
+          (IN against)
+          (NP
+            (NP
+              (NNP Boston)
+              (ADJP (RB even) (VBN given))
+              (PRP$ their)
+              (JJ postseason)
+              (NN record))
+            (PP (IN at) (NP (NN home))))))
+      (. .))))"
+"(SBARQ
+  (SQ
+    (NP (PRP you))
+    (MD could)
+    (NP
+      (NP (NN sort))
+      (PP
+        (IN of)
+        (S+VP (ADVP (RB just)) (VP (VB see) (NP (PRP it))))))
+    (VP (VBG coming)))
+  (. .))"
+"(SQ+VP+VP
+  (VBD james)
+  (VBD was)
+  (NP (DT the) (VBG motivating) (NN force))
+  (PP
+    (IN in)
+    (NP
+      (NP (DT the) (JJ first) (NN half))
+      (SBAR
+        (IN for)
+        (S
+          (NP (NNP Cleveland))
+          (, ,)
+          (S+VP
+            (VBG scoring)
+            (NP
+              (NP (CD 17) (NNS points))
+              (PP (IN while) (NP (DT no) (JJ other) (NN teammates)))))
+          (VP
+            (VBN tallied)
+            (PP (IN in) (NP (JJ double) (NN digits))))
+          (. .))))))"
+"(NP+SBAR+S
+  (S
+    (NP (DT the) (NNP Cavaliers) (NN shot))
+    (NP (DT an) (NN abysmal))
+    (NP
+      (NP (CD 12) (NN percent))
+      (PP (IN from) (NP (JJ beyond) (DT the) (NN arc))))
+    (, ,)
+    (CC and)
+    (NP (DT the) (NNP Celtics))
+    (VP
+      (VBD looked)
+      (SBAR
+        (IN like)
+        (S
+          (NP (PRP they))
+          (VP
+            (MD would)
+            (VB be)
+            (ADJP (JJ able) (PP (TO to) (NP (NN control)))))))))
+  (S
+    (NP
+      (NP (DT the) (NN rest))
+      (PP
+        (IN of)
+        (NP
+          (NP
+            (NP (DT the) (NN game))
+            (PP (IN as) (NP (DT the) (NN crowd))))
+          (PP (IN at) (NP (NN home))))))
+    (VP (VBD motivated) (SBAR+S (NP (PRP them)) (VP (VBP forward))))
+    (. .)))"
+"(FRAG
+  (FRAG
+    (FRAG
+      (NP
+        (NP
+          (NP (NNP LeBron) (NNP James))
+          (PP (IN in) (NP (NNS games) (NN 6&7))))
+        (PP (IN against) (NP (DT the) (JJ NBAs) (NN #1))))
+      (NP (JJ ranked) (NN defense)))
+    (: :)
+    (NP (CD 81) (NNS PTS))
+    (NP (CD 26) (NNS REB)))
+  (NP (NP (CD 18) (NNS AST)) (PP (IN in) (NP (CD 94) (NNS minutes))))
+  (. .))"
+"(S+SBAR
+  (S
+    (NP (JJ ) (NNP Conrad) (NNP Kaczmarek))
+    (PRN (-LRB- () (NP (JJ @) (NN ConradKaz)) (-RRB- )))
+    (NP (NNP May) (CD 28))
+    (, ,)
+    (NP (CD 2018) (NNP But) (NNP Cleveland))
+    (VP
+      (VBD came)
+      (VBG roaring)
+      (PRT (RP back))
+      (PP (IN in) (NP (DT the) (JJ second) (NN half)))))
+  (, ,)
+  (S
+    (S+VP
+      (VBG continuing)
+      (TO to)
+      (VP
+        (VBN put)
+        (PP (IN on) (NP (DT a) (JJ defensive) (NN show)))))
+    (, ,)
+    (NP (DT the) (NN kind))
+    (NP (PRP we))
+    (VP
+      (MD would)
+      (RB not)
+      (VBP have)
+      (VBN expected)
+      (SBAR
+        (IN of)
+        (S
+          (VP
+            (NP (PRP them))
+            (PP (IN during) (NP (DT the) (JJ regular) (NN season))))
+          (. .))))))"
+"(RRC+VP
+  (PP (IN without) (NP (NNP Love) (, ,) (DT the) (NNP Cavs)))
+  (S+VP
+    (VBD had)
+    (TO to)
+    (VP
+      (VB make)
+      (VBP do)
+      (PP (IN with) (NP (NNP Jeff) (NNP Green)))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP
+            (VBN turned)
+            (PP (IN in) (NP (DT a) (JJ surprising) (NN performance))))
+          (. .))))))"
+"(UCP
+  (ADJP (JJ green))
+  (VP (JJ scored))
+  (NP (CD 19) (NNS points))
+  (, ,)
+  (NN shot)
+  (ADJP (CD 50) (NN percent))
+  (PP (IN from) (NP (DT the) (NN field)))
+  (, ,)
+  (CC and)
+  (S (VP (VBN grabbed) (NP (CD eight) (NNS rebounds))) (. .)))"
+"(PRN+SBAR
+  (IN in)
+  (S
+    (NP
+      (NP (DT the) (NN face))
+      (PP (IN of) (NP (DT a) (NN strengthening))))
+    (NP (NNP Cavaliers) (NN attack))
+    (, ,)
+    (NP (DT the) (NNP Celtics))
+    (VP (VBZ seems) (S+VP (TO to) (VP (VB retreat))))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (JJ Bostons)
+    (JJ final)
+    (SBAR+S
+      (NP
+        (NP (JJ offensive) (NN possessions))
+        (PP (IN in) (NP (DT the) (JJ fourth) (NN quarter))))
+      (VP
+        (VBD were)
+        (VB hectic)
+        (UCP (, ,) (ADJP (JJ slow)) (, ,) (CC and) (JJ unsuccessful)))))
+  (. .))"
+"(S+SBAR
+  (IN while)
+  (S
+    (NP (DT the) (NNP Cavaliers))
+    (VP
+      (VBD tried)
+      (SBAR+S
+        (NP
+          (NP
+            (NP (PRP$ their) (NN hardest))
+            (PP
+              (IN during)
+              (NP (DT the) (JJ final) (CD eight) (NNS minutes))))
+          (SBAR+S+VP
+            (TO to)
+            (VP (VB get) (NP (NNP Al) (NNP Horford)))))
+        (VP
+          (VBN switched)
+          (PP
+            (IN on)
+            (S+VP
+              (TO to)
+              (VP
+                (VB LeBron)
+                (PP (IN in) (NP (JJ isolation) (NNS sets))))))))))
+  (, ,)
+  (S
+    (NP (DT the) (NNP Celtics))
+    (ADVP (RB surprisingly))
+    (VP
+      (VBN mirrored)
+      (NP (DT the) (JJ same) (JJ offensive) (NN tactics)))
+    (. .)))"
+"(FRAG+SBAR
+  (ADVP (RB instead))
+  (IN of)
+  (S
+    (S+VP (VBG playing) (NP (PRP$ their) (JJ regular) (NN offense)))
+    (, ,)
+    (CC or)
+    (S+VP
+      (VBG running)
+      (VBZ plays)
+      (TO to)
+      (VP
+        (VB get)
+        (UCP
+          (NN shooters)
+          (JJ free)
+          (, ,)
+          (CC or)
+          (S+VP
+            (VBG trying)
+            (TO to)
+            (VP
+              (VB attack)
+              (NP
+                (NP (DT the) (NN paint))
+                (PP
+                  (IN against)
+                  (NP
+                    (NNP James)
+                    (PRN
+                      (-LRB- ()
+                      (SBAR
+                        (WHNP (WP who))
+                        (S+VP
+                          (VBD was)
+                          (PP (IN in) (NP (JJ foul) (NN trouble)))))
+                      (-RRB- )))
+                    (NNP Boston)))))))))
+    (VP
+      (VBN resorted)
+      (S+VP
+        (TO to)
+        (VP
+          (S+VP
+            (VBG trying)
+            (TO to)
+            (VP (VB exploit) (NP (DT any) (NN mismatches))))
+          (VBN found)
+          (PP (IN through) (NP (JJ Clevelands) (NN switches))))))
+    (. .)))"
+"(S+SBAR
+  (S
+    (NP (DT the) (NN result))
+    (VP
+      (VBD was)
+      (SBAR+S
+        (NP (CD four) (NN field))
+        (VP
+          (VB goals)
+          (VB inside)
+          (NP
+            (DT the)
+            (JJ 3-point)
+            (NN line)
+            (PP
+              (IN for)
+              (NP
+                (NP (NNS LeBron))
+                (PP (IN in) (NP (DT the) (JJ fourth) (NN quarter))))))))))
+  (, ,)
+  (S
+    (VP
+      (ADVP
+        (RB as)
+        (RB much)
+        (PP
+          (IN as)
+          (NP (DT the) (JJ entire) (NNP Celtics) (NNP roster))))
+      (VBN combined))
+    (. .)))"
+"(NP+S
+  (NP (NP (DT the) (NN play)) (PP (IN of) (NP (DT the) (NN game))))
+  (VP
+    (VBD came)
+    (SBAR
+      (IN with)
+      (S
+        (NP
+          (NP (NNS 1:04))
+          (PP
+            (VBG remaining)
+            (IN in)
+            (NP (DT the) (JJ fourth) (NN quarter))))
+        (CC and)
+        (NP (DT the) (NNP Cavaliers))
+        (VP (VBG leading) (PP (IN by) (NP (CD nine))))
+        (. .)))))"
+"(S+SBAR
+  (S
+    (NP (NNS LeBron))
+    (VP
+      (VBD was)
+      (PRT (RP out))
+      (PP (IN on) (NP (DT the) (NN break)))))
+  (, ,)
+  (S
+    (PP (IN with) (NP (NNP Marcus) (NNP Morris)))
+    (VP (VBG trailing) (PP (IN behind) (NP (PRP him))))
+    (. .)))"
+"(SQ+FRAG
+  (ADJP
+    (ADJP
+      (JJ morris)
+      (S+VP
+        (VBD went)
+        (TO to)
+        (VP
+          (VB foul)
+          (VB LeBron)
+          (, ,)
+          (S+VP
+            (VBG making)
+            (NP
+              (NP (DT no) (JJ obvious) (NNS attempts))
+              (PP (IN on) (NP (DT the) (NN ball))))))))
+    (SBAR
+      (IN as)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBN grabbed)
+          (VB onto)
+          (NP (DT the) (NNP Cavaliers) (JJ stars) (NN shoulders))))))
+  (. .))"
+"(FRAG+SBAR
+  (ADVP (RB even))
+  (IN with)
+  (S
+    (NP (NP (DT all)) (PP (IN of) (NP (PRP$ his) (NN might))))
+    (, ,)
+    (NP (NNP Morris) (NNP couldnt))
+    (VP
+      (VB stop)
+      (NP
+        (NNP James)
+        (PP (IN from) (NP (NN scoring)))
+        (PP (IN while) (S+VP (VBG drawing) (NP (DT the) (NN foul))))))
+    (. .)))"
+"(SBAR+S
+  (NP (PRP it))
+  (VP
+    (VBD was)
+    (VB indicative)
+    (PP
+      (IN of)
+      (NP
+        (NP (DT the) (JJ entire) (JJ fourth) (NN quarter))
+        (PP
+          (IN for)
+          (NP
+            (DT the)
+            (NNP Celtics)
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP
+                  (VBN scraped)
+                  (, ,)
+                  (VBN clutched)
+                  (CC and)
+                  (VBN grabbed)
+                  (ADVP (RB as) (RB much))
+                  (SBAR
+                    (IN as)
+                    (S
+                      (NP (PRP they))
+                      (VP
+                        (MD could)
+                        (CC but)
+                        (VBD did)
+                        (RB not)
+                        (VB have)
+                        (NP
+                          (NP (DT an) (NN answer))
+                          (PP (IN for) (NP (NN LeBron))))))))
+                (. .)))))))))"
+"(NP+S
+  (NP (NNP marcus) (NNP Morris))
+  (VP
+    (VBZ is)
+    (VB 69)
+    (S
+      (, ,)
+      (NP (CD 235) (NNS lbs))
+      (CC and)
+      (VP
+        (VB couldnt)
+        (VB stop)
+        (VB LeBron)
+        (PP
+          (IN from)
+          (NP
+            (QP (IN behind) (IN with) (CD two))
+            (JJ full)
+            (NNS hands)
+            (PP (IN on) (NP (PRP$ his) (NN shoulders))))))
+      (. .))))"
+"(SQ+FRAG
+  (ADJP
+    (NN king)
+    (NNP James)
+    (JJ )
+    (RB too)
+    (JJ big)
+    (, ,)
+    (RB too)
+    (JJ strong)
+    (, ,)
+    (RB too)
+    (JJ good))
+  (. .))"
+"(SINV
+  (NP (NP (DT the) (NN series)) (PP (IN in) (NP (DT a) (NN gif))))
+  (. .))"
+"(S
+  (NP (JJ pic.twitter.com/Dw6wxJ2ioJ) (NN ))
+  (NP (NNP Sully) (NNP Engels))
+  (PRN (-LRB- () (NP (JJ @) (NN sullayyy)) (-RRB- )))
+  (NP (NNP May) (CD 28))
+  (, ,)
+  (ADVP (CD 2018) (RB So) (RB here))
+  (NP (PRP we))
+  (VP
+    (VBP are)
+    (, ,)
+    (SBAR
+      (IN with)
+      (S
+        (VP
+          (VB LeBron)
+          (VBG having)
+          (VBD won)
+          (SBAR+S
+            (NP (DT another) (NNP Game) (CD 7))
+            (VP
+              (PRT (RP out))
+              (PP
+                (IN in)
+                (NP
+                  (NP
+                    (DT the)
+                    (NNP Eastern)
+                    (NNP Conference)
+                    (SBAR (IN as) (S (NP (PRP he)) (VP (VBZ heads)))))
+                  (PP (TO to) (NP (DT another) (NNP Finals))))))))
+        (. .)))))"
+"(SBARQ
+  (SQ
+    (NP (PRP he))
+    (VP
+      (ADVP (RB probably))
+      (VB wont)
+      (VB match)
+      (VB Jordans)
+      (NP (JJ championship) (NN mark))))
+  (. .))"
+"(SQ+FRAG
+  (ADJP
+    (CC but)
+    (NP (NNP Jordan) (JJ didnt) (NN match))
+    (JJ Russells))
+  (. .))"
+(SQ+FRAG (ADJP (CC or) (JJ Horrys)) (. .))
+"(S (CC or) (VP (VB Havlicheks) (, ,) (ADVP (RB either))) (. .))"
+"(NP+SBAR+S
+  (ADVP (RB instead))
+  (S
+    (, ,)
+    (NP (PRP we))
+    (VP
+      (VBP have)
+      (S+VP
+        (TO to)
+        (VP
+          (ADVP (RB rely))
+          (PP
+            (IN on)
+            (NP
+              (SBAR
+                (WHNP (WP what))
+                (S
+                  (NP (PRP we))
+                  (VP
+                    (VB see)
+                    (PP
+                      (IN in)
+                      (NP
+                        (NP (NN front))
+                        (PP (IN of) (NP (PRP$ our) (NNS eyes)))))
+                    (VBN combined)
+                    (PP (IN with) (NP (PRP$ their) (NN dominance))))))
+              (, ,)))))))
+  (S (VP (VBN weighted) (PP (IN for) (NP (NN context)))) (. .)))"
+"(NP+S
+  (NP (JJ sunday) (JJ nights) (NN performance))
+  (VP
+    (MD should)
+    (VB help)
+    (VB push)
+    (VB LeBron)
+    (PP
+      (IN over)
+      (NP
+        (NNP Jordan)
+        (, ,)
+        (SBAR
+          (IN if)
+          (S
+            (NP (PRP he))
+            (VP (VB wasnt) (ADVP (RB there)) (ADVP (RB already)))
+            (. .)))))))"
+"(UCP
+  (NN james)
+  (VP
+    (VBZ is)
+    (NP (DT a) (ADJP (RBR more) (JJ complete)) (NN player)))
+  (, ,)
+  (SBAR
+    (WHNP (WDT which))
+    (S+VP (VBZ has) (ADJP (RB always) (VBN been))))
+  (NN apparent)
+  (, ,)
+  (CC and)
+  (S
+    (ADVP (RB now))
+    (VP
+      (VB hes)
+      (VBD survived)
+      (SBAR+S
+        (NP (DT every) (JJ challenge) (NN thats))
+        (VP (VBN been) (VB thrown) (PP (IN at) (NP (PRP him))))))
+    (. .)))"
+"(S+VP
+  (VBG declaring)
+  (NP
+    (NNP James)
+    (DT the)
+    (JJS best)
+    (NN player)
+    (SBAR
+      (IN of)
+      (S
+        (VP
+          (VB all-time)
+          (VBD did)
+          (RB not)
+          (VBN come)
+          (PP (IN because) (IN of) (NP (JJ Sundays) (NN game))))
+        (. .)))))"
+"(VP+SQ
+  (VBZ Its)
+  (NP
+    (NP (VBN been) (NNS years))
+    (PP
+      (IN in)
+      (NP
+        (DT the)
+        (VBG making)
+        (, ,)
+        (SBAR
+          (IN throughout)
+          (S
+            (VP
+              (NP (DT the) (NN entirety))
+              (PP (IN of) (NP (PRP$ his) (JJ 15-year) (NN career))))
+            (. .)))))))"
+"(SBAR
+  (DT the)
+  (S
+    (VP
+      (VB win)
+      (PP (IN over) (NP (NNP Boston)))
+      (VBD was)
+      (ADVP (RB just))
+      (NP (DT an) (NN indication))
+      (PP
+        (IN of)
+        (NP
+          (PRP$ his)
+          (NP (NN place))
+          (PP (IN in) (NP (NN history))))))
+    (. .)))"
+"(UCP
+  (NP (DT the) (NN Lebron-versus-Jordan))
+  (NN debate)
+  (, ,)
+  (CC and)
+  (ADJP
+    (ADJP (RB any) (JJ other))
+    (SBAR
+      (IN like)
+      (S
+        (NP (PRP it))
+        (, ,)
+        (VP
+          (MD should)
+          (RB only)
+          (VB be)
+          (PP (IN about) (NP (VBG comparing) (NN resumes))))
+        (. .)))))"
+"(VP+S+VP
+  (TO to)
+  (VP
+    (RB not)
+    (VBP believe)
+    (SBAR+S
+      (NP (NNP LeBron) (NNP James))
+      (VP
+        (VBZ is)
+        (ADVP (ADVP (RBR better)) (PP (IN at) (NP (NN basketball))))
+        (SBAR
+          (IN than)
+          (S
+            (NP (NNP Michael) (NNP Jordan))
+            (VP
+              (VBZ is)
+              (S+VP
+                (TO to)
+                (VP
+                  (ADVP (RB basically) (RB not))
+                  (VB believe)
+                  (PP (IN in) (NP (JJ human) (NN evolution))))))
+            (. .)))))))"
+"(S
+  (NP (JJ ) (NNP Alden) (NNP Gonzalez))
+  (PRN (-LRB- () (NP (JJ @) (NN Alden_Gonzalez)) (-RRB- )))
+  (NP (NNP May) (CD 28))
+  (, ,)
+  (NP (CD 2018) (NNS LeBron))
+  (VP
+    (VBZ has)
+    (VB gone)
+    (NP
+      (ADJP (JJ nuclear) (PP (IN with) (NP (JJ 40+) (NN point))))
+      (NN performances)))
+  (. .))"
+"(SBARQ
+  (SQ
+    (NP (PRP he))
+    (VP
+      (VBD was)
+      (NP
+        (NP (NN part))
+        (PP (IN of) (NP (DT the) (JJS greatest) (NN comeback))))
+      (PP
+        (IN in)
+        (NP
+          (NP (JJ NBA) (NNP Finals) (NN history))
+          (PP
+            (IN against)
+            (NP (DT the) (NNP Golden) (NNP State) (NNP Warriors)))))))
+  (. .))"
+"(SBAR+S
+  (NP (PRP he))
+  (VP
+    (VB beat)
+    (NP
+      (DT the)
+      (NNP Indiana)
+      (NNP Pacers)
+      (NP (DT all))
+      (SBAR
+        (IN by)
+        (S
+          (NP (PRP himself))
+          (, ,)
+          (PP (IN in) (NP (DT the) (NN playoffs)))
+          (, ,)
+          (VP (ADVP (RB just)) (NP (DT this) (JJ very) (NN season)))
+          (. .))))))"
+"(SBARQ
+  (SQ
+    (VBZ james)
+    (VBZ has)
+    (VBD had)
+    (NP
+      (NP (DT a) (NN career) (NN season))
+      (PP (IN at) (NP (NN age) (CD 33))))
+    (VP
+      (, ,)
+      (S+VP
+        (VBG playing)
+        (NP
+          (NP (CD 48) (NNS minutes))
+          (PP
+            (IN in)
+            (NP
+              (NP (DT the) (JJ 100th) (NN game))
+              (PP (IN of) (NP (DT the) (CD 2017-18) (NN season)))))))))
+  (. .))"
+"(VP+VP
+  (VB LeBron)
+  (VBZ has)
+  (VBN willed)
+  (S+NP
+    (NP (PRP$ his) (NN way))
+    (PP
+      (TO to)
+      (NP
+        (NP (CC yet) (DT another) (NN NBA))
+        (NNP Finals)
+        (, ,)
+        (SBAR
+          (IN with)
+          (S
+            (ADVP (RB perhaps))
+            (NP (PRP$ his) (JJS worst) (NN team))
+            (VP
+              (PP (IN since) (NP (DT the) (CD 2006-07) (NNS squad)))
+              (SBAR
+                (WHNP (WDT that))
+                (S+VP
+                  (VBD was)
+                  (VP
+                    (VB swept)
+                    (PP
+                      (IN by)
+                      (NP
+                        (NP
+                          (DT the)
+                          (NNP San)
+                          (NNP Antonio)
+                          (NNP Spurs)
+                          (PP (IN in) (NP (DT the) (NN seasons))))
+                        (JJ final)
+                        (NN series)))))))
+            (. .)))))))"
+"(VP+S+VP
+  (TO to)
+  (VP
+    (VB add)
+    (S
+      (PP (TO to) (NP (DT the) (NN accomplishment)))
+      (, ,)
+      (VP
+        (VB LeBron)
+        (UCP
+          (VP (JJ pushed))
+          (NP
+            (NP
+              (DT this)
+              (NNP Cavaliers)
+              (JJ squad)
+              (JJ past)
+              (DT a)
+              (ADJP (RB stunningly) (JJ good))
+              (NN team))
+            (PP (IN in) (NP (DT the) (NNP Celtics))))
+          (, ,)
+          (PP (IN on) (NP (DT the) (NN road)))
+          (, ,)
+          (CC and)
+          (PP (IN without) (NP (NNP Love)))))
+      (. .))))"
+"(UCP
+  (NN james)
+  (VP
+    (VBZ is)
+    (NP (DT the) (JJS greatest) (JJ American) (NNS sports)))
+  (NN story)
+  (PP (IN of) (NP (PRP$ our) (NN generation)))
+  (, ,)
+  (CC and)
+  (S
+    (NP (JJ hes) (DT the) (JJS best) (NN player))
+    (NP (DT the) (NN NBA))
+    (VP (VBZ has) (ADVP (RB ever)) (VBN seen))
+    (. .)))"
+"(PRN+SBAR
+  (IN if)
+  (S
+    (NP (PRP you))
+    (VP (VB disagree) (NP (, ,) (JJ thats) (NN OK)))
+    (. .)))"
+"(UCP
+  (CC but)
+  (SBAR
+    (IN after)
+    (S
+      (NP (NNP Sunday) (NN night))
+      (, ,)
+      (VP
+        (VB youd)
+        (VB be)
+        (RB hard)
+        (VBN pressed)
+        (S+VP
+          (TO to)
+          (VP
+            (VBZ convince)
+            (SBAR+S (NP (PRP me)) (VP (VBP otherwise))))))
+      (. .))))"
+"(SBARQ+SQ
+  (`` ``)
+  (NP (PRP We))
+  (VP
+    (VBP 've)
+    (VBN been)
+    (VBN counted)
+    (PRT (RP out))
+    (SBAR
+      (IN for)
+      (S
+        (NP (DT a) (JJ long) (NN time))
+        (NP (DT this) (NN season))
+        (. .)
+        ('' '')))))"
+"(S
+  (NP (NNP LeBron) (NNP James))
+  (VP (VBZ is) (VP (VBN determined)))
+  (. .))"
+(NOT COVERED)
