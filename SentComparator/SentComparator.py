@@ -212,3 +212,21 @@ class SentComparator:
                     if self.cosine_sim(embed1[i], embed2[i]) >= 0.8713053166866302:
                         return 1
                 return 0
+    def oneToManyCompare(self, sentences, target, w2v=None):
+        if w2v:
+            targetv = self.W2VSentence(w2v, target)
+            for i in range(len(sentences)):
+                v1 = v2 = self.W2VSentence(w2v, sentences[i])
+                if self.cosine_sim(v1, targetv) >= 0.9147900938987732:
+                    return 1
+            return 0
+
+        else:
+            with tf.Session() as session:
+                session.run([tf.global_variables_initializer(), tf.tables_initializer()])
+                embed1 = session.run(self.embed(sentences))
+                targete = session.run(self.embed([target]))
+                for i in range(len(embed1)):
+                    if self.cosine_sim(embed1[i], targete) >= 0.8713053166866302:
+                        return 1
+                return 0
