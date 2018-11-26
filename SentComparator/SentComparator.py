@@ -216,9 +216,9 @@ class SentComparator:
         if w2v:
             targetv = self.W2VSentence(w2v, target)
             for i in range(len(sentences)):
-                v1 = v2 = self.W2VSentence(w2v, sentences[i])
+                v1 = self.W2VSentence(w2v, sentences[i])
                 if self.cosine_sim(v1, targetv) >= 0.9147900938987732:
-                    return 1
+                    return sentences[i]
             return 0
 
         else:
@@ -228,5 +228,5 @@ class SentComparator:
                 targete = session.run(self.embed([target]))
                 for i in range(len(embed1)):
                     if self.cosine_sim(embed1[i], targete) >= 0.8713053166866302:
-                        return 1
+                        return sentences[i]
                 return 0

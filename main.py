@@ -5,7 +5,7 @@ from nltk import sent_tokenize
 from SentComparator.SentComparator import SentComparator
 from LogicComparator.LogicComparator import LogicComparator
 from scipy.stats import hmean
-
+import os
 
 def load():
     documents = {}
@@ -23,11 +23,22 @@ def load():
 
 def main():
     # documents = load()
-    # sc = SentComparator()
-    # sc.FindCutoff()
-    # sc.getPearson()
-    # sc.getPrecisionAndRecall()
-
+    sc = SentComparator()
+    path = "../ClaimComparator/testLogicParseCorpus/"
+    files = glob(os.path.join(path, "*logic.csv"))
+    # w2v = sc.loadW2V()
+    for filename in files:
+        with open(filename, "r", encoding='utf-8') as logic, open('results.txt', 'a', encoding='utf-8') as res:
+            print('Processing:', filename)
+            if 'claim 1' in filename:
+               target = 'Bolsanaro won the Brazilian election'
+            elif 'claim 2' in filename:
+                target = 'Climate change is predominantly caused by human activity'
+            else:
+                target = 'Michael Jordan is the greatest basketball player of all time'
+            lines = logic.readlines()
+            match = sc.oneToManyCompare(lines, target)
+            res.write(filename + ': ' + str(match) + '\n')
 
     # print(sc.compare('The sandwich ate the rat', 'The rat ate the sandwich'))
     # print(documents['./testCorpus\claim 3-7.txt'][4])

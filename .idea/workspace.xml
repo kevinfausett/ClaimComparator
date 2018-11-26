@@ -1,12 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="797700dd-f558-4434-9327-73e51a735603" name="Default" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/ClaimComparator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ClaimComparator.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ClaimComparatorModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClaimComparatorModel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SentComparator/SentComparator.py" beforeDir="false" afterPath="$PROJECT_DIR$/SentComparator/SentComparator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 1-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 1-9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 2-9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 3-11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 3-12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 3-14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 3-15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 3-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 3-3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 3-4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 3-5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testIgnoreCorpus/claim 3-8.txt" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/ClaimComparatorModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/ClaimComparatorModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogicParser/LogicParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/LogicParser/LogicParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SyntacticParser/SyntacticParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/SyntacticParser/SyntacticParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stat_parser/viterbi/viterbi_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/stat_parser/viterbi/viterbi_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stat_parser/viterbi/viterbi_pcfg.py" beforeDir="false" afterPath="$PROJECT_DIR$/stat_parser/viterbi/viterbi_pcfg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 2-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCorpus/claim 2-9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCorpus/claim 3-9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testCorpus/claim 3-9.txt" afterDir="false" />
+=======
+    <list default="true" id="396fce37-dded-4d74-bcac-2092820f1510" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ClaimComparator.iml" afterPath="$PROJECT_DIR$/.idea/ClaimComparator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SentComparator/SentComparator.py" afterPath="$PROJECT_DIR$/SentComparator/SentComparator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,35 +77,117 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ClaimComparator$main.coverage" NAME="main Coverage Results" MODIFIED="1542998412552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ClaimComparator$ClaimComparatorModel.coverage" NAME="ClaimComparatorModel Coverage Results" MODIFIED="1541014006678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
   <component name="FileEditorManager">
+<<<<<<< Updated upstream
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="SyntacticParser.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SyntacticParser/SyntacticParser.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="-9">
               <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+=======
+<<<<<<< Updated upstream
+            <state relative-caret-position="186">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
+=======
+            <state relative-caret-position="395">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="ClaimComparatorModel.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ClaimComparatorModel.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="1050">
               <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+=======
+            <state relative-caret-position="350">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+=======
+      <file leaf-file-name="README" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stat_parser/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SentComparator/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SentComparator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SentComparator/SentComparator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="151" column="0" lean-forward="true" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+>>>>>>> Stashed changes
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+                <marker date="1542998682555" expanded="true" signature="5814:6690" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="claim 2-15.syntax.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testParseTreeCorpus/claim 2-15.syntax.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2745" />
+=======
+      <file leaf-file-name="ClaimComparatorModel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClaimComparatorModel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
             </state>
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
           </provider>
         </entry>
       </file>
       <file leaf-file-name="LogicParser.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LogicParser/LogicParser.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="369">
               <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
               <folding>
@@ -70,6 +214,23 @@
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
+=======
+<<<<<<< Updated upstream
+            <state relative-caret-position="270">
+              <caret line="18" column="103" selection-start-line="18" selection-start-column="103" selection-end-line="18" selection-end-column="103" />
+=======
+<<<<<<< Updated upstream
+            <state relative-caret-position="630">
+              <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+=======
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -85,6 +246,7 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+<<<<<<< Updated upstream
       <find>draw</find>
       <find>CKY</find>
       <find>parented</find>
@@ -93,11 +255,13 @@
       <find>this</find>
       <find>1991</find>
       <find>remarkable</find>
+<<<<<<< Updated upstream
       <find>cycles</find>
       <find>in history</find>
       <find>greenhouse gases</find>
       <find>long</find>
       <find>vb shoo</find>
+<<<<<<< Updated upstream
       <find>print</find>
       <find>is_log</find>
       <find>margin</find>
@@ -108,6 +272,15 @@
       <find>(. .)))</find>
       <find>open</find>
       <find>(. .)))&quot;</find>
+=======
+=======
+=======
+      <find>embed</find>
+      <find>pearson</find>
+      <find>median</find>
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -116,6 +289,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/LogicParser.py" />
         <option value="$PROJECT_DIR$/stat_parser/README" />
         <option value="$PROJECT_DIR$/stat_parser/viterbi_parser.py" />
@@ -158,12 +332,43 @@
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
+=======
+        <option value="$PROJECT_DIR$/ClaimComparatorModel.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/SentComparator/SentComparator.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="632" />
+    <option name="height" value="832" />
+>>>>>>> Stashed changes
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,6 +376,7 @@
               <item name="ClaimComparator" type="b2602c69:ProjectViewProjectNode" />
               <item name="ClaimComparator" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< Updated upstream
             <path>
               <item name="ClaimComparator" type="b2602c69:ProjectViewProjectNode" />
               <item name="ClaimComparator" type="462c0819:PsiDirectoryNode" />
@@ -196,16 +402,19 @@
               <item name="ClaimComparator" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+=======
+>>>>>>> Stashed changes
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+<<<<<<< Updated upstream
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -215,6 +424,8 @@
       <recent name="$PROJECT_DIR$/stat_parser/viterbi" />
       <recent name="$PROJECT_DIR$/LogicParser" />
     </key>
+=======
+>>>>>>> Stashed changes
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -228,32 +439,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ClaimComparatorModel">
+  <component name="RunManager" selected="Python.main">
     <configuration name="ClaimComparatorModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ClaimComparator" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Program Files\Python35\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ClaimComparator" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClaimComparatorModel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="LogicParser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+<<<<<<< Updated upstream
+    <configuration name="SentComparator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> Stashed changes
       <module name="ClaimComparator" />
+=======
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> Stashed changes
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< Updated upstream
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogicParser" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -266,23 +486,21 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="SyntacticParser" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ClaimComparator" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SyntacticParser" />
-      <option name="IS_MODULE_SDK" value="true" />
+=======
+      <option name="SDK_HOME" value="C:\Program Files\Python35\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SyntacticParser/SyntacticParser.py" />
+>>>>>>> Stashed changes
+      <module name="ClaimComparator" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< Updated upstream
     <configuration name="viterb_pcfg" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ClaimComparator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,13 +551,47 @@
         <item itemvalue="Python.SyntacticParser" />
         <item itemvalue="Python.viterbi_parser" />
         <item itemvalue="Python.viterb_pcfg" />
+<<<<<<< Updated upstream
+=======
+        <item itemvalue="Python.SentComparator" />
+=======
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ClaimComparatorModel" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ClaimComparatorModel" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396fce37-dded-4d74-bcac-2092820f1510" name="Default" comment="" />
+      <created>1540844562086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540844562086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< Updated upstream
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
@@ -377,24 +629,113 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+=======
+    <frame x="-16" y="-16" width="3232" height="1744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09806452" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988268" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39958593" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+>>>>>>> Stashed changes
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
+<<<<<<< Updated upstream
     <breakpoint-manager>
       <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/testCorpus/claim 3-8.txt">
+=======
+    <entry file="file://$PROJECT_DIR$/testParseTreeCorpus/claim 2-1.syntax.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_parser/viterbi/viterbi_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+<<<<<<< Updated upstream
+            <element signature="e#0#28#0" expanded="true" />
+=======
+            <element signature="e#131#166#0" expanded="true" />
+=======
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/testParseTreeCorpus/claim 2-9.syntax.csv">
+=======
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/stat_parser/README.md">
+>>>>>>> Stashed changes
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_parser/treebanks/normalize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testIgnoreCorpus/claim 2-15.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testIgnoreCorpus/claim 3-8.txt">
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="7" />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/testCorpus/claim 2-13.txt">
+=======
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/testIgnoreCorpus/claim 2-13.txt">
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-135" />
       </provider>
@@ -404,7 +745,54 @@
         <state relative-caret-position="-16350" />
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/testCorpus/claim 2-9.txt">
+=======
+    <entry file="file://$PROJECT_DIR$/testIgnoreCorpus/claim 2-9.txt">
+=======
+    <entry file="file://$PROJECT_DIR$/SyntacticParser/SyntacticParser.py">
+=======
+    <entry file="file://$PROJECT_DIR$/stat_parser/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentComparator/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClaimComparatorModel.py">
+>>>>>>> Stashed changes
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicParser/LogicParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/stat_parser/eval_parser.py">
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
@@ -512,6 +900,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testCorpus/claim 1-7.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="417">
           <caret line="62" column="261" selection-start-line="62" selection-start-column="261" selection-end-line="62" selection-end-column="261" />
         </state>
@@ -521,6 +910,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="80" column="866" selection-start-line="80" selection-start-column="866" selection-end-line="80" selection-end-column="866" />
+=======
+        <state relative-caret-position="15">
+          <caret line="25" column="46" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+=======
+    <entry file="file://$PROJECT_DIR$/SentComparator/SentComparator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4280">
+          <caret line="115" column="30" lean-forward="false" selection-start-line="115" selection-start-column="30" selection-end-line="115" selection-end-column="30" />
+>>>>>>> Stashed changes
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <marker date="1542998682555" expanded="true" signature="5814:6690" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/stat_parser/viterbi/viterbi_pcfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="21" column="71" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="22" column="74" lean-forward="false" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+>>>>>>> Stashed changes
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -557,15 +979,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testCorpus/claim 1-12.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="315">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+=======
+<<<<<<< Updated upstream
+        <state relative-caret-position="1365">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testCorpus/claim 1-13.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="417">
           <caret line="56" column="155" selection-start-line="56" selection-start-column="155" selection-end-line="56" selection-end-column="155" />
+=======
+        <state relative-caret-position="214">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentComparator/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClaimComparatorModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -574,13 +1033,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testCorpus/claim 1-14.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="270">
           <caret line="18" column="371" selection-start-line="18" selection-start-column="371" selection-end-line="18" selection-end-column="371" />
+=======
+<<<<<<< Updated upstream
+        <state relative-caret-position="174">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testCorpus/claim 1-15.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="300">
           <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
         </state>
@@ -602,11 +1068,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3298">
           <caret line="1046" column="12" selection-start-line="1046" selection-start-column="12" selection-end-line="1046" selection-end-column="12" />
+=======
+        <state relative-caret-position="265">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Stashed changes
+          <folding>
+            <element signature="e#131#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/SyntacticParser/SyntacticParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/SentComparator/SentComparator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="62" column="70" lean-forward="true" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <marker date="1542998682555" expanded="true" signature="5814:6690" ph="..." />
+>>>>>>> Stashed changes
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/testCorpus/claim 3-9.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="470" selection-start-line="8" selection-start-column="470" selection-end-line="8" selection-end-column="470" />
+=======
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_parser/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentComparator/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentComparator/SentComparator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <marker date="1542998682555" expanded="true" signature="5814:6690" ph="..." />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testParseTreeCorpus/claim 3-13.syntax.csv">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="349">
           <caret line="322" column="24" selection-start-line="322" selection-start-column="17" selection-end-line="322" selection-end-column="24" />
         </state>
@@ -615,12 +1156,168 @@
     <entry file="file://$PROJECT_DIR$/stat_parser/pcfg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-57">
+=======
+        <state relative-caret-position="520">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicParser/LogicParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClaimComparatorModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicParser/LogicParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_parser/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="true" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClaimComparatorModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicParser/LogicParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicParser/LogicParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stat_parser/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogicParser/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentComparator/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClaimComparatorModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="395">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+=======
+        <state relative-caret-position="520">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
+=======
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/testIgnoreCorpus/claim 1-1.txt">
+=======
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/testParseTreeCorpus/claim 2-15.syntax.csv">
+>>>>>>> Stashed changes
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="103" selection-start-line="18" selection-start-column="103" selection-end-line="18" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/stat_parser/parser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -727,5 +1424,34 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
+=======
+    <entry file="file://$PROJECT_DIR$/testParseTreeCorpus/claim 2-11.syntax.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SentComparator/SentComparator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="151" column="0" lean-forward="true" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+            <marker date="1542998682555" expanded="true" signature="5814:6690" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   </component>
 </project>
