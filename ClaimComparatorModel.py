@@ -5,10 +5,6 @@ from stat_parser.viterbi.viterbi_pcfg import PCFGTrainer
 import csv
 import glob
 import os
-import nltk
-from nltk.corpus import wordnet
-
-nltk.download('wordnet')
 
 
 class ClaimComparatorModel:
@@ -19,52 +15,8 @@ class ClaimComparatorModel:
         self.logic_parser = LogicParser(self.syntax_parser.go())
         self.claims, self.parse_tree = self.logic_parser.go()
 
-
-    # Compares two claims to determine if they are equivalent
-    @staticmethod
-    def claims_equal(c1, c2):
-        subj1, verb1, obj1 = SyntacticParser.parts_of_sentence(c1)
-        subj1 = preprocess_string(subj1)
-        verb1 = preprocess_string(verb1)
-        obj1 = preprocess_string(obj1)
-
-        subj2, verb2, obj2 = SyntacticParser.parts_of_sentence(c2)
-        subj2 = preprocess_string(subj2)
-        verb2 = preprocess_string(verb2)
-        obj2 = preprocess_string(obj2)
-
-        return are_synonymous(subj1, subj2) and are_synonymous(verb1, verb2) and are_synonymous(obj1, obj2)
-
-
-# Strips a leading 'the ' from the string if it exists, and replaces all spaces with underscores
-def preprocess_string(string):
-    if string is not None:
-        if string[:4] == 'the ':
-            return string[4:].replace(' ', '_')
-        else:
-            return string.replace(' ', '_')
-    return string
-
-# Determines if the two given phrases are synonyms
-def are_synonymous(p1, p2):
-    if p1 is None or p2 is None:
-        return p1 is p2
-    p1_set = wordnet.synsets(p1)
-    p2_set = wordnet.synsets(p2)
-    p1_synonyms = []
-    for syn in p1_set:
-        for l in syn.lemmas():
-            p1_synonyms.append(l.name())
-    p2_synonyms = []
-    for syn in p2_set:
-        for l in syn.lemmas():
-            p2_synonyms.append(l.name())
-
-    are_synonyms = False
-    for sense in p1_synonyms:
-        if sense in p2_synonyms:
-            are_synonyms = True
-    return are_synonyms
+    def go(self):
+        return self.logic_parser.go()
 
 def demo(text_here, grammar=None):
     results = []
@@ -116,9 +68,3 @@ def syntactic_parse_all_test_files(grammar=PCFGTrainer().train()):
 # demo(text, grammar=PCFGTrainer().train())
 syntactic_parse_all_test_files()
 # 2.5, 3.1, 3.6, 3.7, 3.9, 3.10, and 3.13 failed
-if __name__ == "__main__":
-    text1 = "The president says the economy is improving."
-    text2 = "The president claims the economy is improving."
-    ccm1 = ClaimComparatorModel(text1)
-    ccm2 = ClaimComparatorModel(text2)
-    print(ClaimComparatorModel.claims_equal(ccm1.parse_tree, ccm2.parse_tree))
