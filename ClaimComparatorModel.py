@@ -14,10 +14,10 @@ class ClaimComparatorModel:
         #     grammar = PCFGTrainer().train()
         self.syntax_parser = SyntacticParser(text, grammar)
         self.logic_parser = LogicParser(self.syntax_parser.go())
+        self.claims, self.parse_tree = self.logic_parser.go()
 
     def go(self):
         return self.logic_parser.go()
-
 
 def demo(text_here, grammar=None):
     results = []
@@ -76,7 +76,7 @@ def syntactic_parse_all_test_files(grammar=PCFGTrainer().train()):
         save_syntactic_parse(SyntacticParser(sent1[i], grammar=grammar).go(False), file_name='stsParsedSent1')
         save_syntactic_parse(SyntacticParser(sent2[i], grammar=grammar).go(False), file_name='stsParsedSent2')
 
-
+       
 def save_logic_parse(logic_parsed, file_name="untitled_save",
                      save_path="../ClaimComparator/testLogicParseCorpus/"):
         full_file_path = save_path + file_name + ".csv"

@@ -3,6 +3,9 @@ from pathlib import Path
 from nltk import sent_tokenize
 # from ClaimComparatorModel import ClaimComparatorModel
 from SentComparator.SentComparator import SentComparator
+from LogicComparator.LogicComparator import LogicComparator
+from scipy.stats import hmean
+
 
 def load():
     documents = {}
@@ -17,12 +20,13 @@ def load():
         documents[file] = doc
     return documents
 
+
 def main():
-    documents = load()
-    sc = SentComparator()
+    # documents = load()
+    # sc = SentComparator()
     # sc.FindCutoff()
     # sc.getPearson()
-    sc.getPrecisionAndRecall()
+    # sc.getPrecisionAndRecall()
 
 
     # print(sc.compare('The sandwich ate the rat', 'The rat ate the sandwich'))
@@ -40,6 +44,11 @@ def main():
     #  'Finals', ']', ',', '[', 'which', 'resurrects', 'the', 'biggest', 'debate', 'in', 'basketball', ':', 'Is',
     #  'LeBron', 'James', 'or', 'the', 'Bulls', "'", 'Michael', 'Jordan', 'the', 'Greatest', 'Player', 'of', 'All-Time',
     #  '?', ']']
+
+    TP, FP, FN = LogicComparator.run_on_sts()
+    precision = (1.0 * TP) / (TP + FP)
+    recall = (1.0 * TP) / (TP + FN)
+    print("Precision: {}\nRecall: {}\nF1 Score: {}".format(precision, recall, hmean([precision, recall])))
 
 
 main()

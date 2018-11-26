@@ -76,7 +76,7 @@ class LogicParser:
     # go: converts parse_tree into pos with ls delimiters
     def go(self):
         self.insert_delimiters()
-        return self.result
+        return self.result, self.parse_tree
 
     def go_get_claims(self):
         if not self.left_bracket_indices:
