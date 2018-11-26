@@ -50,6 +50,31 @@ def syntactic_parse_all_test_files(grammar=PCFGTrainer().train()):
                     file_name = filename.lstrip(path)
                     file_name = file_name.replace("txt", "syntax")
                     save_syntactic_parse(SyntacticParser(sentence, grammar=grammar).go(False), file_name=file_name)
+    f = open('sts-test.csv', encoding='utf-8')
+    lines = f.readlines()
+    labels, sent1, sent2 = [], [], []
+
+    for i in range(len(lines)):
+        splitline = lines[i].split('\t')
+        score = float(splitline[4])
+        s1 = splitline[5]
+        s2 = splitline[6]
+
+        if score >= 4.6:
+            val = '1'
+        else:
+            val = '0'
+        labels.append(val)
+        sent1.append(s1)
+        sent2.append(s2)
+
+
+    l = open('stsParsedLabels', 'a')
+    for i in range(len(sent1)):
+        l.write(labels[i])
+        l.write('\n')
+        save_syntactic_parse(SyntacticParser(sent1[i], grammar=grammar).go(False), file_name='stsParsedSent1')
+        save_syntactic_parse(SyntacticParser(sent2[i], grammar=grammar).go(False), file_name='stsParsedSent2')
 
 
 def save_logic_parse(logic_parsed, file_name="untitled_save",
