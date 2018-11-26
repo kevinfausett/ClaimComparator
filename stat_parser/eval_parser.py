@@ -135,6 +135,7 @@ ALIAS = {
     '-RRB-': ')',
 }
 
+
 class ParseEvaluator(object):
     def __init__(self):
         self.total_score = FScore()
