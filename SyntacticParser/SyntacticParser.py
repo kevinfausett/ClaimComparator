@@ -35,7 +35,9 @@ class SyntacticParser:
     # Returns the subject, main verb, and direct object of the sentence as strings, or None if it can't find that element
     @staticmethod
     def parts_of_sentence(parse_tree):
-        if parse_tree.label()[0] == 'S':
+        if parse_tree.label()[0] == 'S' or '+S' in parse_tree.label():
+            if parse_tree[0].label()[0] == 'S' or '+S' in parse_tree[0].label() and parse_tree[1].label() == '.':
+                return SyntacticParser.parts_of_sentence(parse_tree[0])
             subject = None
             sibling_VP = False
             verb = None
@@ -55,7 +57,7 @@ class SyntacticParser:
             return subject, verb, object
         else:
             for phrase in parse_tree:
-                if phrase.label()[0] == 'S':
+                if phrase.label()[0] == 'S' or '+S' in parse_tree.label():
                     return SyntacticParser.parts_of_sentence(phrase)
 
 
